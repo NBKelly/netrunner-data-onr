@@ -6,6 +6,7 @@
 
 from requests_html import HTMLSession
 from bs4 import BeautifulSoup
+import re
 
 URL = "https://www.emergencyshutdown.net/webminster/sets/"
 SETS = ["base", "proteus", "classic"]
@@ -35,7 +36,7 @@ for SET in SETS:
 
         for index in range(0, len(titles)):
             title = titles[index].text.strip()
-            label = labels[index].text.strip()
+            label = re.sub('[^A-Za-z0-9]+', '', labels[index].text.strip().lower())
             dict[label] = title
 
         print(dict)
