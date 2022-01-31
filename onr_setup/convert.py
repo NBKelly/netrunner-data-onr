@@ -5,6 +5,8 @@ import re
 import functools
 import os
 
+import sys
+
 subtypes = {}
 card_num = 0
 
@@ -16,6 +18,7 @@ def strip_str(str):
 
 def normalize(str):
     str = str.replace("ä", "a")
+    str = str.replace("è", "e")
     str = str.replace("\"", "\\\"")
     return str
 
@@ -33,6 +36,10 @@ def strip_text(str):
     str = str.replace("\n", " ")
     return strip_str(str)
 
+def escape_title(str):
+    str = str.replace("\"", "\\\"")
+    return str
+
 def escape_lines(str):
     str = str.replace("\n", "\\n")
     return strip_str(str)
@@ -43,6 +50,9 @@ def strip_title(str):
 
 def quote(str):
     return '"' + str + '"'
+
+def pre_title(str):
+    return "ONR " + str
 
 def process_subtype(str):
     #{:id :advertisement
@@ -100,10 +110,10 @@ def convert_agenda(card):
     if "subtypes" in card:
         output += "\n :subtype " + process_subtypes(card["subtypes"])
     
-    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
-    output += "\n :stripped-title " + quote(strip_title(card["title"]))
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(card["text"])))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
     output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
-    output += "\n :title " + quote(card["title"])
+    output += "\n :title " + quote(pre_title(card["title"]))
     output += "\n :type :agenda"
     output += "\n :uniqueness false}"
     output += "\n"
@@ -133,14 +143,14 @@ def convert_asset(card):
     output += "\n :influence-cost 1"
     output += "\n :side :corp"
     output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
-    output += "\n :stripped-title " + quote(strip_title(card["title"]))
-
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+ 
     ## check for subtypes                                                                            
     if "subtypes" in card:
         output += "\n :subtype " + process_subtypes(card["subtypes"])
         
     output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
-    output += "\n :title " + quote(card["title"])
+    output += "\n :title " + quote(pre_title(card["title"]))
     output += "\n :trash-cost " + str(card["trashcost"])
     output += "\n :type :asset"
     if "subtypes" in card and re.match("Unique", card["subtypes"]):
@@ -149,12 +159,161 @@ def convert_asset(card):
         output += "\n :uniqueness false}"        
 
     write_file(str(card["title"]), output)            
+
+## note: ANR event = ONR prep
+def convert_event(card):
+    ## ANR Event
+    ##  {:cost 5
+    ##   :deck-limit 3
+    ##   :faction :neutral-runner
+    ##   :id "sure-gamble"
+    ##   :influence-cost 0
+    ##   :side :runner
+    ##   :stripped-text "Gain 9 credits."
+    ##   :stripped-title "Sure Gamble"
+    ##   :text "Gain 9[credit]."
+    ##   :title "Sure Gamble"
+    ##   :type :event
+    ##    :uniqueness false}
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-runner"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :runner"
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(card["text"])))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(card["title"]))
+    output += "\n :type :event"
+    output += "\n :uniqueness false}"        
+    #write to file
+    write_file(str(card["title"]), output)
+
+def convert_resource(card):
+    ##{:cost 2
+    ## :deck-limit 3
+    ## :faction :neutral-runner
+    ## :id "kati-jones"
+    ## :influence-cost 0
+    ## :side :runner
+    ## :stripped-text "blah."
+    ## :stripped-title "Kati Jones"
+    ## :subtype [:connection]
+    ## :text "blah."
+    ## :title "Kati Jones"
+    ## :type :resource
+    ## :uniqueness true}
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-runner"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :runner"
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+ 
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])
+        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(card["title"]))
+    output += "\n :type :resource"
+    if "subtypes" in card and re.match("Unique", card["subtypes"]):
+        output += "\n :uniqueness true}"
+    else:
+        output += "\n :uniqueness false}"        
+
+    write_file(str(card["title"]), output)            
+
+def convert_hardware(card):
+    ## {:cost 1
+    ##  :deck-limit 3
+    ##  :faction :shaper
+    ##  :id "akamatsu-mem-chip"
+    ##  :influence-cost 1
+    ##  :side :runner
+    ##  :stripped-text "+1 mu"
+    ##  :stripped-title "Akamatsu Mem Chip"
+    ##  :subtype [:chip]
+    ##  :text "+1[mu]"
+    ##  :title "Akamatsu Mem Chip"
+    ##  :type :hardware
+    ##  :uniqueness false}
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-runner"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :runner"
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+ 
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])
+        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(escape_title(card["title"])))
+    output += "\n :type :hardware"
+    if "subtypes" in card and re.match("Unique", card["subtypes"]):
+        output += "\n :uniqueness true}"
+    else:
+        output += "\n :uniqueness false}"        
+
+    write_file(str(card["title"]), output)                
+def convert_operation(card):
+    ## ANR Operation
+    ##  {:cost 5
+    ##   :deck-limit 3
+    ##   :faction :neutral-corp
+    ##   :id "hedge-fund"
+    ##   :influence-cost 0
+    ##   :side :corp
+    ##   :stripped-text "Gain 9 credits."
+    ##   :stripped-title "Hedge Fund"
+    ##   :subtype [:transaction]
+    ##   :text "Gain 9[credit]."
+    ##   :title "Hedge Fund"
+    ##   :type :operation
+    ##   :uniqueness false}
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-corp"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :corp"
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(card["title"]))
+    output += "\n :type :operation"
+    output += "\n :uniqueness false}"        
+    #write to file
+    write_file(str(card["title"]), output)
     
 def convert(card):
     if card['type'] == 'Agenda':
         convert_agenda(card)
     if card['type'] == 'Node':
         convert_asset(card)
+    if card['type'] == 'Operation':
+        convert_operation(card)
+    if card['type'] == 'Prep':
+        convert_event(card)
+    if card['type'] == 'Resource':
+        convert_resource(card)
+    if card['type'] == 'Hardware':
+        convert_hardware(card)
+
+    ##todo: program, upgrade
 
 ## convert every input card
 for line in fileinput.input():
