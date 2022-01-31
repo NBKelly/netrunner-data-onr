@@ -2,7 +2,7 @@
 
 # replaces the factions.edn file with one that contains the ONR factions
 
-if ! grep -q "onr_" "edn/factions.edn"; then
+if ! grep -q "onr-" "edn/factions.edn"; then
     echo "didn't find ONR entries - altering factions.edn file"
     FILE=$(<edn/factions.edn)
     FILE=${FILE%?}
