@@ -4,7 +4,7 @@
 
 if ! grep -q "onr_" "edn/factions.edn"; then
     echo "didn't find ONR entries - altering factions.edn file"
-    FILE=`cat edn/factions.edn`
+    FILE=$(<edn/factions.edn)
     FILE=${FILE%?}
     APPEND=`cat onr_setup/factions.edn`
     OUTPUT=$FILE$APPEND
