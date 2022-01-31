@@ -17,3 +17,13 @@ onr_setup/insert_factions.sh
 
 #check the sets entry
 onr_setup/insert_sets.sh
+
+#make the new cards
+python3 onr_setup/convert.py onr_out/stage_one.txt > onr_out/onr_subtypes.edn
+
+#copy over the new cards
+
+#copy over the set-cards file
+
+#compile a new raw data file
+#clj -X nr-data.combine/combine-for-jnet
