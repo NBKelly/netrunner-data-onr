@@ -16,6 +16,7 @@ def strip_str(str):
 
 def normalize(str):
     str = str.replace("ä", "a")
+    str = str.replace("\"", "\\\"")
     return str
 
 def title_to_id(str):
@@ -141,7 +142,7 @@ def convert_asset(card):
     output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
     output += "\n :title " + quote(card["title"])
     output += "\n :trash-cost " + str(card["trashcost"])
-    output += "\n :type asset"
+    output += "\n :type :asset"
     if "subtypes" in card and re.match("Unique", card["subtypes"]):
         output += "\n :uniqueness true}"
     else:
