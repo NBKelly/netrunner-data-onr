@@ -11,14 +11,22 @@ subtypes = {}
 card_num = 0
 
 def to_file_name(title):
-    return "onr_out/cards/" + title_to_id(title) + ".edn"
+    return "onr_out/cards/" + strip_str(title_to_id(title)) + ".edn"
 
 def strip_str(str):
     return normalize(str.replace("\r", "").replace("\t", ""))
 
+def strength(str):
+    if str == "*" or str == "x" or str == "X":
+        return "0"
+    return str
+
 def normalize(str):
     str = str.replace("ä", "a")
     str = str.replace("è", "e")
+    str = str.replace("é", "e")
+    str = str.replace("π", "pi")
+    str = str.replace("\317\200", "pi")
     str = str.replace("\"", "\\\"")
     return str
 
@@ -160,6 +168,49 @@ def convert_asset(card):
 
     write_file(str(card["title"]), output)            
 
+def convert_upgrade(card):
+    ## ANR Upgrade:
+    ## {:cost 1
+    ##  :deck-limit 3
+    ##  :faction :haas-bioroid
+    ##  :id "jinja-city-grid"
+    ##  :influence-cost 2
+    ##  :side :corp
+    ##  :stripped-text "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4 credits less. Limit 1 region per server."
+    ##  :stripped-title "Jinja City Grid"
+    ##  :subtype [:region]
+    ##  :text "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[credit] less.\nLimit 1 <strong>region</strong> per server."
+    ##  :title "Jinja City Grid"
+    ##  :trash-cost 5
+    ##  :type :upgrade
+    ##  :uniqueness false}
+
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-corp"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :corp"
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+ 
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])
+        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(card["title"]))
+    if "trashcost" in card:
+        output += "\n :trash-cost " + str(card["trashcost"])
+    output += "\n :type :upgrade"
+    if "subtypes" in card and re.match("Unique", card["subtypes"]):
+        output += "\n :uniqueness true}"
+    else:
+        output += "\n :uniqueness false}"        
+
+    write_file(str(card["title"]), output)            
+
+    
 ## note: ANR event = ONR prep
 def convert_event(card):
     ## ANR Event
@@ -265,7 +316,94 @@ def convert_hardware(card):
     else:
         output += "\n :uniqueness false}"        
 
-    write_file(str(card["title"]), output)                
+    write_file(str(card["title"]), output)
+
+def convert_program(card):
+    ## {:cost 5
+    ##  :deck-limit 3
+    ##  :faction :shaper
+    ##  :id "adept"
+    ##  :influence-cost 3
+    ##  :memory-cost 2
+    ##  :side :runner
+    ##  :strength 2
+    ##  :stripped-text "This program gets +1 strength for each unused MU. Interface -> 2 credits: Break 1 sentry or barrier subroutine."
+    ##  :stripped-title "Adept"
+    ##  :subtype [:icebreaker :fracter :killer]
+    ##  :text "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or <strong>barrier</strong> subroutine."
+    ##  :title "Adept"
+    ##  :type :program
+    ##  :uniqueness false}
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-runner"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+
+    if "memory" in card:
+        output += "\n :memory-cost " + str(card["memory"])
+    
+    output += "\n :side :runner"
+
+    if "memory" in card:
+        output += "\n :strength " + strength(str(card["memory"]))
+        
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+ 
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])
+        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(escape_title(card["title"])))
+    output += "\n :type :program"
+    if "subtypes" in card and re.match("Unique", card["subtypes"]):
+        output += "\n :uniqueness true}"
+    else:
+        output += "\n :uniqueness false}"        
+
+    write_file(str(card["title"]), output)
+    
+def convert_ice(card):
+    ## {:cost 1
+    ##  :deck-limit 3
+    ##   :faction :weyland-consortium
+    ##   :id "ice-wall"
+    ##   :influence-cost 1
+    ##   :side :corp
+    ##   :strength 1
+    ##   :stripped-text "You can advance this ice. It gets +1 strength for each hosted advancement counter. Subroutine End the run."
+    ##   :stripped-title "Ice Wall"
+    ##   :subtype [:barrier]
+    ##   :text "You can advance this ice. It gets +1 strength for each hosted advancement counter.\n[subroutine] End the run."
+    ##   :title "Ice Wall"
+    ##   :type :ice
+    ##   :uniqueness false}
+
+    output = "{:cost " + card["cost"]
+    output += "\n :deck-limit 99"
+    output += "\n :faction :onr-corp"
+    output += "\n :id " + quote(title_to_id(card["title"]))
+    output += "\n :influence-cost 1"
+    output += "\n :side :corp"
+    output += "\n :strength " + strength(str(card["strength"]))
+    output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
+    output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
+    ## check for subtypes                                                                            
+    if "subtypes" in card:
+        output += "\n :subtype " + process_subtypes(card["subtypes"])        
+    output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
+    output += "\n :title " + quote(pre_title(card["title"]))
+    output += "\n :type :ice"
+    if "subtypes" in card and re.match("Unique", card["subtypes"]):
+        output += "\n :uniqueness true}"
+    else:
+        output += "\n :uniqueness false}"        
+
+    #write to file
+    write_file(str(card["title"]), output)
+    
 def convert_operation(card):
     ## ANR Operation
     ##  {:cost 5
@@ -306,14 +444,20 @@ def convert(card):
         convert_asset(card)
     if card['type'] == 'Operation':
         convert_operation(card)
+    if card['type'] == 'Ice':
+        convert_ice(card)
+    if card['type'] == 'Upgrade':
+        convert_upgrade(card)
     if card['type'] == 'Prep':
         convert_event(card)
     if card['type'] == 'Resource':
         convert_resource(card)
     if card['type'] == 'Hardware':
         convert_hardware(card)
+    if card['type'] == 'Program':
+        convert_program(card)
 
-    ##todo: program, upgrade
+    ##todo: program
 
 ## convert every input card
 for line in fileinput.input():
