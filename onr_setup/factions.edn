@@ -1,9 +1,9 @@
 
- {:id :onr_runner
+ {:id :onr-runner
   :is-mini false
   :name "ONR Runner"
   :side :runner} 
- {:id :onr_corp
+ {:id :onr-corp
   :is-mini false
   :name "ONR Corp"
   :side :corp})
