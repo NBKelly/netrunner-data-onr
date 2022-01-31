@@ -1,6 +1,6 @@
 # Goal
 
-Convert the ONR cards into a format usable by Jinteki. 
+Convert the ONR cards into a format usable by ~~Jinteki~~ a teki style website. 
 
 The cards will be placed under the factions "onr_corp" and "onr_runner", and all the card titles will be prefaced by "onr_" to maintain compatability.
 
@@ -15,6 +15,7 @@ Types will be mapped to the android: netrunner counterparts, and two new IDs wil
 * map card representations into identical formats/types as jinteki representations
 * ~~insert onr factions into data~~
 * ~~insert onr cycles into data~~
+* ~~insert onr sets into data~~
 * add card entries in edn/set-cards
 * add the actual card entries 
 * automate all of this so that it can be realistically done on any release of netrunner-data
