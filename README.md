@@ -14,7 +14,7 @@ Types will be mapped to the android: netrunner counterparts, and two new IDs wil
 * seperate cards within set by type
 * map card representations into identical formats/types as jinteki representations
   * ~~map agendas~~
-  * map assets
+  * ~~map assets~~
   * map operations
   * map ice
   * map upgrades
@@ -26,9 +26,13 @@ Types will be mapped to the android: netrunner counterparts, and two new IDs wil
 * ~~insert onr cycles into data~~
 * ~~insert onr sets into data~~
 * insert all the new subtypes into data
-* add card entries in edn/set-cards
+* add card entries in edn/set-cards (these are created, automate placement)
 * add the actual card entries 
 * automate all of this so that it can be realistically done on any release of netrunner-data
+
+Then later, do:
+* split the cards into the representative sits (base, proteus, classic)
+* add illustrator information back in
 
 To convert, use the `onr_setup.sh` script.
 
