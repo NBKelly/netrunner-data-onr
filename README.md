@@ -26,7 +26,7 @@ Types will be mapped to the android: netrunner counterparts, and two new IDs wil
 * ~~insert onr sets into data~~
 * insert all the new subtypes into data
 * ~~add card entries in edn/set-cards (these are created, automate placement)~~
-* ~~add the actual card entries ~~
+* ~~add the actual card entries into the edn/cards folder~~
 * automate all of this so that it can be realistically done on any release of netrunner-data
 * add in onr identities
 * add in onr format containing only onr cycles
