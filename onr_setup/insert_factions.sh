@@ -8,7 +8,7 @@ if ! grep -q "onr_" "edn/factions.edn"; then
     FILE=${FILE%?}
     APPEND=`cat onr_setup/factions.edn`
     OUTPUT=$FILE$APPEND
-    echo $OUTPUT > "edn/factions.edn"
+    echo "$OUTPUT" > "edn/factions.edn"
 else
     echo "ONR factions already exist"
 fi

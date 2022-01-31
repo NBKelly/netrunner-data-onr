@@ -14,3 +14,6 @@ onr_setup/insert_cycles.sh
 
 #check the factions entry
 onr_setup/insert_factions.sh
+
+#check the sets entry
+onr_setup/insert_sets.sh
