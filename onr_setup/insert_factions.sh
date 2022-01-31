@@ -3,8 +3,13 @@
 # replaces the factions.edn file with one that contains the ONR factions
 
 if ! grep -q "onr_" "edn/factions.edn"; then
-    echo "didn't find ONR entries - replacing factions.edn file"
-    cp "onr_setup/factions.edn" "edn/factions.edn"
+    echo "didn't find ONR entries - altering factions.edn file"
+    FILE=`cat edn/factions.edn`
+    FILE=${FILE%?}
+    echo $FILE
+    APPEND=`cat onr_setup/factions.edn`
+    OUTPUT=$FILE$APPEND
+    echo $OUTPUT > "edn/factions.edn"
 else
     echo "ONR factions already exist"
 fi
