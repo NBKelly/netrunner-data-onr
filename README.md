@@ -19,6 +19,10 @@ Types will be mapped to the android: netrunner counterparts, and two new IDs wil
 * add the actual card entries 
 * automate all of this so that it can be realistically done on any release of netrunner-data
 
+To convert, use the `onr_setup.sh` script.
+
+To figure out how to use the data, refer to https://github.com/mtgred/netrunner/issues/6202
+
 # netrunner-cards-edn
 
 The clojure app is internal only, p much. If you want the edn data, look under `/edn`.
