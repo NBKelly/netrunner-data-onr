@@ -1,0 +1,13 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :onr-runner
+ :id "onr-braniac"
+ :influence-limit 25
+ :minimum-deck-size 40
+ :side :runner
+ :stripped-text "A true running enjoyer."
+ :stripped-title "ONR Braniac: Running Enjoyer"
+ :text "A true running enjoyer."
+ :title "ONR Braniac: Running Enjoyer"
+ :type :identity
+ :uniqueness false}
