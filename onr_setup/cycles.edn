@@ -1,15 +1,6 @@
-{:id "onr-base"
-  :name "Base"
+
+{:id "onr-cards"
+  :name "Netrunner Classic"
   :position 700
   :rotated false
-  :size 374}
-{:id "onr-classic"
-  :name "Classic"
-  :position 701
-  :rotated false
-  :size 52}
-{:id "onr-proteus"
-  :name "Proteus"
-  :position 702
-  :rotated false
-  :size 154}]
+  :size 580}

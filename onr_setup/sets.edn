@@ -1,0 +1,11 @@
+
+{:code "onrcards"
+  :cycle-id "onr-base"
+  :date-release "1996-04-26"
+  :deluxe true
+  :ffg-id nil
+  :id "onr-base"
+  :name "ONR Base Set (v1.0)"
+  :position 1
+  :set-type :core
+  :size 580}
