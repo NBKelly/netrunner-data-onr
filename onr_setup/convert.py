@@ -10,6 +10,9 @@ import sys
 subtypes = {}
 card_num = 0
 
+#dict of card id : artist, link to art
+art = {}
+
 def to_file_name(title):
     return "onr_out/cards/" + strip_str(title_to_id(title)) + ".edn"
 
@@ -457,12 +460,28 @@ def convert(card):
     if card['type'] == 'Program':
         convert_program(card)
 
-    ##todo: program
+    #dict of card id : artist, link to art
+    #art = {}
+    #get id of card
+    _dict_key = title_to_id(card["title"])
+    #get artist
+    _dict_artist = card["artist"]
+    #get link
+    _dict_image = card["image"]
+    art[_dict_key] = [_dict_artist, _dict_image]
+    
+
 
 ## convert every input card
 for line in fileinput.input():
     card = ast.literal_eval(line.replace("\r", ""))
     convert(card)
+
+## print all art information to a seperate file
+filename = "onr_out/art_inter.txt"
+os.makedirs(os.path.dirname(filename), exist_ok=True)
+with open(filename, "w") as f:
+    f.write(str(art))
 
 ## print out all the subtypes that have been gathered
 for key in subtypes:
