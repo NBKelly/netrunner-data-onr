@@ -6,16 +6,26 @@ The cards will be placed under the factions "onr_corp" and "onr_runner", and all
 
 Types will be mapped to the android: netrunner counterparts, and two new IDs will be added.
 
-### Workflow
+### Workflow/Road-map
 
 * ~~scrape data from emergency shutdown~~
 * scrape card images from emergency shutdown
 * seperate cards by set
 * seperate cards within set by type
 * map card representations into identical formats/types as jinteki representations
+  * ~~map agendas~~
+  * map assets
+  * map operations
+  * map ice
+  * map upgrades
+  * map events
+  * map programs
+  * map hardware
+  * map resources
 * ~~insert onr factions into data~~
 * ~~insert onr cycles into data~~
 * ~~insert onr sets into data~~
+* insert all the new subtypes into data
 * add card entries in edn/set-cards
 * add the actual card entries 
 * automate all of this so that it can be realistically done on any release of netrunner-data
