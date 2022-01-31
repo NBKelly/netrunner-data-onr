@@ -21,6 +21,7 @@ onr_setup/insert_sets.sh
 #make the new cards
 python3 onr_setup/convert.py onr_out/stage_one.txt > onr_out/onr_subtypes.edn
 cp onr_setup/onr-braniac.edn onr_out/cards/.
+cp onr_setup/onr-friend-corp.edn onr_out/cards/.
 
 #create the set-cards entry and copy it over
 onr_setup/insert_set_cards.sh > "onr_out/onr-base.edn"
