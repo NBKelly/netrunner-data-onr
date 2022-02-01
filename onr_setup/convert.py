@@ -485,6 +485,6 @@ with open(filename, "w") as f:
 
 ## print out all the subtypes that have been gathered
 for key in subtypes:
-    print(key)
+#    print(key)
     print(subtypes[key])
     

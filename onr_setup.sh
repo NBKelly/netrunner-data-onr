@@ -33,9 +33,11 @@ cp onr_out/onr-base.edn edn/set-cards/.
 cp onr_out/cards/*.edn edn/cards/.
 
 #copy over all the onr subtypes
+onr_setup/insert_subtypes.sh
 
 #scrape all the images
 onr_setup/image_fetch.sh
+mogrify -format png onr_out/images/*.jpg
 
 #compile a new raw data file
 clj -X nr-data.combine/combine-for-jnet

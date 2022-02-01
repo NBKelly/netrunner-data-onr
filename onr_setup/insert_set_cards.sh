@@ -3,7 +3,7 @@
 FILENAME="onr_out/onr-base.edn"
 FILES="onr_out/cards/*.edn"
 
-counter=700001
+counter=70001
 position=1
 echo -n "" > "onr_out/image_urls.txt"
 echo -n '['
