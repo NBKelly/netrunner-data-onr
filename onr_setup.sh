@@ -19,13 +19,17 @@ onr_setup/insert_factions.sh
 onr_setup/insert_sets.sh
 
 #make the new cards
+echo "creating card entries"
 python3 onr_setup/convert.py onr_out/stage_one.txt > onr_out/onr_subtypes.edn
 cp onr_setup/onr-braniac.edn onr_out/cards/.
 cp onr_setup/onr-friend-corp.edn onr_out/cards/.
 
 #create the set-cards entry and copy it over
+echo "associating sets and finding artist information"
 onr_setup/insert_set_cards.sh > "onr_out/onr-base.edn"
 cp onr_out/onr-base.edn edn/set-cards/.
+
+
 
 #copy over the new cards
 cp onr_out/cards/*.edn edn/cards/.

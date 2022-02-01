@@ -9,9 +9,16 @@ echo -n '['
 for f in $FILES
 do
     idline=$(grep ':id' $f)
+    smallid=${idline/" :id "/""}
+    smallid=${smallid%?}
+    smallid=${smallid:1}
+
+    #use smallid to get the artist information
+    artist=`echo $smallid | python3 onr_setup/artist_lookup.py`
+#    echo "$artist"
     echo ${idline/":id"/"{:card-id"}
     echo ' :code "'$counter'"'
-    echo ' :illustrator "Unknown (will add later)"'
+    echo ' :illustrator "'$artist'"'
     echo ' :position '$position
     echo ' :quantity 99'
     echo ' :set-id "onr-base"}'
