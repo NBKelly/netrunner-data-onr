@@ -29,12 +29,13 @@ echo "associating sets and finding artist information"
 onr_setup/insert_set_cards.sh > "onr_out/onr-base.edn"
 cp onr_out/onr-base.edn edn/set-cards/.
 
-
-
 #copy over the new cards
 cp onr_out/cards/*.edn edn/cards/.
 
 #copy over all the onr subtypes
+
+#scrape all the images
+onr_setup/image_fetch.sh
 
 #compile a new raw data file
 clj -X nr-data.combine/combine-for-jnet
