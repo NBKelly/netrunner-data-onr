@@ -6,6 +6,9 @@ The cards will be placed under the factions "onr_corp" and "onr_runner", and all
 
 Types will be mapped to the android: netrunner counterparts, and two new IDs will be added.
 
+### Proof of Concept
+![Old cards!](oldteki.jpg "New headaches")
+
 ### TODO
 I still need to actually seperate the cards by set, add in an onr format and onr factions, and a format containing only onr cycles. I can modify the edn files, but I suspect there's a bit more than needs to be done for this to come through.
 
