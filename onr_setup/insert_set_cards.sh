@@ -5,6 +5,7 @@ FILES="onr_out/cards/*.edn"
 
 counter=700001
 position=1
+echo -n "" > "onr_out/image_urls.txt"
 echo -n '['
 for f in $FILES
 do
@@ -15,6 +16,8 @@ do
 
     #use smallid to get the artist information
     artist=`echo $smallid | python3 onr_setup/artist_lookup.py`
+    url=`echo $smallid | python3 onr_setup/image_lookup.py`
+    echo "$counter $url" >> "onr_out/image_urls.txt"
 #    echo "$artist"
     echo ${idline/":id"/"{:card-id"}
     echo ' :code "'$counter'"'
