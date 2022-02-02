@@ -29,7 +29,8 @@ for SET in SETS:
         card_image_url = box.find(class_="onr_img")['src']        
         #print(card_image_url)
         dict['image'] = card_image_url
-
+        dict['set'] = SET
+        
         sub = box.find(class_="col-md-offset-1 col-md-7")
         titles = sub.find_all("span", id="title")
         labels = sub.find_all("label")

@@ -111,7 +111,7 @@ def convert_agenda(card):
     ##   :type :agenda
     ##   :uniqueness false}
     output = "{:advancement-requirement " + str(card["difficulty"])
-    output += "\n :agenda-points " + str(card["difficulty"])
+    output += "\n :agenda-points " + str(card["agendapoints"])
     output += "\n :deck-limit 99"
     output += "\n :faction :onr-corp"
     output += "\n :id " + quote(title_to_id(str(card["title"])))
