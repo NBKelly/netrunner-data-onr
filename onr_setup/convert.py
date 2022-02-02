@@ -348,8 +348,8 @@ def convert_program(card):
     
     output += "\n :side :runner"
 
-    if "memory" in card:
-        output += "\n :strength " + strength(str(card["memory"]))
+    if "strength" in card:
+        output += "\n :strength " + strength(str(card["strength"]))
         
     output += "\n :stripped-text " + quote(strip_text(replace_credits(str(card["text"]))))
     output += "\n :stripped-title " + quote(pre_title(strip_title(card["title"])))
