@@ -8,6 +8,11 @@ from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 import re
 
+def replace(str):
+    if str == "Leland, Corportate Bodyguard":
+        return "Leland, Corporate Bodyguard"
+    return str
+
 URL = "https://www.emergencyshutdown.net/webminster/sets/"
 SETS = ["base", "proteus", "classic"]
 
@@ -24,7 +29,7 @@ for SET in SETS:
         dict = {}
         card_title = box.find(class_='panel-heading').text.strip()
         #print(card_title)
-        dict['title'] = card_title
+        dict['title'] = replace(card_title)
         
         card_image_url = box.find(class_="onr_img")['src']        
         #print(card_image_url)
