@@ -45,4 +45,12 @@
  {:id :weyland-consortium
   :is-mini false
   :name "Weyland Consortium"
+  :side :corp}
+ {:id :onr-runner
+  :is-mini false
+  :name "ONR Runner"
+  :side :runner} 
+ {:id :onr-corp
+  :is-mini false
+  :name "ONR Corp"
   :side :corp})
