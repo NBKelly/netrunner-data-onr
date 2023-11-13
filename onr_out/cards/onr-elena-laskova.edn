@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-elena-laskova"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Whenever you play a prep, gain an additional 1 credit the first time you gain bits from its effect. Only one unique card of a particular name can be in play at a time.  If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Elena Laskova"
+ :subtype [:onr-connection :onr-unique]
+ :text "Whenever you play a prep, gain an additional 1 [credit] the first time you gain bits from its effect.\nOnly one unique card of a particular name can be in play at a time. \nIf for some reason more than one is in play, trash all but one."
+ :title "ONR Elena Laskova"
+ :type :resource
+ :uniqueness false}

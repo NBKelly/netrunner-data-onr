@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-crash-space"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 1 credit at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2 credit.  A: Trash Crash Space.  Only one unique card of a particular name can be in play at a time.  If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Crash Space"
+ :subtype [:onr-unique]
+ :text "Gain 1 [credit] at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2 [credit]. \nA: Trash Crash Space. \nOnly one unique card of a particular name can be in play at a time. \nIf for some reason more than one is in play, trash all but one."
+ :title "ONR Crash Space"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bug-zapper"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditDo 2 Net damage for each rezzed piece of ice installed outside Bug Zapper. S creditEnd the run."
+ :stripped-title "ONR Bug Zapper"
+ :subtype [:onr-sentry :onr-ap :onr-hellbolt]
+ :text "S [credit]Do 2 Net damage for each rezzed piece of ice installed outside Bug Zapper.\nS [credit]End the run."
+ :title "ONR Bug Zapper"
+ :type :ice
+ :uniqueness false}

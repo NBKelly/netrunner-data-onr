@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-core-command-jettison-ice"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ this turn. Pay the rez cost of a piece of rezzed ice to trash it."
+ :stripped-title "ONR Core Command Jettison Ice"
+ :subtype [:onr-sabotage]
+ :text "Play only if you made a successful run on HQ this turn. Pay the rez cost of a piece of rezzed ice to trash it."
+ :title "ONR Core Command: Jettison Ice"
+ :type :event
+ :uniqueness false}

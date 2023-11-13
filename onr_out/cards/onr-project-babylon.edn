@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-project-babylon"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "Score 1 additional agenda point for every two advancement counters over Project Babylon's difficulty that are on Project Babylon when you score it."
+ :stripped-title "ONR Project Babylon"
+ :text "Score 1 additional agenda point for every two advancement counters over Project Babylon's difficulty that are on Project Babylon when you score it."
+ :title "ONR Project Babylon"
+ :type :agenda
+ :uniqueness false}

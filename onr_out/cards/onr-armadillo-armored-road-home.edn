@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-armadillo-armored-road-home"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 2 credit from the bank on Armored Road Home when it is installed. Use these bits only to pay for removing tags. If you use any of these bits, replace them at the start of your next turn.  T credit: Prevent up to 3 meat damage."
+ :stripped-title "ONR Armadillo Armored Road Home"
+ :subtype [:onr-vehicle]
+ :text "Put 2 [credit] from the bank on Armored Road Home when it is installed. Use these bits only to pay for removing tags. If you use any of these bits, replace them at the start of your next turn. \nT [credit]: Prevent up to 3 meat damage."
+ :title "ONR \"Armadillo\" Armored Road Home"
+ :type :hardware
+ :uniqueness false}

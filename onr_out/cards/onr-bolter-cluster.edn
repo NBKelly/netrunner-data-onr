@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bolter-cluster"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 4 Net damage.  S creditRunner cannot break any subroutines of the next piece of ice encountered during the run."
+ :stripped-title "ONR Bolter Cluster"
+ :subtype [:onr-sentry :onr-ap :onr-hellbolt]
+ :text "S [credit]Do 4 Net damage. \nS [credit]Runner cannot break any subroutines of the next piece of ice encountered during the run."
+ :title "ONR Bolter Cluster"
+ :type :ice
+ :uniqueness false}

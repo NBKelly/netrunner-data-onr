@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-fetch-401"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditTrace 3-If trace is successful, give Runner a tag."
+ :stripped-title "ONR Fetch 401"
+ :subtype [:onr-sentry :onr-bloodhound]
+ :text "S [credit]Trace 3-If trace is successful, give Runner a tag."
+ :title "ONR Fetch 4.0.1"
+ :type :ice
+ :uniqueness false}

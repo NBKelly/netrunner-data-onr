@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-reconnaissance"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. Whenever the Corp rezzes a card during that run, gain 1 credit."
+ :stripped-title "ONR Reconnaissance"
+ :text "Make a run. Whenever the Corp rezzes a card during that run, gain 1 [credit]."
+ :title "ONR Reconnaissance"
+ :type :event
+ :uniqueness false}

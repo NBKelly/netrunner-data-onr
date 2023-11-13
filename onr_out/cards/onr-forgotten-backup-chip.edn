@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-forgotten-backup-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Search your trash for a program and bring it into your hand."
+ :stripped-title "ONR Forgotten Backup Chip"
+ :text "Search your trash for a program and bring it into your hand."
+ :title "ONR Forgotten Backup Chip"
+ :type :event
+ :uniqueness false}

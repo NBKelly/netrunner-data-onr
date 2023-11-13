@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-doppelganger-antibody"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When Runner accesses Doppelganger Antibody, you may pay 2 credit to give Runner a Doppelganger counter, even if Doppelganger is not installed.  Ignore this effect if Runner accesses Doppelganger from the Archives.  Each Doppelganger counter causes Runner to lose 1 credit at the start of each of his or her turns.  Runner may take an action to pay 4 credit to remove a Doppelganger counter.  If Doppelganger is accessed from R&D, Runner must show it to you."
+ :stripped-title "ONR Doppelganger Antibody"
+ :subtype [:onr-ambush :onr-virus]
+ :text "When Runner accesses Doppelganger Antibody, you may pay 2 [credit] to give Runner a Doppelganger counter, even if Doppelganger is not installed. \nIgnore this effect if Runner accesses Doppelganger from the Archives. \nEach Doppelganger counter causes Runner to lose 1 [credit] at the start of each of his or her turns. \nRunner may take an action to pay 4 [credit] to remove a Doppelganger counter. \nIf Doppelganger is accessed from R&D, Runner must show it to you."
+ :title "ONR Doppelganger Antibody"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

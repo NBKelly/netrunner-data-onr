@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-asp"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditTrace 5-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 1 credit."
+ :stripped-title "ONR Asp"
+ :subtype [:onr-sentry :onr-flatline]
+ :text "S [credit]Trace 5-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 1 [credit]."
+ :title "ONR Asp"
+ :type :ice
+ :uniqueness false}

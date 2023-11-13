@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-corruption"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you scored any agendas this turn. Lose all agenda points you scored this turn, and the Corp scores that many agenda points.  Gain 10 credit per agenda point lost in this way, and the Corp gives you a tag."
+ :stripped-title "ONR Corruption"
+ :text "Play only if you scored any agendas this turn. Lose all agenda points you scored this turn, and the Corp scores that many agenda points. \nGain 10 [credit] per agenda point lost in this way, and the Corp gives you a tag."
+ :title "ONR Corruption"
+ :type :event
+ :uniqueness false}

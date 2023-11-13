@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-vacuum-link"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditRoll a die. If you roll a 1, 2, or 3, Runner resumes the run from that many pieces of rezzed ice back, or jacks out. If there are not that many pieces of ice, Runner returns to the first piece of ice."
+ :stripped-title "ONR Vacuum Link"
+ :subtype [:onr-sentry :onr-random]
+ :text "S [credit]Roll a die. If you roll a 1, 2, or 3, Runner resumes the run from that many pieces of rezzed ice back, or jacks out. If there are not that many pieces of ice, Runner returns to the first piece of ice."
+ :title "ONR Vacuum Link"
+ :type :ice
+ :uniqueness false}

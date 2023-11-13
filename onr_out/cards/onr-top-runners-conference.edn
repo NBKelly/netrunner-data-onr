@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-top-runners-conference"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 2 credit at the start of each of your turns. Trash Top Runners' Conference when you make a run."
+ :stripped-title "ONR Top Runners Conference"
+ :text "Gain 2 [credit] at the start of each of your turns. Trash Top Runners' Conference when you make a run."
+ :title "ONR Top Runner's Conference"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-bodyweight-tm-data-creche"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU.  Once per turn, right after making a successful run, you can choose to make another run without taking an action to do so.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Bodyweight TM Data Crèche"
+ :subtype [:onr-deck]
+ :text "Provides +1 MU. \nOnce per turn, right after making a successful run, you can choose to make another run without taking an action to do so. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Bodyweight [TM] Data Crèche"
+ :type :hardware
+ :uniqueness false}

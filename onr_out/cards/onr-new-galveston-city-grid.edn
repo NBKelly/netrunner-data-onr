@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-new-galveston-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "All nodes and other upgrades installed inside this fort cost 2 credit, in addition to the normal cost, to trash.  Rez a region when you install it.  Install a region only if you can pay to rez it.  Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR New Galveston City Grid"
+ :subtype [:onr-region]
+ :text "All nodes and other upgrades installed inside this fort cost 2 [credit], in addition to the normal cost, to trash. \nRez a region when you install it. \nInstall a region only if you can pay to rez it. \nOnly one region may be installed in each fort. Trash older ones."
+ :title "ONR New Galveston City Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

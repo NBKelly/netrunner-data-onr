@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-restrictive-net-zoning"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Choose a data fort when Restrictive Net Zoning is installed. The Corp must pay 2 credit, in addition to the normal cost, to install ice on that fort."
+ :stripped-title "ONR Restrictive Net Zoning"
+ :text "Choose a data fort when Restrictive Net Zoning is installed. The Corp must pay 2 [credit], in addition to the normal cost, to install ice on that fort."
+ :title "ONR Restrictive Net Zoning"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-blink"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 5
+ :stripped-text "0 credit: Roll a die. On a 4, 5, or 6, break ice subroutine; otherwise, suffer that much Net damage. Use this ability only once on each subroutine during each encounter with a piece of ice."
+ :stripped-title "ONR Blink"
+ :subtype [:onr-icebreaker :onr-random]
+ :text "0 [credit]: Roll a die. On a 4, 5, or 6, break ice subroutine; otherwise, suffer that much Net damage. Use this ability only once on each subroutine during each encounter with a piece of ice."
+ :title "ONR Blink"
+ :type :program
+ :uniqueness false}

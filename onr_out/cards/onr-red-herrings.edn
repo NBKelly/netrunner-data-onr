@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-red-herrings"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Runner must pay 5 credit, in addition to any other costs, to steal agendas accessed from this fort, even on the run during which Runner trashes Red Herrings."
+ :stripped-title "ONR Red Herrings"
+ :text "Runner must pay 5 [credit], in addition to any other costs, to steal agendas accessed from this fort, even on the run during which Runner trashes Red Herrings."
+ :title "ONR Red Herrings"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

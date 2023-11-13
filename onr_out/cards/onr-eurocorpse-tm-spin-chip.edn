@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-eurocorpse-tm-spin-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 2 credit from the bank on Spin Chip when it is installed. Spin Chip can have an icebreaker installed in it whose MU cost is no greater than 1. Use the bits on Spin Chip only to pay for using this icebreaker during runs. If you use any of these bits, replace them from the bank at the start of your next turn."
+ :stripped-title "ONR Eurocorpse TM Spin Chip"
+ :subtype [:onr-chip]
+ :text "Put 2 [credit] from the bank on Spin Chip when it is installed. Spin Chip can have an icebreaker installed in it whose MU cost is no greater than 1. Use the bits on Spin Chip only to pay for using this icebreaker during runs. If you use any of these bits, replace them from the bank at the start of your next turn."
+ :title "ONR Eurocorpse [TM] Spin Chip"
+ :type :hardware
+ :uniqueness false}

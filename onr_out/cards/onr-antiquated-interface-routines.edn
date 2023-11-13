@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-antiquated-interface-routines"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "All ice on this fort has +1 strength."
+ :stripped-title "ONR Antiquated Interface Routines"
+ :text "All ice on this fort has +1 strength."
+ :title "ONR Antiquated Interface Routines"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

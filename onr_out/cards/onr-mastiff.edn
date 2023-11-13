@@ -1,0 +1,14 @@
+{:cost 12
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-mastiff"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditDo 1 brain damage.  S creditDo 1 Net damage.  S creditFor the remainder of the run, all ice is encountered at +1 strength.  S credit-If trace is successful, give Runner a Mastiff counter. Each Mastiff counter does 1 brain damage at the start of each run. Runner may remove a Mastiff counter by taking an action to spend 4 credit.  S creditEnd the run."
+ :stripped-title "ONR Mastiff"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-hellhound :onr-watchdog]
+ :text "S [credit]Do 1 brain damage. \nS [credit]Do 1 Net damage. \nS [credit]For the remainder of the run, all ice is encountered at +1 strength. \nS [credit]-If trace is successful, give Runner a Mastiff counter. Each Mastiff counter does 1 brain damage at the start of each run. Runner may remove a Mastiff counter by taking an action to spend 4 [credit]. \nS [credit]End the run."
+ :title "ONR Mastiff"
+ :type :ice
+ :uniqueness false}

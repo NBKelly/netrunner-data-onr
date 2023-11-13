@@ -1,0 +1,14 @@
+{:cost 14
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-liche"
+ :influence-cost 1
+ :side :corp
+ :strength 6
+ :stripped-text "S creditDo 1 brain damage.  S creditDo 1 brain damage.  S creditDo 1 brain damage.  S creditEnd the run."
+ :stripped-title "ONR Liche"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap]
+ :text "S [credit]Do 1 brain damage. \nS [credit]Do 1 brain damage. \nS [credit]Do 1 brain damage. \nS [credit]End the run."
+ :title "ONR Liche"
+ :type :ice
+ :uniqueness false}

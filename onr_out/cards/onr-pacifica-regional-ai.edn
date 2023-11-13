@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-pacifica-regional-ai"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Pacifica Regional AI before and after you rez it.  Regional AI Advancement counter: Gain an action."
+ :stripped-title "ONR Pacifica Regional AI"
+ :subtype [:onr-ai]
+ :text "You may advance Pacifica Regional AI before and after you rez it. \nRegional AI Advancement counter: Gain an action."
+ :title "ONR Pacifica Regional AI"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

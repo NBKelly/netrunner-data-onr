@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-enterprise-inc-shields"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "1 credit: Prevent up to 2 Net damage.  1 credit: Prevent 1 brain damage."
+ :stripped-title "ONR Enterprise Inc Shields"
+ :text "1 [credit]: Prevent up to 2 Net damage. \n1 [credit]: Prevent 1 brain damage."
+ :title "ONR Enterprise, Inc., Shields"
+ :type :program
+ :uniqueness false}

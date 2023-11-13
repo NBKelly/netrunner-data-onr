@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-trapdoor"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "Install Trapdoor only on R&D or HQ. S creditRunner is now encountering the outermost piece of rezzed ice on a subsidiary data fort of your choice, instead of passing Trapdoor. The run is now considered to be a run on that data fort. If there is no rezzed ice on that fort, Runner is considered to have passed the last piece of ice on that fort. Runner automatically breaks this subroutine if there are no subsidiary data forts."
+ :stripped-title "ONR Trapdoor"
+ :subtype [:onr-code-gate :onr-deflector]
+ :text "Install Trapdoor only on R&D or HQ.\nS [credit]Runner is now encountering the outermost piece of rezzed ice on a subsidiary data fort of your choice, instead of passing Trapdoor. The run is now considered to be a run on that data fort. If there is no rezzed ice on that fort, Runner is considered to have passed the last piece of ice on that fort. Runner automatically breaks this subroutine if there are no subsidiary data forts."
+ :title "ONR Trapdoor"
+ :type :ice
+ :uniqueness false}

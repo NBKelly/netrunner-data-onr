@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-dieter-esslin"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When Runner accesses Dieter Esslin, Dieter does 1 Net damage."
+ :stripped-title "ONR Dieter Esslin"
+ :subtype [:onr-sysop :onr-ambush]
+ :text "When Runner accesses Dieter Esslin, Dieter does 1 Net damage."
+ :title "ONR Dieter Esslin"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

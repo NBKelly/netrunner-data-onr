@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-sphinx-2006"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditEnd the run.  When you rez Sphinx 2006, you may pay 4 credit, above the rez cost, to make it a sentry instead of a code gate."
+ :stripped-title "ONR Sphinx 2006"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run. \nWhen you rez Sphinx 2006, you may pay 4 [credit], above the rez cost, to make it a sentry instead of a code gate."
+ :title "ONR Sphinx 2006"
+ :type :ice
+ :uniqueness false}

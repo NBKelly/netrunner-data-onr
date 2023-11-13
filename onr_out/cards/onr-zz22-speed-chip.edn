@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-zz22-speed-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 2 credit from the bank on ZZ22 Speed Chip when it is installed. Use these bits only to pay for using killers during runs.  If you use any of these bits, replace them at the start of your next turn."
+ :stripped-title "ONR ZZ22 Speed Chip"
+ :subtype [:onr-chip]
+ :text "Put 2 [credit] from the bank on ZZ22 Speed Chip when it is installed. Use these bits only to pay for using killers during runs. \nIf you use any of these bits, replace them at the start of your next turn."
+ :title "ONR ZZ22 Speed Chip"
+ :type :hardware
+ :uniqueness false}

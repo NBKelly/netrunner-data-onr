@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-decoy-signal"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. Whenever you approach an unrezzed piece of ice during that run, expose it. You may jack out before the Corp decides whether to rez the ice."
+ :stripped-title "ONR Decoy Signal"
+ :text "Make a run. Whenever you approach an unrezzed piece of ice during that run, expose it. You may jack out before the Corp decides whether to rez the ice."
+ :title "ONR Decoy Signal"
+ :type :event
+ :uniqueness false}

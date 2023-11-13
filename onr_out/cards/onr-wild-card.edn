@@ -1,0 +1,15 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wild-card"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "0 credit: Break sentry subroutine.  3 credit: +1 strength."
+ :stripped-title "ONR Wild Card"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "0 [credit]: Break sentry subroutine. \n3 [credit]: +1 strength."
+ :title "ONR Wild Card"
+ :type :program
+ :uniqueness false}

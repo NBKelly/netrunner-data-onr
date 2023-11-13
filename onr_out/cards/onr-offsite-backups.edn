@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-offsite-backups"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Bring any card from the Archives into HQ."
+ :stripped-title "ONR OffSite Backups"
+ :text "Bring any card from the Archives into HQ."
+ :title "ONR Off-Site Backups"
+ :type :operation
+ :uniqueness false}

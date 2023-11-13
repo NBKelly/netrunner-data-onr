@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-demolition-run"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. If run is successful, do not access cards; instead, trash all rezzed ice on the fort on which you just made a run, and the Corp gives you three tags."
+ :stripped-title "ONR Demolition Run"
+ :subtype [:onr-sabotage]
+ :text "Make a run. If run is successful, do not access cards; instead, trash all rezzed ice on the fort on which you just made a run, and the Corp gives you three tags."
+ :title "ONR Demolition Run"
+ :type :event
+ :uniqueness false}

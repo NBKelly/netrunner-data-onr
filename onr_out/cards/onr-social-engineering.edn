@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-social-engineering"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Hide at least 2 from your pool in your hand; the Corp then guesses how many bits you hid. If the Corp guesses correctly, lose that many bits. Otherwise, choose a data fort and a piece of ice on that fort. Then make a run on that fort, during which you automatically pass that piece of ice."
+ :stripped-title "ONR Social Engineering"
+ :text "Hide at least 2 from your pool in your hand; the Corp then guesses how many bits you hid. If the Corp guesses correctly, lose that many bits. Otherwise, choose a data fort and a piece of ice on that fort. Then make a run on that fort, during which you automatically pass that piece of ice."
+ :title "ONR Social Engineering"
+ :type :event
+ :uniqueness false}

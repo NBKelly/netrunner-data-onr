@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-misleading-access-menus"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :stripped-text "S creditEnd the run unless Runner pays 1 credit.  Gain 3 credit when you rez Misleading Access Menus."
+ :stripped-title "ONR Misleading Access Menus"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run unless Runner pays 1 [credit]. \nGain 3 [credit] when you rez Misleading Access Menus."
+ :title "ONR Misleading Access Menus"
+ :type :ice
+ :uniqueness false}

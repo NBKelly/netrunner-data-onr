@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bolter-swarm"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 4 Net damage. S creditRunner cannot break any subroutines on the next piece of ice encountered during this run.  If Runner has used a noisy icebreaker during this run, the cost to rez Bolter Swarm is reduced by 5 credit."
+ :stripped-title "ONR Bolter Swarm"
+ :subtype [:onr-sentry :onr-ap :onr-hellbolt :onr-sleepy]
+ :text "S [credit]Do 4 Net damage.\nS [credit]Runner cannot break any subroutines on the next piece of ice encountered during this run. \nIf Runner has used a noisy icebreaker during this run, the cost to rez Bolter Swarm is reduced by 5 [credit]."
+ :title "ONR Bolter Swarm"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-rigged-investments"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 12 credit from the bank on Rigged Investments when it is installed.  At the start of each of your turns, take 1 credit from Investments. When all the bits have been removed, trash Rigged Investments."
+ :stripped-title "ONR Rigged Investments"
+ :text "Put 12 [credit] from the bank on Rigged Investments when it is installed. \nAt the start of each of your turns, take 1 [credit] from Investments. When all the bits have been removed, trash Rigged Investments."
+ :title "ONR Rigged Investments"
+ :type :resource
+ :uniqueness false}

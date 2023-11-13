@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-get-ready-to-rumble"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "T credit: The Corp discards two cards at random from HQ. Use this ability only when the Corp successfully does meat damage.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Get Ready to Rumble"
+ :subtype [:onr-connection :onr-hidden]
+ :text "T [credit]: The Corp discards two cards at random from HQ. Use this ability only when the Corp successfully does meat damage. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Get Ready to Rumble"
+ :type :resource
+ :uniqueness false}

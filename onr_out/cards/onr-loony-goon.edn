@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-loony-goon"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "1 credit: Break sentry subroutine.  1 credit: +1 strength."
+ :stripped-title "ONR Loony Goon"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "1 [credit]: Break sentry subroutine. \n1 [credit]: +1 strength."
+ :title "ONR Loony Goon"
+ :type :program
+ :uniqueness false}

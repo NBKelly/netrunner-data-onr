@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-disgruntled-ice-technician"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. After passing a piece of ice during this run, you may derez that ice and end your run if you broke all the subroutines of that ice."
+ :stripped-title "ONR Disgruntled Ice Technician"
+ :subtype [:onr-sabotage]
+ :text "Make a run. After passing a piece of ice during this run, you may derez that ice and end your run if you broke all the subroutines of that ice."
+ :title "ONR Disgruntled Ice Technician"
+ :type :event
+ :uniqueness false}

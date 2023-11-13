@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-little-black-box"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU and +1 hand size.  Prevent up to 1 Net or brain damage each turn.  Put 1 credit from the bank on Little Black Box when it is installed. Use this bit only to pay for increasing your link. If you use the bit, replace it from the bank at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Little Black Box"
+ :subtype [:onr-deck]
+ :text "Provides +1 MU and +1 hand size. \nPrevent up to 1 Net or brain damage each turn. \nPut 1 [credit] from the bank on Little Black Box when it is installed. Use this bit only to pay for increasing your link. If you use the bit, replace it from the bank at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Little Black Box"
+ :type :hardware
+ :uniqueness false}

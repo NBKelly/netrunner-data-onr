@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-joan-of-arc"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "T credit: Prevent one or more of your other installed programs from being trashed. 1 credit: Prevent one or more of your other installed programs from being trashed, and bring Joan of Arc into your hand."
+ :stripped-title "ONR Joan of Arc"
+ :text "T [credit]: Prevent one or more of your other installed programs from being trashed.\n1 [credit]: Prevent one or more of your other installed programs from being trashed, and bring Joan of Arc into your hand."
+ :title "ONR Joan of Arc"
+ :type :program
+ :uniqueness false}

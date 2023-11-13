@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-hq-interface"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Whenever you access cards from HQ, access an additional card from HQ."
+ :stripped-title "ONR HQ Interface"
+ :text "Whenever you access cards from HQ, access an additional card from HQ."
+ :title "ONR HQ Interface"
+ :type :hardware
+ :uniqueness false}

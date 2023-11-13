@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-dropp-tm"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 4
+ :stripped-text "0 credit: Break ice subroutine. 1 credit: +1 strength. Using Dropp TM credit ends your run."
+ :stripped-title "ONR Dropp TM"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break ice subroutine. 1 [credit]: +1 strength. Using Dropp TM [credit] ends your run."
+ :title "ONR Dropp [TM]"
+ :type :program
+ :uniqueness false}

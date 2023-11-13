@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-armageddon"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "After each successful run on R&D, you may choose to give the Corp a Doom counter instead of accessing cards from R&D. Each Doom counter forces the Corp to roll a die whenever it installs a card. On a 6, the card is trashed after it is installed, and the Corp removes a Doom counter. The Corp may remove all Virus counters at any time, but must then forgo its next three actions."
+ :stripped-title "ONR Armageddon"
+ :subtype [:onr-virus :onr-random]
+ :text "After each successful run on R&D, you may choose to give the Corp a Doom counter instead of accessing cards from R&D. Each Doom counter forces the Corp to roll a die whenever it installs a card. On a 6, the card is trashed after it is installed, and the Corp removes a Doom counter.\nThe Corp may remove all Virus counters at any time, but must then forgo its next three actions."
+ :title "ONR Armageddon"
+ :type :program
+ :uniqueness false}

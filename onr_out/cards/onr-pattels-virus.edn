@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-pattels-virus"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you make a successful run, put a Pattel counter on a piece of ice that had all its subroutines broken during that run. Each Pattel counter on a piece of ice reduces its strength by 1.  The Corp may remove all Virus counters by forgoing its next three actions."
+ :stripped-title "ONR Pattels Virus"
+ :subtype [:onr-virus]
+ :text "Whenever you make a successful run, put a Pattel counter on a piece of ice that had all its subroutines broken during that run. Each Pattel counter on a piece of ice reduces its strength by 1. \nThe Corp may remove all Virus counters by forgoing its next three actions."
+ :title "ONR Pattel's Virus"
+ :type :program
+ :uniqueness false}

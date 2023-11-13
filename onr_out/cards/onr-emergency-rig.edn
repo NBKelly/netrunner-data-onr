@@ -1,0 +1,13 @@
+{:cost X
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-emergency-rig"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Rez a piece of ice, at no cost. Put X Kludge counters on that piece of ice; X cannot be 0. At the start of each of your turns, remove a Kludge counter. Trash that piece of ice when the last Kludge counter is removed from it."
+ :stripped-title "ONR Emergency Rig"
+ :subtype [:onr-transactions]
+ :text "Rez a piece of ice, at no cost. Put X Kludge counters on that piece of ice; X cannot be 0. At the start of each of your turns, remove a Kludge counter. Trash that piece of ice when the last Kludge counter is removed from it."
+ :title "ONR Emergency Rig"
+ :type :operation
+ :uniqueness false}

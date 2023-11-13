@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-tesseract-fort-construction"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "All ice on this fort has an additional subroutine, \"S creditEnd the run unless Runner pays 1 credit,\" after all other subroutines."
+ :stripped-title "ONR Tesseract Fort Construction"
+ :text "All ice on this fort has an additional subroutine, \"S [credit]End the run unless Runner pays 1 [credit],\" after all other subroutines."
+ :title "ONR Tesseract Fort Construction"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

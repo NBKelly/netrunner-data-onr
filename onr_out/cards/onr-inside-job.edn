@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-inside-job"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. You automatically pass the first piece of ice you encounter during that run."
+ :stripped-title "ONR Inside Job"
+ :text "Make a run. You automatically pass the first piece of ice you encounter during that run."
+ :title "ONR Inside Job"
+ :type :event
+ :uniqueness false}

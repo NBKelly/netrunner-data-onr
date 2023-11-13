@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-lifesaver-tm-nanosurgeons"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Draw two cards. Use this ability only if you were damaged during any of your last three actions.  T credit: Prevent 1 brain damage."
+ :stripped-title "ONR Lifesaver TM Nanosurgeons"
+ :subtype [:onr-cybernetics]
+ :text "A: Draw two cards. Use this ability only if you were damaged during any of your last three actions. \nT [credit]: Prevent 1 brain damage."
+ :title "ONR Lifesaver [TM] Nanosurgeons"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-charity-takeover"
+ :side :corp
+ :subtype [:onr-black-ops :onr-bad-publicity]
+ :stripped-text "Gain 9 credit and 1 Bad Publicity point. If the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :stripped-title "ONR Charity Takeover"
+ :text "Gain 9 [credit] and 1 Bad Publicity point. If the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :title "ONR Charity Takeover"
+ :type :agenda
+ :uniqueness false}

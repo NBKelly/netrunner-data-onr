@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-homewrecker-tm"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrace 5-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented."
+ :stripped-title "ONR Homewrecker TM"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-firestarter]
+ :text "S [credit]Trace 5-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented."
+ :title "ONR Homewrecker [TM]"
+ :type :ice
+ :uniqueness false}

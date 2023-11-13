@@ -1,0 +1,15 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-grubb"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "1 credit: Break wall subroutine.  2 credit: +1 strength for the remainder of this run."
+ :stripped-title "ONR Grubb"
+ :subtype [:onr-icebreaker :onr-worm]
+ :text "1 [credit]: Break wall subroutine. \n2 [credit]: +1 strength for the remainder of this run."
+ :title "ONR Grubb"
+ :type :program
+ :uniqueness false}

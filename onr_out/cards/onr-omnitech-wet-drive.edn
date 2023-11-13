@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-omnitech-wet-drive"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Your base MU is equal to the number of cards in your hand instead of 4."
+ :stripped-title "ONR Omnitech Wet Drive"
+ :subtype [:onr-cybernetics]
+ :text "Your base MU is equal to the number of cards in your hand instead of 4."
+ :title "ONR Omnitech Wet Drive"
+ :type :hardware
+ :uniqueness false}

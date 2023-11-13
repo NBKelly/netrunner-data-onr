@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-superserum"
+ :side :corp
+ :subtype [:onr-research]
+ :stripped-text "When you score Superserum, remove all Virus counters, and avoid receiving the next two Virus counters Runner gives to you."
+ :stripped-title "ONR Superserum"
+ :text "When you score Superserum, remove all Virus counters, and avoid receiving the next two Virus counters Runner gives to you."
+ :title "ONR Superserum"
+ :type :agenda
+ :uniqueness false}

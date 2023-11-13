@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-back-door-to-rivals"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "0 credit: Base link 2.  3 credit: +1 link. Gain 1 credit whenever you successfully use Back Door to Rivals to avoid a trace.  Use only one base link card for each trace attempt made against you."
+ :stripped-title "ONR Back Door to Rivals"
+ :subtype [:onr-base-link]
+ :text "0 [credit]: Base link 2. \n3 [credit]: +1 link. Gain 1 [credit] whenever you successfully use Back Door to Rivals to avoid a trace. \nUse only one base link card for each trace attempt made against you."
+ :title "ONR Back Door to Rivals"
+ :type :resource
+ :uniqueness false}

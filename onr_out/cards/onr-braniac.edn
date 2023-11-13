@@ -1,0 +1,11 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :onr-runner
+ :id "onr-braniac-espionage-enjoyer"
+ :influence-limit 25
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-title "ONR Braniac: Espionage Enjoyer"
+ :title "ONR Braniac: Espionage Enjoyer"
+ :type :identity
+ :uniqueness false}

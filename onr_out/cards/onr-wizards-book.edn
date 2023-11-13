@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wizards-book"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "0 credit: Break code gate subroutine.  2 credit: +1 strength."
+ :stripped-title "ONR Wizards Book"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break code gate subroutine. \n2 [credit]: +1 strength."
+ :title "ONR Wizard's Book"
+ :type :program
+ :uniqueness false}

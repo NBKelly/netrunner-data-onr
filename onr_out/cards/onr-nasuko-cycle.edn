@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-nasuko-cycle"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "3 credit: Avoid receiving a tag."
+ :stripped-title "ONR Nasuko Cycle"
+ :subtype [:onr-vehicle]
+ :text "3 [credit]: Avoid receiving a tag."
+ :title "ONR Nasuko Cycle"
+ :type :hardware
+ :uniqueness false}

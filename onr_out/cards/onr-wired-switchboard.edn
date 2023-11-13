@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wired-switchboard"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "T credit: +3 link. Use this ability only after you and the Corp have revealed how much each of you spent on the trace attempt.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Wired Switchboard"
+ :subtype [:onr-hidden]
+ :text "T [credit]: +3 link. Use this ability only after you and the Corp have revealed how much each of you spent on the trace attempt. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Wired Switchboard"
+ :type :resource
+ :uniqueness false}

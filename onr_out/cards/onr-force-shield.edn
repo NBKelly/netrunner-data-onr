@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-force-shield"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Prevents up to 2 Net and/or brain damage total each turn."
+ :stripped-title "ONR Force Shield"
+ :text "Prevents up to 2 Net and/or brain damage total each turn."
+ :title "ONR Force Shield"
+ :type :program
+ :uniqueness false}

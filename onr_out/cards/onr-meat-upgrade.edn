@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-meat-upgrade"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Remove up to two tags, at no cost, and draw three cards.  Playing a double prep costs two consecutive actions this turn instead of one."
+ :stripped-title "ONR Meat Upgrade"
+ :subtype [:onr-double]
+ :text "Remove up to two tags, at no cost, and draw three cards. \nPlaying a double prep costs two consecutive actions this turn instead of one."
+ :title "ONR Meat Upgrade"
+ :type :event
+ :uniqueness false}

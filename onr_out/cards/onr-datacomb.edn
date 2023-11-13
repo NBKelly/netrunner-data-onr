@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-datacomb"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditEnd the run. If Runner passes Datacomb, pay 1 credit, or uninstall it and store it in HQ."
+ :stripped-title "ONR Datacomb"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. If Runner passes Datacomb, pay 1 [credit], or uninstall it and store it in HQ."
+ :title "ONR Datacomb"
+ :type :ice
+ :uniqueness false}

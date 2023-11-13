@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-pile-driver"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 7
+ :stripped-text "3 credit: Break up to four wall subroutines on a single piece of ice.  1 credit: +1 strength. Whenever you use Pile Driver's break-walls subroutine, lose a total of 3 credit from stealth cards."
+ :stripped-title "ONR Pile Driver"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "3 [credit]: Break up to four wall subroutines on a single piece of ice. \n1 [credit]: +1 strength. Whenever you use Pile Driver's break-walls subroutine, lose a total of 3 [credit] from stealth cards."
+ :title "ONR Pile Driver"
+ :type :program
+ :uniqueness false}

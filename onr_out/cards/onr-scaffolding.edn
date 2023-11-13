@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-scaffolding"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditEnd the run.  If Runner passes Scaffolding, you may choose to uninstall it, store it in HQ, and gain 1 credit."
+ :stripped-title "ONR Scaffolding"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. \nIf Runner passes Scaffolding, you may choose to uninstall it, store it in HQ, and gain 1 [credit]."
+ :title "ONR Scaffolding"
+ :type :ice
+ :uniqueness false}

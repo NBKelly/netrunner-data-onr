@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-dupre"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "1 credit: Break code gate subroutine. 2 credit: +1 strength. Put a +1 strength counter on Dupre after each run during which it was used to break a subroutine. All strength counters on Dupre are lost if you use Dupre on a fort other than the one you last used it on."
+ :stripped-title "ONR Dupré"
+ :subtype [:onr-icebreaker]
+ :text "1 [credit]: Break code gate subroutine. 2 [credit]: +1 strength. Put a +1 strength counter on Dupre after each run during which it was used to break a subroutine. All strength counters on Dupre are lost if you use Dupre on a fort other than the one you last used it on."
+ :title "ONR Dupré"
+ :type :program
+ :uniqueness false}

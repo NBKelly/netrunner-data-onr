@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-rush-hour"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on R&D. If run is successful, access three additional cards from R&D. You cannot use noisy icebreakers during the run."
+ :stripped-title "ONR Rush Hour"
+ :text "Make a run on R&D. If run is successful, access three additional cards from R&D. You cannot use noisy icebreakers during the run."
+ :title "ONR Rush Hour"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-security-purge"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "Show the top three cards of R&D to Runner when you score Security Purge. If any of those cards are ice, install and rez them, at no cost. Trash the rest of those cards."
+ :stripped-title "ONR Security Purge"
+ :text "Show the top three cards of R&D to Runner when you score Security Purge. If any of those cards are ice, install and rez them, at no cost. Trash the rest of those cards."
+ :title "ONR Security Purge"
+ :type :agenda
+ :uniqueness false}

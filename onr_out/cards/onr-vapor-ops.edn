@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-vapor-ops"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Vapor Ops before and after you rez it.  Vapor Ops advancement Counter: Gain 1 credit. A: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced."
+ :stripped-title "ONR Vapor Ops"
+ :text "You may advance Vapor Ops before and after you rez it. \nVapor Ops advancement Counter: Gain 1 [credit].\nA: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced."
+ :title "ONR Vapor Ops"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-jackhammer"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "0 credit: Break wall subroutine.  1 credit: +1 strength. Whenever you break a wall subroutine with Jackhammer, lose 1 credit, if you can, from a stealth card."
+ :stripped-title "ONR Jackhammer"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "0 [credit]: Break wall subroutine. \n1 [credit]: +1 strength. Whenever you break a wall subroutine with Jackhammer, lose 1 [credit], if you can, from a stealth card."
+ :title "ONR Jackhammer"
+ :type :program
+ :uniqueness false}

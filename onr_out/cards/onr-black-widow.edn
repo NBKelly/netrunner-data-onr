@@ -1,0 +1,15 @@
+{:cost 9
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-black-widow"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "1 credit: Break sentry subroutine.  2 credit: +1 strength.  Choose an installed piece of ice when you install Black Widow. Black Widow gets +5 strength during each encounter with that piece of ice."
+ :stripped-title "ONR Black Widow"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "1 [credit]: Break sentry subroutine. \n2 [credit]: +1 strength. \nChoose an installed piece of ice when you install Black Widow. Black Widow gets +5 strength during each encounter with that piece of ice."
+ :title "ONR Black Widow"
+ :type :program
+ :uniqueness false}

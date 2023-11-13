@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-technician-lover"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Look at the top card of R&D."
+ :stripped-title "ONR Technician Lover"
+ :text "A: Look at the top card of R&D."
+ :title "ONR Technician Lover"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-hostile-takeover"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "Gain 5 credit when you score Hostile Takeover."
+ :stripped-title "ONR Hostile Takeover"
+ :text "Gain 5 [credit] when you score Hostile Takeover."
+ :title "ONR Hostile Takeover"
+ :type :agenda
+ :uniqueness false}

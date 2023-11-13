@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-disinfectant-inc"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may pay 1 credit to avoid receiving a Virus counter. Use this ability only once each turn."
+ :stripped-title "ONR Disinfectant Inc"
+ :text "You may pay 1 [credit] to avoid receiving a Virus counter. Use this ability only once each turn."
+ :title "ONR Disinfectant, Inc."
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

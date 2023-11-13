@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-omniscience-foundation"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Give Runner a tag at the end of each turn during which Runner received a tag."
+ :stripped-title "ONR Omniscience Foundation"
+ :subtype [:onr-gray-ops]
+ :text "Give Runner a tag at the end of each turn during which Runner received a tag."
+ :title "ONR Omniscience Foundation"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-desperate-competitor"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you liberated any Gray Ops agendas this turn. Score 1 agenda point."
+ :stripped-title "ONR Desperate Competitor"
+ :text "Play only if you liberated any Gray Ops agendas this turn. Score 1 agenda point."
+ :title "ONR Desperate Competitor"
+ :type :event
+ :uniqueness false}

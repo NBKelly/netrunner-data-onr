@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-retreat"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "You lose the following ability as soon as you rez or install any card.  A: Gain 2 credit."
+ :stripped-title "ONR Corporate Retreat"
+ :text "You lose the following ability as soon as you rez or install any card. \nA: Gain 2 [credit]."
+ :title "ONR Corporate Retreat"
+ :type :agenda
+ :uniqueness false}

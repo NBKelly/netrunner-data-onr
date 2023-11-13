@@ -1,0 +1,12 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-score"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 9 credit"
+ :stripped-title "ONR Score"
+ :text "Gain 9 [credit]"
+ :title "ONR Score!"
+ :type :event
+ :uniqueness false}

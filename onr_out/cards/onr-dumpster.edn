@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-dumpster"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "Dumpster cannot be installed on the Archives.  S creditRunner is now encountering the outermost piece of rezzed ice on the Archives, instead of passing Dumpster. The run is now considered to be a run on the Archives. If there is no rezzed ice on the Archives, Runner is considered to have passed the last piece of ice on the Archives."
+ :stripped-title "ONR Dumpster"
+ :subtype [:onr-code-gate :onr-deflector]
+ :text "Dumpster cannot be installed on the Archives. \nS [credit]Runner is now encountering the outermost piece of rezzed ice on the Archives, instead of passing Dumpster. The run is now considered to be a run on the Archives. If there is no rezzed ice on the Archives, Runner is considered to have passed the last piece of ice on the Archives."
+ :title "ONR Dumpster"
+ :type :ice
+ :uniqueness false}

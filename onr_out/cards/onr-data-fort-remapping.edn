@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-fort-remapping"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "Put a Remap counter on Data Fort Remapping when you score it.  Remap Counter: End a run."
+ :stripped-title "ONR Data Fort Remapping"
+ :text "Put a Remap counter on Data Fort Remapping when you score it. \nRemap Counter: End a run."
+ :title "ONR Data Fort Remapping"
+ :type :agenda
+ :uniqueness false}

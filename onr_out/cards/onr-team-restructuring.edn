@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-team-restructuring"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Add one advancement counter to each of up to two installed cards that can be advanced."
+ :stripped-title "ONR Team Restructuring"
+ :text "Add one advancement counter to each of up to two installed cards that can be advanced."
+ :title "ONR Team Restructuring"
+ :type :operation
+ :uniqueness false}

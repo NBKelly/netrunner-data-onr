@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-total-genetic-retrofit"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Remove all tags, at no cost, and automatically avoid receiving your next tag."
+ :stripped-title "ONR Total Genetic Retrofit"
+ :text "Remove all tags, at no cost, and automatically avoid receiving your next tag."
+ :title "ONR Total Genetic Retrofit"
+ :type :event
+ :uniqueness false}

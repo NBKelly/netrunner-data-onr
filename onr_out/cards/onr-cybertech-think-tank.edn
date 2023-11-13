@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-cybertech-think-tank"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Cybertech Think Tank before and after you rez it. Cybertech Think Tank advancement counter: Increase by 1 the meat damage dealt by another source."
+ :stripped-title "ONR Cybertech Think Tank"
+ :subtype [:onr-asset]
+ :text "You may advance Cybertech Think Tank before and after you rez it. Cybertech Think Tank advancement counter: Increase by 1 the meat damage dealt by another source."
+ :title "ONR Cybertech Think Tank"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

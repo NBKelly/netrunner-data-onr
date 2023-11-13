@@ -1,0 +1,13 @@
+{:cost 11
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-the-deck"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "0 credit: Base link 5.  1 credit: +1 link.  Provides +1 MU.  Use only one base link card for each trace attempt made against you.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR The Deck"
+ :subtype [:onr-deck :onr-base-link]
+ :text "0 [credit]: Base link 5. \n1 [credit]: +1 link. \nProvides +1 MU. \nUse only one base link card for each trace attempt made against you. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR The Deck"
+ :type :hardware
+ :uniqueness false}

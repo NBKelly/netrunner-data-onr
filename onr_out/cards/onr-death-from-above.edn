@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-death-from-above"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "T credit: Trash, at no cost, all cards installed in a subsidiary data fort, even if they cannot normally be trashed. Use this ability only when you have just successfully made a run on that fort, and before accessing cards from that fort.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Death from Above"
+ :subtype [:onr-hidden :onr-sabotage]
+ :text "T [credit]: Trash, at no cost, all cards installed in a subsidiary data fort, even if they cannot normally be trashed. Use this ability only when you have just successfully made a run on that fort, and before accessing cards from that fort. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Death from Above"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-riddler"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "2 credit: Riddler has one \"S creditEnd the run\" subroutine for the present encounter. Use this ability only when Runner encounters Riddler."
+ :stripped-title "ONR Riddler"
+ :subtype [:onr-code-gate]
+ :text "2 [credit]: Riddler has one \"S [credit]End the run\" subroutine for the present encounter. Use this ability only when Runner encounters Riddler."
+ :title "ONR Riddler"
+ :type :ice
+ :uniqueness false}

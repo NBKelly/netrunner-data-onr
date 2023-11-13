@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-preying-mantis"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Each of your turns, you may choose to gain an action. If you do, suffer 1 brain damage at the end of the turn. This damage cannot be prevented."
+ :stripped-title "ONR Preying Mantis"
+ :subtype [:onr-connection]
+ :text "Each of your turns, you may choose to gain an action. If you do, suffer 1 brain damage at the end of the turn. This damage cannot be prevented."
+ :title "ONR Preying Mantis"
+ :type :resource
+ :uniqueness false}

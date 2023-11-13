@@ -1,0 +1,13 @@
+{:advancement-requirement 7
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-private-cybernet-police"
+ :side :corp
+ :subtype [:onr-asset]
+ :stripped-text "A:Trace 5 -If trace is successful, give Runner a tag."
+ :stripped-title "ONR Private Cybernet Police"
+ :text "A:Trace 5 -If trace is successful, give Runner a tag."
+ :title "ONR Private Cybernet Police"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-galatea"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditEnd the run.  When you rez Galatea, you may pay 1 credit, above the rez cost, to make it a code gate instead of a wall."
+ :stripped-title "ONR Galatea"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. \nWhen you rez Galatea, you may pay 1 [credit], above the rez cost, to make it a code gate instead of a wall."
+ :title "ONR Galatea"
+ :type :ice
+ :uniqueness false}

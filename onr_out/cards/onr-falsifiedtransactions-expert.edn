@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-falsifiedtransactions-expert"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Move up to three advancement counters from one card to another installed card that can be advanced."
+ :stripped-title "ONR FalsifiedTransactions Expert"
+ :text "Move up to three advancement counters from one card to another installed card that can be advanced."
+ :title "ONR Falsified-Transactions Expert"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-euromarket-consortium"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Hand size +2;  A, 1 credit: Draw two cards."
+ :stripped-title "ONR Euromarket Consortium"
+ :text "Hand size +2; \nA, 1 [credit]: Draw two cards."
+ :title "ONR Euromarket Consortium"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-cinderella"
+ :influence-cost 1
+ :side :corp
+ :strength 6
+ :stripped-text "S creditTrace 6-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented."
+ :stripped-title "ONR Cinderella"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-firestarter]
+ :text "S [credit]Trace 6-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented."
+ :title "ONR Cinderella"
+ :type :ice
+ :uniqueness false}

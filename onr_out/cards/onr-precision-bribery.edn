@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-precision-bribery"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "The Corp cannot create any new data forts. The Corp may trash Precision Bribery by taking an action to pay 4 credit. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Precision Bribery"
+ :subtype [:onr-unique]
+ :text "The Corp cannot create any new data forts. The Corp may trash Precision Bribery by taking an action to pay 4 [credit]. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Precision Bribery"
+ :type :resource
+ :uniqueness true}

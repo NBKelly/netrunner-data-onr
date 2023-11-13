@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-identity-donor"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Do not play Identity Donor as an action; instead, play it during the Corp's turn when you would suffer meat damage. Prevent that meat damage and give the Corp 2 Bad Publicity points.  If the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :stripped-title "ONR Identity Donor"
+ :subtype [:onr-bad-publicity]
+ :text "Do not play Identity Donor as an action; instead, play it during the Corp's turn when you would suffer meat damage. Prevent that meat damage and give the Corp 2 Bad Publicity points. \nIf the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :title "ONR Identity Donor"
+ :type :event
+ :uniqueness false}

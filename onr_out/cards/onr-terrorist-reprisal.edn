@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-terrorist-reprisal"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if the Corp scored any Black Ops agendas during its last turn. The Corp discards five cards at random."
+ :stripped-title "ONR Terrorist Reprisal"
+ :text "Play only if the Corp scored any Black Ops agendas during its last turn. The Corp discards five cards at random."
+ :title "ONR Terrorist Reprisal"
+ :type :event
+ :uniqueness false}

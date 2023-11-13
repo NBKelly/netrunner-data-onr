@@ -1,0 +1,13 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-finders-keepers"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Roll three dice. Gain that many bits."
+ :stripped-title "ONR Finders Keepers"
+ :subtype [:onr-random]
+ :text "Roll three dice. Gain that many bits."
+ :title "ONR Finders Keepers"
+ :type :event
+ :uniqueness false}

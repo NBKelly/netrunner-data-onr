@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-zetatech-mem-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +2 MU."
+ :stripped-title "ONR Zetatech Mem Chip"
+ :subtype [:onr-chip]
+ :text "Provides +2 MU."
+ :title "ONR Zetatech Mem Chip"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:cost 9
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-forwards-legacy"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "0 credit: Break sentry subroutine.  At the start of each run, roll a die and add the result to Legacy's strength for that run."
+ :stripped-title "ONR Forwards Legacy"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "0 [credit]: Break sentry subroutine. \nAt the start of each run, roll a die and add the result to Legacy's strength for that run."
+ :title "ONR Forward's Legacy"
+ :type :program
+ :uniqueness false}

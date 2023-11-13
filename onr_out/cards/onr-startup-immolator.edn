@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-startup-immolator"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "T credit: Pay the rez cost of a piece of ice to trash that piece of ice. Use this ability only if you have just broken all the subroutines of that piece of ice."
+ :stripped-title "ONR Startup Immolator"
+ :text "T [credit]: Pay the rez cost of a piece of ice to trash that piece of ice. Use this ability only if you have just broken all the subroutines of that piece of ice."
+ :title "ONR Startup Immolator"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-skeleton-passkeys"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "0 credit: Break code gate subroutine.  3 credit: +4 strength"
+ :stripped-title "ONR Skeleton Passkeys"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break code gate subroutine. \n3 [credit]: +4 strength"
+ :title "ONR Skeleton Passkeys"
+ :type :program
+ :uniqueness false}

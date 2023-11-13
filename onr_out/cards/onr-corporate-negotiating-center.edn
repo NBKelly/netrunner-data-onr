@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-negotiating-center"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "At the start of each of your turns, gain 1 credit for each agenda card stored in HQ that you show to Runner."
+ :stripped-title "ONR Corporate Negotiating Center"
+ :subtype [:onr-asset]
+ :text "At the start of each of your turns, gain 1 [credit] for each agenda card stored in HQ that you show to Runner."
+ :title "ONR Corporate Negotiating Center"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

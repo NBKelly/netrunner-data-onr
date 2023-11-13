@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-reflector"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 4
+ :stripped-text "0 credit: Break stun, hellbolt, or knockout subroutine."
+ :stripped-title "ONR Reflector"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break stun, hellbolt, or knockout subroutine."
+ :title "ONR Reflector"
+ :type :program
+ :uniqueness false}

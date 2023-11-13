@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-databroker"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A, T credit, 1 agenda point: Gain 10 credit."
+ :stripped-title "ONR Databroker"
+ :subtype [:onr-connection]
+ :text "A, T [credit], 1 agenda point: Gain 10 [credit]."
+ :title "ONR Databroker"
+ :type :resource
+ :uniqueness false}

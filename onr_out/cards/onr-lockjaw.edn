@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-lockjaw"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "T credit: Give one of your icebreakers +2 strength for the remainder of this run. Use this ability only during an encounter with a piece of ice."
+ :stripped-title "ONR Lockjaw"
+ :text "T [credit]: Give one of your icebreakers +2 strength for the remainder of this run. Use this ability only during an encounter with a piece of ice."
+ :title "ONR Lockjaw"
+ :type :program
+ :uniqueness false}

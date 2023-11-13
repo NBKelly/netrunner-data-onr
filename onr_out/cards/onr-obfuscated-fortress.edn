@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-obfuscated-fortress"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "At the start of a run on this fort, Runner must announce the number of bits he or she will spend during the run. Runner cannot spend more than this during that run. If Runner does not spend that many bits during that run, the Runner loses the remainder once the run is complete.  You may rez Obfuscated Fortress at the start of a run on this fort."
+ :stripped-title "ONR Obfuscated Fortress"
+ :text "At the start of a run on this fort, Runner must announce the number of bits he or she will spend during the run. Runner cannot spend more than this during that run. If Runner does not spend that many bits during that run, the Runner loses the remainder once the run is complete. \nYou may rez Obfuscated Fortress at the start of a run on this fort."
+ :title "ONR Obfuscated Fortress"
+ :trash-cost 0
+ :type :upgrade
+ :uniqueness false}

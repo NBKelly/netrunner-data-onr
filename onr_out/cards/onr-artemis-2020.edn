@@ -1,0 +1,13 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-artemis-2020"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +2 MU.  Put 2 credit from the bank on Artemis 2020 when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Artemis 2020"
+ :subtype [:onr-deck]
+ :text "Provides +2 MU. \nPut 2 [credit] from the bank on Artemis 2020 when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Artemis 2020"
+ :type :hardware
+ :uniqueness false}

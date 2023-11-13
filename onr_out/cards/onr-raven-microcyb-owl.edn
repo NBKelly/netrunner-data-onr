@@ -1,0 +1,13 @@
+{:cost 11
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-raven-microcyb-owl"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU.  Put 3 credit from the bank on Microcyb Owl when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Raven Microcyb Owl"
+ :subtype [:onr-deck :onr-stealth]
+ :text "Provides +1 MU. \nPut 3 [credit] from the bank on Microcyb Owl when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Raven Microcyb Owl"
+ :type :hardware
+ :uniqueness false}

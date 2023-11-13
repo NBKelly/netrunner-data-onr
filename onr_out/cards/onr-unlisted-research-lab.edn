@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-unlisted-research-lab"
+ :side :corp
+ :subtype [:onr-asset :onr-gray-ops]
+ :stripped-text "Draw an additional card at the start of each of your turns."
+ :stripped-title "ONR Unlisted Research Lab"
+ :text "Draw an additional card at the start of each of your turns."
+ :title "ONR Unlisted Research Lab"
+ :type :agenda
+ :uniqueness false}

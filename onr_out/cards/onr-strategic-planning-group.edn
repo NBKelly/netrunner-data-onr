@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-strategic-planning-group"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Whenever you draw one or more cards, draw an extra card. Then place one of the drawn cards on the bottom of R&D.  Only one unique card of a particular name can be in play at a time.  If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Strategic Planning Group"
+ :subtype [:onr-unique]
+ :text "Whenever you draw one or more cards, draw an extra card. Then place one of the drawn cards on the bottom of R&D. \nOnly one unique card of a particular name can be in play at a time. \nIf for some reason more than one is in play, trash all but one."
+ :title "ONR Strategic Planning Group"
+ :trash-cost 4
+ :type :asset
+ :uniqueness true}

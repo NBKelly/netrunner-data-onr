@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-political-coup"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "Put 12 credit from the bank on Political Coup when you score it.  A: Take 3 credit from Political Coup, if it has any bits."
+ :stripped-title "ONR Political Coup"
+ :text "Put 12 [credit] from the bank on Political Coup when you score it. \nA: Take 3 [credit] from Political Coup, if it has any bits."
+ :title "ONR Political Coup"
+ :type :agenda
+ :uniqueness false}

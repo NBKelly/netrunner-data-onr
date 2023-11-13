@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-big-frackin-gun"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 7
+ :stripped-text "6 credit: Break up to five sentry subroutines on a single piece of ice.  1 credit: +1 strength"
+ :stripped-title "ONR Big Frackin Gun"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "6 [credit]: Break up to five sentry subroutines on a single piece of ice. \n1 [credit]: +1 strength"
+ :title "ONR Big Frackin' Gun"
+ :type :program
+ :uniqueness false}

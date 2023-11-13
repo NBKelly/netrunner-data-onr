@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-hunting-pack"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "For each rezzed piece of ice installed outside Hunting Pack, Hunting Pack has one subroutine as follows: \"S creditTrace 5-If trace is successful, give Runner a tag.\""
+ :stripped-title "ONR Hunting Pack"
+ :subtype [:onr-sentry :onr-bloodhound]
+ :text "For each rezzed piece of ice installed outside Hunting Pack, Hunting Pack has one subroutine as follows: \"S [credit]Trace 5-If trace is successful, give Runner a tag.\""
+ :title "ONR Hunting Pack"
+ :type :ice
+ :uniqueness false}

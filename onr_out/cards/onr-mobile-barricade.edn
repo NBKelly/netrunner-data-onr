@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-mobile-barricade"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditDo 1 Net damage.  S creditEnd the run.  1 credit: Move Mobile Barricade and insert it in a different position on this data fort. Use this ability only at the start of a run on this data fort. You may use this ability even if Mobile Barricade is unrezzed, in which case, you reveal it."
+ :stripped-title "ONR Mobile Barricade"
+ :subtype [:onr-wall]
+ :text "S [credit]Do 1 Net damage. \nS [credit]End the run. \n1 [credit]: Move Mobile Barricade and insert it in a different position on this data fort. Use this ability only at the start of a run on this data fort. You may use this ability even if Mobile Barricade is unrezzed, in which case, you reveal it."
+ :title "ONR Mobile Barricade"
+ :type :ice
+ :uniqueness false}

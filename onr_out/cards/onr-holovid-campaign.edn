@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-holovid-campaign"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Put 12 credit from the bank on Holovid Campaign when you rez it.  Take 1 credit from Holovid Campaign at the start of each of your turns.  When all the bits have been removed, trash Holovid Campaign."
+ :stripped-title "ONR Holovid Campaign"
+ :subtype [:onr-advertisement]
+ :text "Put 12 [credit] from the bank on Holovid Campaign when you rez it. \nTake 1 [credit] from Holovid Campaign at the start of each of your turns. \nWhen all the bits have been removed, trash Holovid Campaign."
+ :title "ONR Holovid Campaign"
+ :trash-cost 7
+ :type :asset
+ :uniqueness false}

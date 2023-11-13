@@ -1,0 +1,12 @@
+{:cost 12
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-project-consultants"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Add four advancement counters to any combination of installed cards that can be advanced."
+ :stripped-title "ONR Project Consultants"
+ :text "Add four advancement counters to any combination of installed cards that can be advanced."
+ :title "ONR Project Consultants"
+ :type :operation
+ :uniqueness false}

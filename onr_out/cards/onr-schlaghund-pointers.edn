@@ -1,0 +1,12 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-schlaghund-pointers"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner has attempted a run this game.  Trace 3-If trace is successful, give Runner a tag. Pay 1 credit, in addition to the normal cost, for each point of trace above 0."
+ :stripped-title "ONR Schlaghund Pointers"
+ :text "Play only if Runner has attempted a run this game. \nTrace 3-If trace is successful, give Runner a tag. Pay 1 [credit], in addition to the normal cost, for each point of trace above 0."
+ :title "ONR Schlaghund Pointers"
+ :type :operation
+ :uniqueness false}

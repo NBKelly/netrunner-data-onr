@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-quandary"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Quandary"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run."
+ :title "ONR Quandary"
+ :type :ice
+ :uniqueness false}

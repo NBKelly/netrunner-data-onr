@@ -1,0 +1,12 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-lucidrine-tm-drip-feed"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "At the start of each of your turns, if there are two Drip counters on Drip Feed, remove all Drip counters from it and take 1 brain damage, which cannot be prevented; otherwise, put a Drip  counter on Drip Feed and gain an action."
+ :stripped-title "ONR Lucidrine TM Drip Feed"
+ :text "At the start of each of your turns, if there are two Drip counters on Drip Feed, remove all Drip counters from it and take 1 brain damage, which cannot be prevented; otherwise, put a Drip  counter on Drip Feed and gain an action."
+ :title "ONR Lucidrine [TM] Drip Feed"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-disintegrator"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :stripped-text "2 credit: Derez a piece of ice and end your run. Use this ability only when you have just broken all the subroutines of that piece of ice and have successfully passed it."
+ :stripped-title "ONR Disintegrator"
+ :text "2 [credit]: Derez a piece of ice and end your run. Use this ability only when you have just broken all the subroutines of that piece of ice and have successfully passed it."
+ :title "ONR Disintegrator"
+ :type :program
+ :uniqueness false}

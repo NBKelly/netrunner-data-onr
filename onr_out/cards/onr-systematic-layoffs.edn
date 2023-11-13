@@ -1,0 +1,12 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-systematic-layoffs"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Add two advancement counters to any combination of installed cards that can be advanced."
+ :stripped-title "ONR Systematic Layoffs"
+ :text "Add two advancement counters to any combination of installed cards that can be advanced."
+ :title "ONR Systematic Layoffs"
+ :type :operation
+ :uniqueness false}

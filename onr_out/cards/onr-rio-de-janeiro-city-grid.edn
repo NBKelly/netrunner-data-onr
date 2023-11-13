@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-rio-de-janeiro-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run.  Rez a region when you install it.  Install a region only if you can pay to rez it.  Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR Rio de Janeiro City Grid"
+ :subtype [:onr-region :onr-random]
+ :text "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run. \nRez a region when you install it. \nInstall a region only if you can pay to rez it. \nOnly one region may be installed in each fort. Trash older ones."
+ :title "ONR Rio de Janeiro City Grid"
+ :trash-cost 6
+ :type :upgrade
+ :uniqueness false}

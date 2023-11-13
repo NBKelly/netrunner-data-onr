@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-deal-with-militech"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you liberated any Research agendas this turn. Put a Militech counter on each of your icebreakers. A Militech counter gives the icebreaker it is on +1 strength."
+ :stripped-title "ONR Deal with Militech"
+ :text "Play only if you liberated any Research agendas this turn. Put a Militech counter on each of your icebreakers. A Militech counter gives the icebreaker it is on +1 strength."
+ :title "ONR Deal with Militech"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cascade"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you make a successful run on R&D, give the Corp a Cascade counter. Every two Cascade  counters require the Corp to trash faceup one card stored in R&D, at the start of each of its turns. The Corp may remove all Virus counters by forgoing its next three actions."
+ :stripped-title "ONR Cascade"
+ :subtype [:onr-virus]
+ :text "Whenever you make a successful run on R&D, give the Corp a Cascade counter. Every two Cascade \ncounters require the Corp to trash faceup one card stored in R&D, at the start of each of its turns. The Corp may remove all Virus counters by forgoing its next three actions."
+ :title "ONR Cascade"
+ :type :program
+ :uniqueness false}

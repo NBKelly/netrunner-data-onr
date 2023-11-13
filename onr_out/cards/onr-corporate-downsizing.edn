@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-downsizing"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "When you score Corporate Downsizing, show to Runner any number of agenda cards stored in HQ. Gain bits equal to twice the combined agenda points of these cards; then shuffle them into R&D."
+ :stripped-title "ONR Corporate Downsizing"
+ :text "When you score Corporate Downsizing, show to Runner any number of agenda cards stored in HQ. Gain bits equal to twice the combined agenda points of these cards; then shuffle them into R&D."
+ :title "ONR Corporate Downsizing"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-code-viral-cache"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ this turn. If the Corp forgoes actions to lose Virus counters, two counters of your choice are not removed.  The Corp may trash Viral Cache by taking an action to pay 5 credit."
+ :stripped-title "ONR Code Viral Cache"
+ :text "Play only if you made a successful run on HQ this turn. If the Corp forgoes actions to lose Virus counters, two counters of your choice are not removed. \nThe Corp may trash Viral Cache by taking an action to pay 5 [credit]."
+ :title "ONR Code Viral Cache"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-nevinyrral"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Gain an action during each of your turns.  If Nevinyrral leaves play while rezzed, you lose the game.  Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Nevinyrral"
+ :subtype [:onr-ai :onr-unique]
+ :text "Gain an action during each of your turns. \nIf Nevinyrral leaves play while rezzed, you lose the game. \nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Nevinyrral"
+ :trash-cost 5
+ :type :asset
+ :uniqueness false}

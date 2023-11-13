@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-nerve-labyrinth"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 2 Net damage.  S creditEnd the run."
+ :stripped-title "ONR Nerve Labyrinth"
+ :subtype [:onr-code-gate]
+ :text "S [credit]Do 2 Net damage. \nS [credit]End the run."
+ :title "ONR Nerve Labyrinth"
+ :type :ice
+ :uniqueness false}

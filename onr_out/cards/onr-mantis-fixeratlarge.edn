@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mantis-fixeratlarge"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Search your stack for a card, and bring it into your hand. Reshuffle your stack afterwards."
+ :stripped-title "ONR Mantis FixeratLarge"
+ :text "Search your stack for a card, and bring it into your hand. Reshuffle your stack afterwards."
+ :title "ONR Mantis, Fixer-at-Large"
+ :type :event
+ :uniqueness false}

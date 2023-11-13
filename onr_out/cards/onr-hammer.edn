@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-hammer"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "1 credit: Break wall subroutine.  1 credit: +1 strength. Whenever you break a wall subroutine with Hammer, lose a total of 2 credit from stealth cards."
+ :stripped-title "ONR Hammer"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "1 [credit]: Break wall subroutine. \n1 [credit]: +1 strength. Whenever you break a wall subroutine with Hammer, lose a total of 2 [credit] from stealth cards."
+ :title "ONR Hammer"
+ :type :program
+ :uniqueness false}

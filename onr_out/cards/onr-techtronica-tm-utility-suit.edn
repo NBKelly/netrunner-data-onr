@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-techtronica-tm-utility-suit"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU.  Prevents 1 meat damage each turn.  Put 5 credit on Techtronica TM credit Utility Suit when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Techtronica TM Utility Suit"
+ :subtype [:onr-deck]
+ :text "Provides +1 MU. \nPrevents 1 meat damage each turn. \nPut 5 [credit] on Techtronica TM [credit] Utility Suit when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Techtronica [TM] Utility Suit"
+ :type :hardware
+ :uniqueness false}

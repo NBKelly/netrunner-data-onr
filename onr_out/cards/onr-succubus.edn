@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-succubus"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Succubus can have up to 3 MU of programs installed in it. If Succubus leaves play, trash all programs installed in it."
+ :stripped-title "ONR Succubus"
+ :subtype [:onr-daemon]
+ :text "Succubus can have up to 3 MU of programs installed in it. If Succubus leaves play, trash all programs installed in it."
+ :title "ONR Succubus"
+ :type :program
+ :uniqueness false}

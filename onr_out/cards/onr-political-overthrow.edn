@@ -1,0 +1,13 @@
+{:advancement-requirement 9
+ :agenda-points 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-political-overthrow"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "A: Gain 3 credit."
+ :stripped-title "ONR Political Overthrow"
+ :text "A: Gain 3 [credit]."
+ :title "ONR Political Overthrow"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-department-of-misinformation"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may rez Department of Misinformation when Runner attempts to expose a card.  1 credit: Prevent a card from being exposed."
+ :stripped-title "ONR Department of Misinformation"
+ :subtype [:onr-asset]
+ :text "You may rez Department of Misinformation when Runner attempts to expose a card. \n1 [credit]: Prevent a card from being exposed."
+ :title "ONR Department of Misinformation"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

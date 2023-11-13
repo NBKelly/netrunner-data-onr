@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-executive-file-clerk"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "2 credit,T credit: Look at all cards stored in HQ. Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Executive File Clerk"
+ :subtype [:onr-connection :onr-hidden]
+ :text "2 [credit],T [credit]: Look at all cards stored in HQ. Hidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Executive File Clerk"
+ :type :resource
+ :uniqueness false}

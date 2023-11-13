@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-darts"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditDo 3 Net damage.  S creditRunner cannot break any subroutines of the next piece of ice encountered during the run."
+ :stripped-title "ONR Data Darts"
+ :subtype [:onr-sentry :onr-ap :onr-hellbolt]
+ :text "S [credit]Do 3 Net damage. \nS [credit]Runner cannot break any subroutines of the next piece of ice encountered during the run."
+ :title "ONR Data Darts"
+ :type :ice
+ :uniqueness false}

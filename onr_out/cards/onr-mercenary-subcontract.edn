@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mercenary-subcontract"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "4 credit, T credit: Trash, at no cost, one or more cards that you are currently accessing, even if those cards cannot normally be trashed.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Mercenary Subcontract"
+ :subtype [:onr-hidden :onr-sabotage]
+ :text "4 [credit], T [credit]: Trash, at no cost, one or more cards that you are currently accessing, even if those cards cannot normally be trashed. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Mercenary Subcontract"
+ :type :resource
+ :uniqueness false}

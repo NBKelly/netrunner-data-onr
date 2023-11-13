@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-netspace-inverter"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Reverse a fort's ice cards so that the outermost piece of ice becomes the innermost piece of ice, and so forth. Use this ability only immediately after a successful run on that data fort."
+ :stripped-title "ONR Netspace Inverter"
+ :text "Reverse a fort's ice cards so that the outermost piece of ice becomes the innermost piece of ice, and so forth. Use this ability only immediately after a successful run on that data fort."
+ :title "ONR Netspace Inverter"
+ :type :program
+ :uniqueness false}

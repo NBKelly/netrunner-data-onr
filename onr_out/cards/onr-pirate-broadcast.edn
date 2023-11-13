@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-pirate-broadcast"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on each data fort. Score 1 agenda point if all the runs are successful. Forgo your next action if any of the runs are not successful."
+ :stripped-title "ONR Pirate Broadcast"
+ :text "Make a run on each data fort. Score 1 agenda point if all the runs are successful. Forgo your next action if any of the runs are not successful."
+ :title "ONR Pirate Broadcast"
+ :type :event
+ :uniqueness false}

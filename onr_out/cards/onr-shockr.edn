@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-shockr"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditRunner cannot break any subroutines of the next piece of ice encountered during the run, and cannot jack out until after that encounter."
+ :stripped-title "ONR Shockr"
+ :subtype [:onr-sentry :onr-ap :onr-stun]
+ :text "S [credit]Runner cannot break any subroutines of the next piece of ice encountered during the run, and cannot jack out until after that encounter."
+ :title "ONR Shock.r"
+ :type :ice
+ :uniqueness false}

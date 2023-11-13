@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-signpost"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "1 credit: +2 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent."
+ :stripped-title "ONR Signpost"
+ :text "1 [credit]: +2 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent."
+ :title "ONR Signpost"
+ :type :program
+ :uniqueness false}

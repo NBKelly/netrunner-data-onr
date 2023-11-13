@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-satellite-monitors"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "At the start of each of your turns, you may roll a die for each run Runner made during his or her last turn. For each 1, give Runner a tag."
+ :stripped-title "ONR Satellite Monitors"
+ :text "At the start of each of your turns, you may roll a die for each run Runner made during his or her last turn. For each 1, give Runner a tag."
+ :title "ONR Satellite Monitors"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

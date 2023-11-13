@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-private-ldl-access"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, treat run as a successful run on R&D."
+ :stripped-title "ONR Private LDL Access"
+ :text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, treat run as a successful run on R&D."
+ :title "ONR Private LDL Access"
+ :type :event
+ :uniqueness false}

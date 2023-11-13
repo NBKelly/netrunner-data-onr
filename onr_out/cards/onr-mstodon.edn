@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mstodon"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "1 credit: Break sentry subroutine. 1 credit: +1 strength The first time during each run that you break a sentry subroutine with MS-todon, lose all bits from all stealth cards, if you can, and the Corp gives you a tag."
+ :stripped-title "ONR MStodon"
+ :subtype [:onr-icebreaker :onr-killer :onr-noisy]
+ :text "1 [credit]: Break sentry subroutine.\n1 [credit]: +1 strength\nThe first time during each run that you break a sentry subroutine with MS-todon, lose all bits from all stealth cards, if you can, and the Corp gives you a tag."
+ :title "ONR MS-todon"
+ :type :program
+ :uniqueness false}

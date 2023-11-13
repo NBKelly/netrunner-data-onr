@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wrecking-ball"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "0 credit: Break wall subroutine.  2 credit: +1 strength.  Whenever you break a wall subroutine with Wrecking Ball, lose 1 credit from a stealth card."
+ :stripped-title "ONR Wrecking Ball"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "0 [credit]: Break wall subroutine. \n2 [credit]: +1 strength. \nWhenever you break a wall subroutine with Wrecking Ball, lose 1 [credit] from a stealth card."
+ :title "ONR Wrecking Ball"
+ :type :program
+ :uniqueness false}

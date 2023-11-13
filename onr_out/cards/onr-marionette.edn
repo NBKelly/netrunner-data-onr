@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-marionette"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditTrash a program.  S creditEnd the run.  If Runner passes Marionette, pay 1 credit, or uninstall it and store it in HQ."
+ :stripped-title "ONR Marionette"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run. \nIf Runner passes Marionette, pay 1 [credit], or uninstall it and store it in HQ."
+ :title "ONR Marionette"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bbs-whispering-campaign"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Put 16 credit from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign.  A: Take 2 credit from BBS Whispering Campaign."
+ :stripped-title "ONR BBS Whispering Campaign"
+ :subtype [:onr-advertisement]
+ :text "Put 16 [credit] from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign. \nA: Take 2 [credit] from BBS Whispering Campaign."
+ :title "ONR BBS Whispering Campaign"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

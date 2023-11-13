@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bioweapons-engineering"
+ :side :corp
+ :subtype [:onr-research]
+ :stripped-text "Each source of meat damage inflicts +1 meat damage."
+ :stripped-title "ONR Bioweapons Engineering"
+ :text "Each source of meat damage inflicts +1 meat damage."
+ :title "ONR Bioweapons Engineering"
+ :type :agenda
+ :uniqueness false}

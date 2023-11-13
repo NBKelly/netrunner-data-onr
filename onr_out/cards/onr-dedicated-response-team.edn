@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-dedicated-response-team"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged."
+ :stripped-title "ONR Dedicated Response Team"
+ :subtype [:onr-ambush]
+ :text "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged."
+ :title "ONR Dedicated Response Team"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

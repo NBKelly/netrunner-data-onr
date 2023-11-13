@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-rockerboy-promotion"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Put 15 credit from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion.  A: Take 3 credit from Rockerboy Promotion."
+ :stripped-title "ONR Rockerboy Promotion"
+ :subtype [:onr-advertisement]
+ :text "Put 15 [credit] from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion. \nA: Take 3 [credit] from Rockerboy Promotion."
+ :title "ONR Rockerboy Promotion"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

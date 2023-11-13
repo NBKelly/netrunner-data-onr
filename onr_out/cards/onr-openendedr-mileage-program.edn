@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-openendedr-mileage-program"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Remove a tag, at no cost. You may pay 1 credit when you play Open-Ended(R) Mileage Program to take it back into your hand instead of trashing it."
+ :stripped-title "ONR OpenEndedR Mileage Program"
+ :text "Remove a tag, at no cost. You may pay 1 [credit] when you play Open-Ended(R) Mileage Program to take it back into your hand instead of trashing it."
+ :title "ONR Open-Ended(R) Mileage Program"
+ :type :event
+ :uniqueness false}

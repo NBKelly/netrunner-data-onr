@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-gideons-pawnshop"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Search your trash for a card and bring it into your hand."
+ :stripped-title "ONR Gideons Pawnshop"
+ :text "Search your trash for a card and bring it into your hand."
+ :title "ONR Gideon's Pawnshop"
+ :type :event
+ :uniqueness false}

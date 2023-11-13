@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-on-the-fast-track"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 8 credit if you trashed an advertisement card this turn, or gain 6 credit if you trashed a transactions card this turn."
+ :stripped-title "ONR On the Fast Track"
+ :text "Gain 8 [credit] if you trashed an advertisement card this turn, or gain 6 [credit] if you trashed a transactions card this turn."
+ :title "ONR On the Fast Track"
+ :type :event
+ :uniqueness false}

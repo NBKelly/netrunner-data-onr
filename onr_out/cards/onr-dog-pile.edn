@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-dog-pile"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditDo 1 Net damage for each rezzed piece of ice installed outside Dog Pile. S creditEnd the run. Dog Pile has +1 strength for each rezzed piece of ice installed outside it."
+ :stripped-title "ONR Dog Pile"
+ :subtype [:onr-ice :onr-sentry :onr-ap]
+ :text "S [credit]Do 1 Net damage for each rezzed piece of ice installed outside Dog Pile.\nS [credit]End the run.\nDog Pile has +1 strength for each rezzed piece of ice installed outside it."
+ :title "ONR Dog Pile"
+ :type :ice
+ :uniqueness false}

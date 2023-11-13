@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-jerusalem-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Cost to rez walls on this fort is reduced by 2 credit. All walls on this fort have +1 strength.  Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR Jerusalem City Grid"
+ :subtype [:onr-region]
+ :text "Cost to rez walls on this fort is reduced by 2 [credit]. All walls on this fort have +1 strength. \nRez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones."
+ :title "ONR Jerusalem City Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

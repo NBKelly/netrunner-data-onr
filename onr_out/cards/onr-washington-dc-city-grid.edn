@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-washington-dc-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "The difficulty of agendas installed inside this fort is reduced by 1.  Rez a region when you install it.  Install a region only if you can pay to rez it.  Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR Washington DC City Grid"
+ :subtype [:onr-region]
+ :text "The difficulty of agendas installed inside this fort is reduced by 1. \nRez a region when you install it. \nInstall a region only if you can pay to rez it. \nOnly one region may be installed in each fort. Trash older ones."
+ :title "ONR Washington, D.C., City Grid"
+ :trash-cost 6
+ :type :upgrade
+ :uniqueness false}

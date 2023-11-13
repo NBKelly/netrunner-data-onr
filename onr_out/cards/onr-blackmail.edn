@@ -1,0 +1,12 @@
+{:cost 12
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-blackmail"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, score 1 agenda point."
+ :stripped-title "ONR Blackmail"
+ :text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, score 1 agenda point."
+ :title "ONR Blackmail"
+ :type :event
+ :uniqueness false}

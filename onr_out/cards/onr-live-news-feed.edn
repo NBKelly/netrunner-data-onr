@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-live-news-feed"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. If run is successful, the Corp gives you two tags, and you give the Corp 1 Bad Publicity point for each black ice you encountered during the run, 1 for each Black Ops card the Corp rezzed during the run, and 1 for each Black Ops agenda you liberated during the run. If the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :stripped-title "ONR Live News Feed"
+ :subtype [:onr-bad-publicity]
+ :text "Make a run. If run is successful, the Corp gives you two tags, and you give the Corp 1 Bad Publicity point for each black ice you encountered during the run, 1 for each Black Ops card the Corp rezzed during the run, and 1 for each Black Ops agenda you liberated during the run.\nIf the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :title "ONR Live News Feed"
+ :type :event
+ :uniqueness false}

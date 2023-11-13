@@ -1,0 +1,13 @@
+{:advancement-requirement 12
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-world-domination"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "Score an additional 4 agenda points when you score World Domination."
+ :stripped-title "ONR World Domination"
+ :text "Score an additional 4 agenda points when you score World Domination."
+ :title "ONR World Domination"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-gremlins"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you make a successful run on HQ, give the Corp a Gremlin counter. Every two Gremlin counters decrease the Corp's hand size by 1.  The Corp may remove all Virus counters by forgoing its next three actions."
+ :stripped-title "ONR Gremlins"
+ :subtype [:onr-virus]
+ :text "Whenever you make a successful run on HQ, give the Corp a Gremlin counter. Every two Gremlin counters decrease the Corp's hand size by 1. \nThe Corp may remove all Virus counters by forgoing its next three actions."
+ :title "ONR Gremlins"
+ :type :program
+ :uniqueness false}

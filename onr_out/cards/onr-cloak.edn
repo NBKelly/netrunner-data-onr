@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cloak"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Put 3 credit from the bank on Cloak when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn."
+ :stripped-title "ONR Cloak"
+ :subtype [:onr-stealth]
+ :text "Put 3 [credit] from the bank on Cloak when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn."
+ :title "ONR Cloak"
+ :type :program
+ :uniqueness false}

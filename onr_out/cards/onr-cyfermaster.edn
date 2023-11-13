@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cyfermaster"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 5
+ :stripped-text "2 credit: Break code gate subroutine. 1 credit: +1 strength."
+ :stripped-title "ONR Cyfermaster"
+ :subtype [:onr-icebreaker]
+ :text "2 [credit]: Break code gate subroutine. 1 [credit]: +1 strength."
+ :title "ONR Cyfermaster"
+ :type :program
+ :uniqueness false}

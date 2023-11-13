@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-the-personal-touch"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put a +1 strength counter on an icebreaker."
+ :stripped-title "ONR The Personal Touch"
+ :text "Put a +1 strength counter on an icebreaker."
+ :title "ONR The Personal Touch"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-crystal-wall"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Crystal Wall"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run."
+ :title "ONR Crystal Wall"
+ :type :ice
+ :uniqueness false}

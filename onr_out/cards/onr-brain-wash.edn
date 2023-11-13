@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-brain-wash"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditDo 1 brain damage."
+ :stripped-title "ONR Brain Wash"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-brainwipe]
+ :text "S [credit]Do 1 brain damage."
+ :title "ONR Brain Wash"
+ :type :ice
+ :uniqueness false}

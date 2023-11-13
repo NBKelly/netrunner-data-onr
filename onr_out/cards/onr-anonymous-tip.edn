@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-anonymous-tip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Derez a piece of black ice of your choice."
+ :stripped-title "ONR Anonymous Tip"
+ :subtype [:onr-sabotage]
+ :text "Derez a piece of black ice of your choice."
+ :title "ONR Anonymous Tip"
+ :type :event
+ :uniqueness false}

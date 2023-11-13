@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-streetware-distributor"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Take 1 credit from Streetware Distributor, if it has any bits, at the start of each of your turns. A: Put 3 credit from the bank on Streetware Distributor."
+ :stripped-title "ONR Streetware Distributor"
+ :subtype [:onr-bbs :onr-position]
+ :text "Take 1 [credit] from Streetware Distributor, if it has any bits, at the start of each of your turns.\nA: Put 3 [credit] from the bank on Streetware Distributor."
+ :title "ONR Streetware Distributor"
+ :type :resource
+ :uniqueness false}

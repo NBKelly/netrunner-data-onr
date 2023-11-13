@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-renttoown-contract"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Rez a piece of ice, at no cost. Put on that ice a number of Term counters equal to its rez cost. At the start of each of your turns, if you have at least 2 credit, lose 2 credit and remove one of these Term counters; otherwise, put a Term counter on that piece of ice."
+ :stripped-title "ONR RenttoOwn Contract"
+ :subtype [:onr-transactions]
+ :text "Rez a piece of ice, at no cost. Put on that ice a number of Term counters equal to its rez cost. At the start of each of your turns, if you have at least 2 [credit], lose 2 [credit] and remove one of these Term counters; otherwise, put a Term counter on that piece of ice."
+ :title "ONR Rent-to-Own Contract"
+ :type :operation
+ :uniqueness false}

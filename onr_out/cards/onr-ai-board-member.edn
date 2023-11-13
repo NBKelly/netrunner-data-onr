@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-ai-board-member"
+ :side :corp
+ :subtype [:onr-research :onr-ai :onr-random]
+ :stripped-text "You may gain an action during each of your turns. At the start of each of your turns, roll a die to see what the action will be for that turn, and then decide whether to take it. On a 1, you may use the action only to install a card; on a 2 or 3, only to gain 1; on a 4, 5, or 6, only to draw a card."
+ :stripped-title "ONR AI Board Member"
+ :text "You may gain an action during each of your turns. At the start of each of your turns, roll a die to see what the action will be for that turn, and then decide whether to take it. On a 1, you may use the action only to install a card; on a 2 or 3, only to gain 1; on a 4, 5, or 6, only to draw a card."
+ :title "ONR AI Board Member"
+ :type :agenda
+ :uniqueness false}

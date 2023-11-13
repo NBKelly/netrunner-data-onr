@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-poltergeist"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Put 2 credit on Poltergeist when it is installed. Use these bits only to pay for trashing nodes. If you use any of these bits, replace them at the start of your next turn."
+ :stripped-title "ONR Poltergeist"
+ :text "Put 2 [credit] on Poltergeist when it is installed. Use these bits only to pay for trashing nodes. If you use any of these bits, replace them at the start of your next turn."
+ :title "ONR Poltergeist"
+ :type :program
+ :uniqueness false}

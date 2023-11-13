@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-viral-15"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditFor the remainder of the run, Runner must pay 1 credit to jack out, in addition to any other costs. S creditFor the remainder of the run, Runner trashes an installed program after passing each piece of rezzed ice, including Viral 15, unless Runner jacks out."
+ :stripped-title "ONR Viral 15"
+ :subtype [:onr-sentry]
+ :text "S [credit]For the remainder of the run, Runner must pay 1 [credit] to jack out, in addition to any other costs.\nS [credit]For the remainder of the run, Runner trashes an installed program after passing each piece of rezzed ice, including Viral 15, unless Runner jacks out."
+ :title "ONR Viral 15"
+ :type :ice
+ :uniqueness false}

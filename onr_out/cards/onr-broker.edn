@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-broker"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Each of your turns, you may take only one action to use Broker.  A: Put 3 credit from the bank on Broker.  A: Take all the bits from Broker."
+ :stripped-title "ONR Broker"
+ :subtype [:onr-connection]
+ :text "Each of your turns, you may take only one action to use Broker. \nA: Put 3 [credit] from the bank on Broker. \nA: Take all the bits from Broker."
+ :title "ONR Broker"
+ :type :resource
+ :uniqueness false}

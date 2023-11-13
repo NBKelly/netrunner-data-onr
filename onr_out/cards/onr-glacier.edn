@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-glacier"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "Rezzing Glacier cost 1 agenda point, in addition to the normal cost. S creditEnd the run. S creditEnd the run. 1 credit: Move Glacier to the outermost position of any other data fort. Use this ability only at the start of a run. You may use this ability even if Glacier is unrezzed, in which case, you reveal it."
+ :stripped-title "ONR Glacier"
+ :subtype [:onr-wall]
+ :text "Rezzing Glacier cost 1 agenda point, in addition to the normal cost.\nS [credit]End the run.\nS [credit]End the run.\n1 [credit]: Move Glacier to the outermost position of any other data fort. Use this ability only at the start of a run. You may use this ability even if Glacier is unrezzed, in which case, you reveal it."
+ :title "ONR Glacier"
+ :type :ice
+ :uniqueness false}

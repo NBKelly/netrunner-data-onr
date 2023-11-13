@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cortical-stimulators"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Prevents 1 Net or brain damage each turn."
+ :stripped-title "ONR Cortical Stimulators"
+ :subtype [:onr-cybernetics]
+ :text "Prevents 1 Net or brain damage each turn."
+ :title "ONR Cortical Stimulators"
+ :type :hardware
+ :uniqueness false}

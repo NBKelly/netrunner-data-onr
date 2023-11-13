@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-speed-trap"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "0 credit: Jack out before an upgrade or node takes effect. Use this ability only immediately after the Corp has rezzed that upgrade or node."
+ :stripped-title "ONR Speed Trap"
+ :subtype [:onr-detection]
+ :text "0 [credit]: Jack out before an upgrade or node takes effect. Use this ability only immediately after the Corp has rezzed that upgrade or node."
+ :title "ONR Speed Trap"
+ :type :program
+ :uniqueness false}

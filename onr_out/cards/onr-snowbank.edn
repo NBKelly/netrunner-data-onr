@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-snowbank"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditEnd the run unless Runner pays 1 credit.  Gain 3 credit when you rez Snowbank."
+ :stripped-title "ONR Snowbank"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run unless Runner pays 1 [credit]. \nGain 3 [credit] when you rez Snowbank."
+ :title "ONR Snowbank"
+ :type :ice
+ :uniqueness false}

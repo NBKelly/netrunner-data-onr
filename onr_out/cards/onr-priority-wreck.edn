@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-priority-wreck"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, pay any number of bits to force the Corp to lose that many bits."
+ :stripped-title "ONR Priority Wreck"
+ :subtype [:onr-sabotage]
+ :text "Make a run on HQ. If run is successful, do not access cards from HQ; instead, pay any number of bits to force the Corp to lose that many bits."
+ :title "ONR Priority Wreck"
+ :type :event
+ :uniqueness false}

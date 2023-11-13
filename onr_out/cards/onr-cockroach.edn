@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cockroach"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you make a successful run on HQ, give the Corp a Cockroach counter. Two or more Cockroach counters cause all discards from HQ to become random. The Corp may remove all Virus counters by forgoing its next three actions."
+ :stripped-title "ONR Cockroach"
+ :subtype [:onr-virus]
+ :text "Whenever you make a successful run on HQ, give the Corp a Cockroach counter. Two or more Cockroach counters cause all discards from HQ to become random. The Corp may remove all Virus counters by forgoing its next three actions."
+ :title "ONR Cockroach"
+ :type :program
+ :uniqueness false}

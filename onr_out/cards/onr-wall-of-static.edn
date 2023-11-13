@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-wall-of-static"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Wall of Static"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run."
+ :title "ONR Wall of Static"
+ :type :ice
+ :uniqueness false}

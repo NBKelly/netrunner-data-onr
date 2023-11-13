@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-butcher-boy"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you make a successful run on HQ, give the Corp a Butcher Boy counter. Every two Butcher Boy counters gain you 1 credit at the start of each of your turns. The Corp may remove all Virus counters by forgoing its next three actions."
+ :stripped-title "ONR Butcher Boy"
+ :subtype [:onr-virus]
+ :text "Whenever you make a successful run on HQ, give the Corp a Butcher Boy counter. Every two Butcher Boy counters gain you 1 [credit] at the start of each of your turns. The Corp may remove all Virus counters by forgoing its next three actions."
+ :title "ONR Butcher Boy"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-afreet"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Afreet can have up to 3 MU of programs installed in it.  All icebreakers installed in Afreet have their strength reduced by 1.  If Afreet leaves play, trash all programs installed in it."
+ :stripped-title "ONR Afreet"
+ :subtype [:onr-daemon]
+ :text "Afreet can have up to 3 MU of programs installed in it. \nAll icebreakers installed in Afreet have their strength reduced by 1. \nIf Afreet leaves play, trash all programs installed in it."
+ :title "ONR Afreet"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-runner-sensei"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "2 credit: Base link 4.  2 credit: +1 link. Gain 1 credit whenever you successfully use Runner Sensei to avoid a trace.  Use only one base link card for each trace attempt made against you."
+ :stripped-title "ONR Runner Sensei"
+ :subtype [:onr-base-link :onr-position]
+ :text "2 [credit]: Base link 4. \n2 [credit]: +1 link. Gain 1 [credit] whenever you successfully use Runner Sensei to avoid a trace. \nUse only one base link card for each trace attempt made against you."
+ :title "ONR Runner Sensei"
+ :type :resource
+ :uniqueness false}

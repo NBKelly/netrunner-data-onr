@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-if-you-want-it-done-right"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Look through the top five cards of your stack. Bring one of those cards into your hand, and arrange the rest in any order you choose."
+ :stripped-title "ONR If You Want It Done Right"
+ :text "Look through the top five cards of your stack. Bring one of those cards into your hand, and arrange the rest in any order you choose."
+ :title "ONR If You Want It Done Right..."
+ :type :event
+ :uniqueness false}

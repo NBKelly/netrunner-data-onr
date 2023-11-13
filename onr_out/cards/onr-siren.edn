@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-siren"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Rez Siren when you install it. Install Siren only if you can pay to rez it.  1 credit: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run."
+ :stripped-title "ONR Siren"
+ :text "Rez Siren when you install it. Install Siren only if you can pay to rez it. \n1 [credit]: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run."
+ :title "ONR Siren"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

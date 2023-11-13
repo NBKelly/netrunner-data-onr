@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-closed-accounts"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner is tagged. Runner loses all bits."
+ :stripped-title "ONR Closed Accounts"
+ :subtype [:onr-gray-ops]
+ :text "Play only if Runner is tagged. Runner loses all bits."
+ :title "ONR Closed Accounts"
+ :type :operation
+ :uniqueness false}

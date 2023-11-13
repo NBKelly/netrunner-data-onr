@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-crash-everett-inventive-fixer"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Whenever you draw one or more cards from your stack, draw an extra card; then choose one of the cards drawn and either trash it or return it to the top of your stack.  Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Crash Everett Inventive Fixer"
+ :subtype [:onr-connection :onr-unique]
+ :text "Whenever you draw one or more cards from your stack, draw an extra card; then choose one of the cards drawn and either trash it or return it to the top of your stack. \nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Crash Everett, Inventive Fixer"
+ :type :resource
+ :uniqueness false}

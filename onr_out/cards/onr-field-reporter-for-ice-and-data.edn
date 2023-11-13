@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-field-reporter-for-ice-and-data"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "At the end of each of your turns, gain 1 credit for each piece of ice the Corp rezzed during that turn."
+ :stripped-title "ONR Field Reporter for Ice and Data"
+ :subtype [:onr-position]
+ :text "At the end of each of your turns, gain 1 [credit] for each piece of ice the Corp rezzed during that turn."
+ :title "ONR Field Reporter for Ice and Data"
+ :type :resource
+ :uniqueness false}

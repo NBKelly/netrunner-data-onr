@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-hunter"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrace 5-If trace is succesful, give Runner a tag."
+ :stripped-title "ONR Hunter"
+ :subtype [:onr-sentry :onr-bloodhound]
+ :text "S [credit]Trace 5-If trace is succesful, give Runner a tag."
+ :title "ONR Hunter"
+ :type :ice
+ :uniqueness false}

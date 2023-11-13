@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-danshis-second-id"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A, T credit: Remove up to three tags, at no cost."
+ :stripped-title "ONR Danshis Second ID"
+ :text "A, T [credit]: Remove up to three tags, at no cost."
+ :title "ONR Danshi's Second ID"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-organ-donor"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Trash up to five cards from your hand. Gain 2 credit for each card trashed in this way."
+ :stripped-title "ONR Organ Donor"
+ :text "Trash up to five cards from your hand. Gain 2 [credit] for each card trashed in this way."
+ :title "ONR Organ Donor"
+ :type :event
+ :uniqueness false}

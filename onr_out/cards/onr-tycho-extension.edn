@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-tycho-extension"
+ :side :corp
+ :subtype [:onr-asset]
+ :stripped-text ""
+ :stripped-title "ONR Tycho Extension"
+ :text ""
+ :title "ONR Tycho Extension"
+ :type :agenda
+ :uniqueness false}

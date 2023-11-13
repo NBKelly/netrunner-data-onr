@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-sentinels-prime"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR Sentinels Prime"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR Sentinels Prime"
+ :type :ice
+ :uniqueness false}

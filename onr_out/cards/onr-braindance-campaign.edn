@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-braindance-campaign"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Put 12 credit from the bank on Braindance Campaign when you rez it.  Take 2 credit from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign."
+ :stripped-title "ONR Braindance Campaign"
+ :subtype [:onr-advertisement :onr-gray-ops]
+ :text "Put 12 [credit] from the bank on Braindance Campaign when you rez it. \nTake 2 [credit] from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign."
+ :title "ONR Braindance Campaign"
+ :trash-cost 7
+ :type :asset
+ :uniqueness false}

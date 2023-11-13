@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-flak"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "1 credit: Break AP subroutine.  1 credit: +1 strength."
+ :stripped-title "ONR Flak"
+ :subtype [:onr-icebreaker]
+ :text "1 [credit]: Break AP subroutine. \n1 [credit]: +1 strength."
+ :title "ONR Flak"
+ :type :program
+ :uniqueness false}

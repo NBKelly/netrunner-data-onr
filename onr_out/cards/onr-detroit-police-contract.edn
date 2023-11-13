@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-detroit-police-contract"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "Put 12 credit from the bank on Detroit Police Contract when you score it.  Take 2 credit from Detroit Police Contract, if it has any bits, at the start of each of your turns."
+ :stripped-title "ONR Detroit Police Contract"
+ :text "Put 12 [credit] from the bank on Detroit Police Contract when you score it. \nTake 2 [credit] from Detroit Police Contract, if it has any bits, at the start of each of your turns."
+ :title "ONR Detroit Police Contract"
+ :type :agenda
+ :uniqueness false}

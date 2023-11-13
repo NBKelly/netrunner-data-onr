@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-haunting-inquisition"
+ :influence-cost 1
+ :side :corp
+ :strength 6
+ :stripped-text "S creditRunner cannot make another run during his or her next six actions.  S creditEnd the run."
+ :stripped-title "ONR Haunting Inquisition"
+ :subtype [:onr-code-gate]
+ :text "S [credit]Runner cannot make another run during his or her next six actions. \nS [credit]End the run."
+ :title "ONR Haunting Inquisition"
+ :type :ice
+ :uniqueness false}

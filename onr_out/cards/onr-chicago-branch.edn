@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-chicago-branch"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A, 3 credit: Add two advancement counters to an installed card that can be advanced."
+ :stripped-title "ONR Chicago Branch"
+ :subtype [:onr-asset]
+ :text "A, 3 [credit]: Add two advancement counters to an installed card that can be advanced."
+ :title "ONR Chicago Branch"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

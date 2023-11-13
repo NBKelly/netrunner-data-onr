@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-pocket-virtual-reality"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditTrace 6-If trace is successful, give Runner a tag.  S creditTrace 6-If trace is successful, give Runner a tag. Whenever Pocket Virtual Reality is encountered, gain 4 credit.  Use these bits only to pay for the above traces. When the encounter ends, return to the bank any of the 4 credit you did not spend."
+ :stripped-title "ONR Pocket Virtual Reality"
+ :subtype [:onr-sentry]
+ :text "S [credit]Trace 6-If trace is successful, give Runner a tag. \nS [credit]Trace 6-If trace is successful, give Runner a tag. Whenever Pocket Virtual Reality is encountered, gain 4 [credit]. \nUse these bits only to pay for the above traces. When the encounter ends, return to the bank any of the 4 [credit] you did not spend."
+ :title "ONR Pocket Virtual Reality"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-stakeout"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 2 credit and draw one card."
+ :stripped-title "ONR Stakeout"
+ :text "Gain 2 [credit] and draw one card."
+ :title "ONR Stakeout"
+ :type :event
+ :uniqueness false}

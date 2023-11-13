@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-south-african-mining-corp"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A, A, A: Gain 6 credit."
+ :stripped-title "ONR South African Mining Corp"
+ :subtype [:onr-transactions]
+ :text "A, A, A: Gain 6 [credit]."
+ :title "ONR South African Mining Corp"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

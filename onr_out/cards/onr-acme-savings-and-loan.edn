@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-acme-savings-and-loan"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12 credit and trash ACME S&L. For the remainder of the game, pay 1 credit at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12 credit."
+ :stripped-title "ONR ACME Savings and Loan"
+ :subtype [:onr-transactions]
+ :text "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12 [credit] and trash ACME S&L. For the remainder of the game, pay 1 [credit] at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12 [credit]."
+ :title "ONR ACME Savings and Loan"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

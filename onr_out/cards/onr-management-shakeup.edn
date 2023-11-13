@@ -1,0 +1,12 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-management-shakeup"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Add three advancement counters to any combination of installed cards that can be advanced."
+ :stripped-title "ONR Management ShakeUp"
+ :text "Add three advancement counters to any combination of installed cards that can be advanced."
+ :title "ONR Management Shake-Up"
+ :type :operation
+ :uniqueness false}

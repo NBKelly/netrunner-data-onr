@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-canis-minor"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditFor the remainder of the run, all further ice is encountered at +1 strength."
+ :stripped-title "ONR Canis Minor"
+ :subtype [:onr-sentry :onr-watchdog]
+ :text "S [credit]For the remainder of the run, all further ice is encountered at +1 strength."
+ :title "ONR Canis Minor"
+ :type :ice
+ :uniqueness false}

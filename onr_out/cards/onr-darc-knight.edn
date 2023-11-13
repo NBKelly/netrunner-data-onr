@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-darc-knight"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR DArc Knight"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR D'Arc Knight"
+ :type :ice
+ :uniqueness false}

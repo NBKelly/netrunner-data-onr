@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-dr-dreff"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Pay half of that card's rez cost, rounded down, to force Runner to encounter it; the run is not considered successful unless Runner passes that piece of ice. Trash that ice after the encounter ends.  Use this ability only once during each run on this fort."
+ :stripped-title "ONR Dr Dreff"
+ :subtype [:onr-sysop]
+ :text "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Pay half of that card's rez cost, rounded down, to force Runner to encounter it; the run is not considered successful unless Runner passes that piece of ice. Trash that ice after the encounter ends. \nUse this ability only once during each run on this fort."
+ :title "ONR Dr. Dreff"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

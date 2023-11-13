@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-edgerunner-inc-temps"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Gain three consecutive actions, which you may use only to install cards. You are not required to take all three of these actions."
+ :stripped-title "ONR Edgerunner Inc Temps"
+ :text "Gain three consecutive actions, which you may use only to install cards. You are not required to take all three of these actions."
+ :title "ONR Edgerunner, Inc., Temps"
+ :type :operation
+ :uniqueness false}

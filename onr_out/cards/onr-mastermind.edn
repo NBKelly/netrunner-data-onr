@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-mastermind"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditDo 1 brain damage for each rezzed piece of ice installed outside Mastermind.  S creditEnd the run. Mastermind has +1 strength for each rezzed piece of ice installed outside it."
+ :stripped-title "ONR Mastermind"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-zombie]
+ :text "S [credit]Do 1 brain damage for each rezzed piece of ice installed outside Mastermind. \nS [credit]End the run.\nMastermind has +1 strength for each rezzed piece of ice installed outside it."
+ :title "ONR Mastermind"
+ :type :ice
+ :uniqueness false}

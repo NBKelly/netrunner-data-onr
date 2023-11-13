@@ -1,0 +1,15 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-evil-twin"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "3 credit: Break sentry subroutine.  1 credit: +1 strength. Prevents up to 2 Net and/or brain damage total each turn."
+ :stripped-title "ONR Evil Twin"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "3 [credit]: Break sentry subroutine. \n1 [credit]: +1 strength. Prevents up to 2 Net and/or brain damage total each turn."
+ :title "ONR Evil Twin"
+ :type :program
+ :uniqueness false}

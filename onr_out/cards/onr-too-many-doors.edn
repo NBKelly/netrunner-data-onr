@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-too-many-doors"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditSecretly spend 0 credit, 1 credit, or 2 credit; Runner does the same. Then you and Runner reveal how much each of you spent. End the run unless you spent as many bits as Runner spent."
+ :stripped-title "ONR Too Many Doors"
+ :subtype [:onr-sentry]
+ :text "S [credit]Secretly spend 0 [credit], 1 [credit], or 2 [credit]; Runner does the same. Then you and Runner reveal how much each of you spent. End the run unless you spent as many bits as Runner spent."
+ :title "ONR Too Many Doors"
+ :type :ice
+ :uniqueness false}

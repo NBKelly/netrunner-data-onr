@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-back-door-to-netwatch"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "3 credit, T credit: Cancel the effect of a successful trace. Give the Corp 1 Bad Publicity point if the trace would have had an effect other than or in addition to giving you any tags. Hidden resources are installed face down, but are put into the trash face up.  If the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :stripped-title "ONR Back Door to Netwatch"
+ :subtype [:onr-hidden :onr-bad-publicity]
+ :text "3 [credit], T [credit]: Cancel the effect of a successful trace. Give the Corp 1 Bad Publicity point if the trace would have had an effect other than or in addition to giving you any tags. Hidden resources are installed face down, but are put into the trash face up. \nIf the Corp has 7 or more Bad Publicity points, it loses the game, even if it fulfills victory conditions at the same time."
+ :title "ONR Back Door to Netwatch"
+ :type :resource
+ :uniqueness false}

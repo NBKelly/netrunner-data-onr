@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-zetatech-portastation"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 1 credit from the bank on Zetatech Portostation when it is installed. Use this bit only to pay for playing preps. If you use the bit, replace it from the bank at the start of your next turn."
+ :stripped-title "ONR Zetatech Portastation"
+ :text "Put 1 [credit] from the bank on Zetatech Portostation when it is installed. Use this bit only to pay for playing preps. If you use the bit, replace it from the bank at the start of your next turn."
+ :title "ONR Zetatech Portastation"
+ :type :hardware
+ :uniqueness false}

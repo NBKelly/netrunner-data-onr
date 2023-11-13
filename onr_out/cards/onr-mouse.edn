@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mouse"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "A: Expose a card installed inside a data fort."
+ :stripped-title "ONR Mouse"
+ :subtype [:onr-detection]
+ :text "A: Expose a card installed inside a data fort."
+ :title "ONR Mouse"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-panic-button"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Install Panic Button only in HQ.  1 credit: Draw a card. Use this ability only during a run on HQ."
+ :stripped-title "ONR Panic Button"
+ :text "Install Panic Button only in HQ. \n1 [credit]: Draw a card. Use this ability only during a run on HQ."
+ :title "ONR Panic Button"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

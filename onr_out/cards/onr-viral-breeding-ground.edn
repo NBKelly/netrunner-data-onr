@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-viral-breeding-ground"
+ :side :corp
+ :subtype [:onr-research :onr-ambush :onr-virus]
+ :stripped-text "When you score Breeding Ground, trash all cards installed in or on the fort Breeding Ground was installed in. When Runner accesses Breeding Ground, choose up to two programs for each advancement counter on Breeding Ground; Runner brings those programs into his or her hand."
+ :stripped-title "ONR Viral Breeding Ground"
+ :text "When you score Breeding Ground, trash all cards installed in or on the fort Breeding Ground was installed in. When Runner accesses Breeding Ground, choose up to two programs for each advancement counter on Breeding Ground; Runner brings those programs into his or her hand."
+ :title "ONR Viral Breeding Ground"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-taxman"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "After each successful run on HQ, give the Corp a Tax counter. Every two Tax counters cause the Corp to lose 1 credit at the start of each of its turns.  The Corp may remove all Virus counters at any time, but must then forgo its next three actions."
+ :stripped-title "ONR Taxman"
+ :subtype [:onr-virus]
+ :text "After each successful run on HQ, give the Corp a Tax counter. Every two Tax counters cause the Corp to lose 1 [credit] at the start of each of its turns. \nThe Corp may remove all Virus counters at any time, but must then forgo its next three actions."
+ :title "ONR Taxman"
+ :type :program
+ :uniqueness false}

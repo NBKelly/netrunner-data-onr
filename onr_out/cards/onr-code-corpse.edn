@@ -1,0 +1,14 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-code-corpse"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditDo 1 brain damage.  S creditDo 1 brain damage.  S creditEnd the run."
+ :stripped-title "ONR Code Corpse"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-zombie]
+ :text "S [credit]Do 1 brain damage. \nS [credit]Do 1 brain damage. \nS [credit]End the run."
+ :title "ONR Code Corpse"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-networking"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 9 credit.  Playing a double prep costs two consecutive actions this turn instead of one."
+ :stripped-title "ONR Networking"
+ :subtype [:onr-double]
+ :text "Gain 9 [credit]. \nPlaying a double prep costs two consecutive actions this turn instead of one."
+ :title "ONR Networking"
+ :type :event
+ :uniqueness false}

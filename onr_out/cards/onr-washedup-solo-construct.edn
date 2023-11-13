@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-washedup-solo-construct"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditTrash a program unless Runner pays 1 credit.  Gain 3 credit when you rez Washed-Up Solo Construct."
+ :stripped-title "ONR WashedUp Solo Construct"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program unless Runner pays 1 [credit]. \nGain 3 [credit] when you rez Washed-Up Solo Construct."
+ :title "ONR Washed-Up Solo Construct"
+ :type :ice
+ :uniqueness false}

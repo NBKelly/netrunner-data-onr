@@ -1,0 +1,14 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-baskerville"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 2 Net damage. S creditTrace5 - If trace is successful, give Runner a Baskerville counter. Each counter does 2 Net damage at the start of each run. Runner may remove a Baskerville counter by taking an action to spend 3 credit. S creditEnd the run. If Runner has used a noisy icebreaker during this run, the cost to rez Baskerville is reduced by 5 credit."
+ :stripped-title "ONR Baskerville"
+ :subtype [:onr-sentry :onr-ap :onr-hellhound :onr-sleepy]
+ :text "S [credit]Do 2 Net damage.\nS [credit]Trace5 - If trace is successful, give Runner a Baskerville counter. Each counter does 2 Net damage at the start of each run. Runner may remove a Baskerville counter by taking an action to spend 3 [credit].\nS [credit]End the run.\nIf Runner has used a noisy icebreaker during this run, the cost to rez Baskerville is reduced by 5 [credit]."
+ :title "ONR Baskerville"
+ :type :ice
+ :uniqueness false}

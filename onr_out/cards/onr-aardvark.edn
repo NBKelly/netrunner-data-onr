@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-aardvark"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice."
+ :stripped-title "ONR Aardvark"
+ :text "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice."
+ :title "ONR Aardvark"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

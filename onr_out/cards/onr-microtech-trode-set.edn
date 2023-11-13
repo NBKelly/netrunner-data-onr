@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-microtech-trode-set"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Pay 1 credit, in addition to the normal cost, to break each ice subroutine. Ignore all AP subroutines except those that trace, or that do Net damage. Prevents all but 1 Net damage from each AP subroutine you do not break."
+ :stripped-title "ONR Microtech Trode Set"
+ :text "Pay 1 [credit], in addition to the normal cost, to break each ice subroutine. Ignore all AP subroutines except those that trace, or that do Net damage. Prevents all but 1 Net damage from each AP subroutine you do not break."
+ :title "ONR Microtech 'Trode Set"
+ :type :hardware
+ :uniqueness false}

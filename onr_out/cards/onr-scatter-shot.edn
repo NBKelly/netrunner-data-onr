@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-scatter-shot"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Put 2 credit from the bank on Scatter Shot when it is installed. Use these bits only to pay for trashing upgrades. If you use any of these bits, replace them at the start of your next turn."
+ :stripped-title "ONR Scatter Shot"
+ :text "Put 2 [credit] from the bank on Scatter Shot when it is installed. Use these bits only to pay for trashing upgrades. If you use any of these bits, replace them at the start of your next turn."
+ :title "ONR Scatter Shot"
+ :type :program
+ :uniqueness false}

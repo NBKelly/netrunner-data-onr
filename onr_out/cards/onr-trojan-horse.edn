@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-trojan-horse"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner stole any agendas during his or her last turn. Give Runner a tag."
+ :stripped-title "ONR Trojan Horse"
+ :text "Play only if Runner stole any agendas during his or her last turn. Give Runner a tag."
+ :title "ONR Trojan Horse"
+ :type :operation
+ :uniqueness false}

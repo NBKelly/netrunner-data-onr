@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-drone-for-a-day"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 9 credit and the Corp gives you a tag."
+ :stripped-title "ONR Drone for a Day"
+ :text "Gain 9 [credit] and the Corp gives you a tag."
+ :title "ONR Drone for a Day"
+ :type :event
+ :uniqueness false}

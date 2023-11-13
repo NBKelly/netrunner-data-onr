@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-shock-treatment"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags."
+ :stripped-title "ONR Shock Treatment"
+ :subtype [:onr-ambush]
+ :text "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags."
+ :title "ONR Shock Treatment"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

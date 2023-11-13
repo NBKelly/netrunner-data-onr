@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-raven-microcyb-eagle"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU.  Prevents 1 Net damage each turn.  Put 1 credit from the bank on Microcyb Eagle when it is installed. Use this bit only to pay for using icebreakers during runs. If you use the bit, replace it at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Raven Microcyb Eagle"
+ :subtype [:onr-deck]
+ :text "Provides +1 MU. \nPrevents 1 Net damage each turn. \nPut 1 [credit] from the bank on Microcyb Eagle when it is installed. Use this bit only to pay for using icebreakers during runs. If you use the bit, replace it at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Raven Microcyb Eagle"
+ :type :hardware
+ :uniqueness false}

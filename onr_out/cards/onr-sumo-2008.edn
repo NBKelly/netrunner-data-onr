@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-sumo-2008"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditEnd the run.  When you rez Sumo 2008, you may pay 1 credit, above the rez cost, to make it a wall instead of a sentry."
+ :stripped-title "ONR Sumo 2008"
+ :subtype [:onr-sentry]
+ :text "S [credit]End the run. \nWhen you rez Sumo 2008, you may pay 1 [credit], above the rez cost, to make it a wall instead of a sentry."
+ :title "ONR Sumo 2008"
+ :type :ice
+ :uniqueness false}

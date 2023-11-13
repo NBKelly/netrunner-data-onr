@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-bargain-with-viacox"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "After the turn in which you install Viacox, you gain an action during each of your turns, which you must take if possible. Roll a die at the start of each of your turns to find out what the action is. On a 1, draw a card. On a 2, gain 1 credit. On a 3, make a run on R&D. On a 4, make a run on HQ. On a 5, make a run on a subsidiary data fort. On a 6, reveal a card to the Corp at random from your hand, and play or install that card."
+ :stripped-title "ONR Bargain with Viacox"
+ :subtype [:onr-random]
+ :text "After the turn in which you install Viacox, you gain an action during each of your turns, which you must take if possible. Roll a die at the start of each of your turns to find out what the action is. On a 1, draw a card. On a 2, gain 1 [credit]. On a 3, make a run on R&D. On a 4, make a run on HQ. On a 5, make a run on a subsidiary data fort. On a 6, reveal a card to the Corp at random from your hand, and play or install that card."
+ :title "ONR Bargain with Viacox"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-invisibility"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Put 1 credit from the bank on Invisibility when it is installed. Use this bit only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use the bit, replace it at the start of your next turn."
+ :stripped-title "ONR Invisibility"
+ :subtype [:onr-stealth]
+ :text "Put 1 [credit] from the bank on Invisibility when it is installed. Use this bit only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use the bit, replace it at the start of your next turn."
+ :title "ONR Invisibility"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-microtech-backup-drive"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of Microtech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.A: Bring the top card on Backup Drive into your hand."
+ :stripped-title "ONR Microtech Backup Drive"
+ :text "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of Microtech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.A: Bring the top card on Backup Drive into your hand."
+ :title "ONR Microtech Backup Drive"
+ :type :hardware
+ :uniqueness false}

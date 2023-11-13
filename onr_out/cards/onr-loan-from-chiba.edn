@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-loan-from-chiba"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 12 credit when Loan from Chiba is installed. At the start of each of your turns, lose 1 credit. If Loan from Chiba leaves play, pay 10 credit or lose the game. You may trash Loan from Chiba at the end of any of your turns."
+ :stripped-title "ONR Loan from Chiba"
+ :text "Gain 12 [credit] when Loan from Chiba is installed. At the start of each of your turns, lose 1 [credit]. If Loan from Chiba leaves play, pay 10 [credit] or lose the game. You may trash Loan from Chiba at the end of any of your turns."
+ :title "ONR Loan from Chiba"
+ :type :resource
+ :uniqueness false}

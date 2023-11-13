@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-valupak-software-bundle"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain up to five consecutive actions, which you may use only to install programs, and gain 1 credit. If you do not spend the bit during these actions, return it to the bank afterwards."
+ :stripped-title "ONR ValuPak Software Bundle"
+ :text "Gain up to five consecutive actions, which you may use only to install programs, and gain 1 [credit]. If you do not spend the bit during these actions, return it to the bank afterwards."
+ :title "ONR Valu-Pak Software Bundle"
+ :type :event
+ :uniqueness false}

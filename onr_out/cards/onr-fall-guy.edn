@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-fall-guy"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "T credit: Avoid receiving a tag."
+ :stripped-title "ONR Fall Guy"
+ :text "T [credit]: Avoid receiving a tag."
+ :title "ONR Fall Guy"
+ :type :resource
+ :uniqueness false}

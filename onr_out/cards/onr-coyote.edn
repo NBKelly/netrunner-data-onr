@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-coyote"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditFor the remainder of the run, all further ice is encountered at +1 strength, unless Runner pays 2 credit while passing Coyote.  Gain 3 credit when you rez Coyote."
+ :stripped-title "ONR Coyote"
+ :subtype [:onr-sentry :onr-watchdog]
+ :text "S [credit]For the remainder of the run, all further ice is encountered at +1 strength, unless Runner pays 2 [credit] while passing Coyote. \nGain 3 [credit] when you rez Coyote."
+ :title "ONR Coyote"
+ :type :ice
+ :uniqueness false}

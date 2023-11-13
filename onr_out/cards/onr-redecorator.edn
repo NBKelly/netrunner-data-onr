@@ -1,0 +1,15 @@
+{:cost 9
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-redecorator"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "1 credit: Break up to two sentry subroutines on a single piece of ice.  3 credit: +1 strength"
+ :stripped-title "ONR Redecorator"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "1 [credit]: Break up to two sentry subroutines on a single piece of ice. \n3 [credit]: +1 strength"
+ :title "ONR Redecorator"
+ :type :program
+ :uniqueness false}

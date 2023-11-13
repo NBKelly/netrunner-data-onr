@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-rdprotocol-files"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "A: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D."
+ :stripped-title "ONR RDProtocol Files"
+ :text "A: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D."
+ :title "ONR R&D-Protocol Files"
+ :type :program
+ :uniqueness false}

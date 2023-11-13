@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-rd-mole"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "4 credit, T credit: Access two additional cards from R&D. Use this ability only when accessing cards from R&D.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR RD Mole"
+ :subtype [:onr-hidden]
+ :text "4 [credit], T [credit]: Access two additional cards from R&D. Use this ability only when accessing cards from R&D. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR R&D Mole"
+ :type :resource
+ :uniqueness false}

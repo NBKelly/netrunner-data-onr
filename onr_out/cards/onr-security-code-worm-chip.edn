@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-security-code-worm-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ this turn. Trash a piece of unrezzed ice."
+ :stripped-title "ONR Security Code WORM Chip"
+ :subtype [:onr-sabotage]
+ :text "Play only if you made a successful run on HQ this turn. Trash a piece of unrezzed ice."
+ :title "ONR Security Code WORM Chip"
+ :type :event
+ :uniqueness false}

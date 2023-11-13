@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mit-west-tier"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Shuffle your hand, trash, and stack together, and then draw five cards. When you play MIT West Tier, remove it from the game instead of trashing it."
+ :stripped-title "ONR MIT West Tier"
+ :text "Shuffle your hand, trash, and stack together, and then draw five cards. When you play MIT West Tier, remove it from the game instead of trashing it."
+ :title "ONR MIT West Tier"
+ :type :event
+ :uniqueness false}

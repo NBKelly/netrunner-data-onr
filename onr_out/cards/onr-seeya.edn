@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-seeya"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "A, 1 credit: Expose an installed card."
+ :stripped-title "ONR SeeYa"
+ :subtype [:onr-detection]
+ :text "A, 1 [credit]: Expose an installed card."
+ :title "ONR SeeYa"
+ :type :program
+ :uniqueness false}

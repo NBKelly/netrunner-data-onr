@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-hot-tip-for-wns"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Score 1 agenda point if you liberated any Black Ops agendas this turn."
+ :stripped-title "ONR Hot Tip for WNS"
+ :text "Score 1 agenda point if you liberated any Black Ops agendas this turn."
+ :title "ONR Hot Tip for WNS"
+ :type :event
+ :uniqueness false}

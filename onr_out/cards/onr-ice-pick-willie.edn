@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-ice-pick-willie"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR Ice Pick Willie"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR Ice Pick Willie"
+ :type :ice
+ :uniqueness false}

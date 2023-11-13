@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-triggerman"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR Triggerman"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR Triggerman"
+ :type :ice
+ :uniqueness false}

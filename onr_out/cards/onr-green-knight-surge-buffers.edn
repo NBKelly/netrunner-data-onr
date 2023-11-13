@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-green-knight-surge-buffers"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Prevents 1 Net damage each turn."
+ :stripped-title "ONR Green Knight Surge Buffers"
+ :text "Prevents 1 Net damage each turn."
+ :title "ONR \"Green Knight\" Surge Buffers"
+ :type :hardware
+ :uniqueness false}

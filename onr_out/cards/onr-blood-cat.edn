@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-blood-cat"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A:Trace 5 -If trace is successful, give Runner a tag."
+ :stripped-title "ONR Blood Cat"
+ :subtype [:onr-ai]
+ :text "A:Trace 5 -If trace is successful, give Runner a tag."
+ :title "ONR Blood Cat"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

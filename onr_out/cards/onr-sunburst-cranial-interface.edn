@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-sunburst-cranial-interface"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU and +1 hand size.  Put 1 credit from the bank on Cranial Interface when it is installed. Use this bit only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use the bit, replace it from the bank at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Sunburst Cranial Interface"
+ :subtype [:onr-deck :onr-cybernetics :onr-stealth]
+ :text "Provides +1 MU and +1 hand size. \nPut 1 [credit] from the bank on Cranial Interface when it is installed. Use this bit only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use the bit, replace it from the bank at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Sunburst Cranial Interface"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-silver-lining-recovery-protocol"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "If any agendas were stolen during Runner's last turn, gain bits equal to three times the number of advancement counters those agendas had."
+ :stripped-title "ONR Silver Lining Recovery Protocol"
+ :text "If any agendas were stolen during Runner's last turn, gain bits equal to three times the number of advancement counters those agendas had."
+ :title "ONR Silver Lining Recovery Protocol"
+ :type :operation
+ :uniqueness false}

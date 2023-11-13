@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-iceberg"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 1 Net damage.  2 credit: Iceberg has one \"S creditEnd the run\" subroutine for the present encounter. Use this ability only when Runner encounters Iceberg."
+ :stripped-title "ONR Iceberg"
+ :subtype [:onr-wall]
+ :text "S [credit]Do 1 Net damage. \n2 [credit]: Iceberg has one \"S [credit]End the run\" subroutine for the present encounter. Use this ability only when Runner encounters Iceberg."
+ :title "ONR Iceberg"
+ :type :ice
+ :uniqueness false}

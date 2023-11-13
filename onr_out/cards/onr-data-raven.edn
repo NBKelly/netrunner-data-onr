@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-raven"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrace 5 -If trace is successful, give Runner a tag and a Data Raven counter. Each Data Raven counter gives Runner a tag at the start of each of his or her turns.  Runner may remove a Data Raven counter by taking an action to pay 1 credit."
+ :stripped-title "ONR Data Raven"
+ :subtype [:onr-sentry]
+ :text "S [credit]Trace 5 -If trace is successful, give Runner a tag and a Data Raven counter. Each Data Raven counter gives Runner a tag at the start of each of his or her turns. \nRunner may remove a Data Raven counter by taking an action to pay 1 [credit]."
+ :title "ONR Data Raven"
+ :type :ice
+ :uniqueness false}

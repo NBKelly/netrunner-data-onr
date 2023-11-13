@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-tutor"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditFor the remainder of the run, all ice encountered has an additional subroutine, \"S creditEnd the run,\" after all other subroutines."
+ :stripped-title "ONR Tutor"
+ :subtype [:onr-code-gate]
+ :text "S [credit]For the remainder of the run, all ice encountered has an additional subroutine, \"S [credit]End the run,\" after all other subroutines."
+ :title "ONR Tutor"
+ :type :ice
+ :uniqueness false}

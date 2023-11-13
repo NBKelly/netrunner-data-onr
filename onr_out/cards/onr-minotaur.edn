@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-minotaur"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "For each rezzed code gate or wall installed outside Minotaur, Minotaur has one \"S creditEnd the run\" subroutine."
+ :stripped-title "ONR Minotaur"
+ :subtype [:onr-sentry]
+ :text "For each rezzed code gate or wall installed outside Minotaur, Minotaur has one \"S [credit]End the run\" subroutine."
+ :title "ONR Minotaur"
+ :type :ice
+ :uniqueness false}

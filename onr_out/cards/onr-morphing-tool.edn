@@ -1,0 +1,15 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-morphing-tool"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 4
+ :stripped-text "2 credit: Break a subroutine of the type last chosen for Morphing Tool.  1 credit: +1 strength.  1 credit, A: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls."
+ :stripped-title "ONR Morphing Tool"
+ :subtype [:onr-icebreaker]
+ :text "2 [credit]: Break a subroutine of the type last chosen for Morphing Tool. \n1 [credit]: +1 strength. \n1 [credit], A: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls."
+ :title "ONR Morphing Tool"
+ :type :program
+ :uniqueness false}

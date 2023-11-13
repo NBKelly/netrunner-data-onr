@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-rd-interface"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Whenever you access cards from R&D, access an additional card from R&D."
+ :stripped-title "ONR RD Interface"
+ :text "Whenever you access cards from R&D, access an additional card from R&D."
+ :title "ONR R&D Interface"
+ :type :hardware
+ :uniqueness false}

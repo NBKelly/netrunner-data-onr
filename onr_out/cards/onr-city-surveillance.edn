@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-city-surveillance"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "For each card Runner draws, give Runner a tag unless Runner pays 1 credit, in addition to any other costs, to avoid receiving that tag.  You may rez City Surveillance just before the card is drawn."
+ :stripped-title "ONR City Surveillance"
+ :subtype [:onr-gray-ops]
+ :text "For each card Runner draws, give Runner a tag unless Runner pays 1 [credit], in addition to any other costs, to avoid receiving that tag. \nYou may rez City Surveillance just before the card is drawn."
+ :title "ONR City Surveillance"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

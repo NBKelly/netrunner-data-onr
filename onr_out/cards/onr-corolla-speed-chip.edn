@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-corolla-speed-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 1 credit from the bank on Corolla Speed Chip when it is installed. Use this bit only to pay for using killers during runs. If you use the bit, replace it at the start of your next turn."
+ :stripped-title "ONR Corolla Speed Chip"
+ :subtype [:onr-chip]
+ :text "Put 1 [credit] from the bank on Corolla Speed Chip when it is installed. Use this bit only to pay for using killers during runs. If you use the bit, replace it at the start of your next turn."
+ :title "ONR Corolla Speed Chip"
+ :type :hardware
+ :uniqueness false}

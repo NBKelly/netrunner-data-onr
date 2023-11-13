@@ -1,0 +1,13 @@
+{:advancement-requirement 6
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-polymer-breakthrough"
+ :side :corp
+ :subtype [:onr-research]
+ :stripped-text "Gain 1 credit at the start of each of your turns."
+ :stripped-title "ONR Polymer Breakthrough"
+ :text "Gain 1 [credit] at the start of each of your turns."
+ :title "ONR Polymer Breakthrough"
+ :type :agenda
+ :uniqueness false}

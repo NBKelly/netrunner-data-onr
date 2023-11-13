@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-lesley-major"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Install Lesley Major only in a subsidiary data fort.  5 credit: Add two advancement counters, at no cost, to a card installed in this data fort. Use this ability only when Runner passes the last piece of ice on this fort, and only once per run."
+ :stripped-title "ONR Lesley Major"
+ :subtype [:onr-sysop]
+ :text "Install Lesley Major only in a subsidiary data fort. \n5 [credit]: Add two advancement counters, at no cost, to a card installed in this data fort. Use this ability only when Runner passes the last piece of ice on this fort, and only once per run."
+ :title "ONR Lesley Major"
+ :type :upgrade
+ :uniqueness false}

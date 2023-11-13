@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-junkyard-bbs"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A, 1 credit: Bring the top card from your trash into your hand."
+ :stripped-title "ONR Junkyard BBS"
+ :subtype [:onr-bbs]
+ :text "A, 1 [credit]: Bring the top card from your trash into your hand."
+ :title "ONR Junkyard BBS"
+ :type :resource
+ :uniqueness false}

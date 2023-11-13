@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-neto"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1 credit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack."
+ :stripped-title "ONR NETO"
+ :subtype [:onr-bbs]
+ :text "A: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1 [credit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack."
+ :title "ONR N.E.T.O."
+ :type :resource
+ :uniqueness false}

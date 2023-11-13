@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-experimental-ai"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Experimental AI before and after you rez it.  When Runner accesses Experimental AI, it destroys one program for each advancement counter on it."
+ :stripped-title "ONR Experimental AI"
+ :subtype [:onr-ai :onr-ambush]
+ :text "You may advance Experimental AI before and after you rez it. \nWhen Runner accesses Experimental AI, it destroys one program for each advancement counter on it."
+ :title "ONR Experimental AI"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

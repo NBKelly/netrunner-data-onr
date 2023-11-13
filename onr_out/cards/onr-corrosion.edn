@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-corrosion"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "0 credit: Break wall subroutine.  1 credit: +1 strength"
+ :stripped-title "ONR Corrosion"
+ :subtype [:onr-icebreaker :onr-worm]
+ :text "0 [credit]: Break wall subroutine. \n1 [credit]: +1 strength"
+ :title "ONR Corrosion"
+ :type :program
+ :uniqueness false}

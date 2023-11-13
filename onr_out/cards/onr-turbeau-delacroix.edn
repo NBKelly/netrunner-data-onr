@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-turbeau-delacroix"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Trace 10-If trace is successful, give Runner a tag. Use this ability only when Runner accesses Turbeau Delacroix, and only once during each run on this fort."
+ :stripped-title "ONR Turbeau Delacroix"
+ :subtype [:onr-sysop :onr-ambush]
+ :text "Trace 10-If trace is successful, give Runner a tag. Use this ability only when Runner accesses Turbeau Delacroix, and only once during each run on this fort."
+ :title "ONR Turbeau Delacroix"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

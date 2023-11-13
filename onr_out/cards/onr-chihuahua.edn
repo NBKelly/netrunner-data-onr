@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-chihuahua"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditTrace 1-If trace is successful, do 1 Net damage.  Gain 2 credit when you rez Chihuahua."
+ :stripped-title "ONR Chihuahua"
+ :subtype [:onr-sentry :onr-ap :onr-hellhound]
+ :text "S [credit]Trace 1-If trace is successful, do 1 Net damage. \nGain 2 [credit] when you rez Chihuahua."
+ :title "ONR Chihuahua"
+ :type :ice
+ :uniqueness false}

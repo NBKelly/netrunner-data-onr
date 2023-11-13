@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-government-contract"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Government Contract before and after you rez it. Government Contract advancement counter: Gain 3 credit. Use these bits only to pay for installing or rezzing cards.  When the turn ends, return to the bank any of the 3 credit you did not spend."
+ :stripped-title "ONR Government Contract"
+ :subtype [:onr-asset]
+ :text "You may advance Government Contract before and after you rez it.\nGovernment Contract advancement counter: Gain 3 [credit]. Use these bits only to pay for installing or rezzing cards. \nWhen the turn ends, return to the bank any of the 3 [credit] you did not spend."
+ :title "ONR Government Contract"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

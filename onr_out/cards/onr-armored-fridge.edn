@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-armored-fridge"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put seven Ablative counters on Armored Fridge when it is installed. When the last Ablative counter has been removed, trash Armored Fridge. Ablative counter: Prevent 1 meat damage."
+ :stripped-title "ONR Armored Fridge"
+ :text "Put seven Ablative counters on Armored Fridge when it is installed. When the last Ablative counter has been removed, trash Armored Fridge. Ablative counter: Prevent 1 meat damage."
+ :title "ONR Armored Fridge"
+ :type :hardware
+ :uniqueness false}

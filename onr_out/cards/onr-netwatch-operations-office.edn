@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-netwatch-operations-office"
+ :side :corp
+ :subtype [:onr-asset]
+ :stripped-text "A:Trace 2 -If trace is successful, give Runner a tag."
+ :stripped-title "ONR Netwatch Operations Office"
+ :text "A:Trace 2 -If trace is successful, give Runner a tag."
+ :title "ONR Netwatch Operations Office"
+ :type :agenda
+ :uniqueness false}

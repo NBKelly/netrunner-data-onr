@@ -1,0 +1,13 @@
+{:cost X
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-power-grid-overload"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner is tagged. Trash X pieces of hardware, other than cybernetics."
+ :stripped-title "ONR Power Grid Overload"
+ :subtype [:onr-gray-ops]
+ :text "Play only if Runner is tagged. Trash X pieces of hardware, other than cybernetics."
+ :title "ONR Power Grid Overload"
+ :type :operation
+ :uniqueness false}

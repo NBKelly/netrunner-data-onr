@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-chance-observation"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner attempted a run during his or her last turn.  Trace 5-If trace is successful, give Runner a tag."
+ :stripped-title "ONR Chance Observation"
+ :text "Play only if Runner attempted a run during his or her last turn. \nTrace 5-If trace is successful, give Runner a tag."
+ :title "ONR Chance Observation"
+ :type :operation
+ :uniqueness false}

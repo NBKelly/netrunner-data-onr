@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-schlaghund"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund."
+ :stripped-title "ONR Schlaghund"
+ :subtype [:onr-random :onr-black-ops]
+ :text "A: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund."
+ :title "ONR Schlaghund"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

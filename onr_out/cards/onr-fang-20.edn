@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-fang-20"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrace 5-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 2 credit."
+ :stripped-title "ONR Fang 20"
+ :subtype [:onr-sentry :onr-pit-bull]
+ :text "S [credit]Trace 5-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 2 [credit]."
+ :title "ONR Fang 2.0"
+ :type :ice
+ :uniqueness false}

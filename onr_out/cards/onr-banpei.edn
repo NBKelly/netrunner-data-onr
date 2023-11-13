@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-banpei"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR Banpei"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR Banpei"
+ :type :ice
+ :uniqueness false}

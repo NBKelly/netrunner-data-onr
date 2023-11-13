@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-bartmoss-memorial-icebreaker"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "1 credit: Break ice subroutine. 1 credit: +1 strength. After passing each piece of ice, roll a die if you used Bartmoss Memorial Icebreaker to break any subroutines of that ice. On a 1, trash Memorial Icebreaker."
+ :stripped-title "ONR Bartmoss Memorial Icebreaker"
+ :subtype [:onr-icebreaker :onr-random]
+ :text "1 [credit]: Break ice subroutine. 1 [credit]: +1 strength. After passing each piece of ice, roll a die if you used Bartmoss Memorial Icebreaker to break any subroutines of that ice. On a 1, trash Memorial Icebreaker."
+ :title "ONR Bartmoss Memorial Icebreaker"
+ :type :program
+ :uniqueness false}

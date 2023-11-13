@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-please-dont-choke-anyone"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "For each 1 damage you successfully do, you may choose instead to prevent that damage and put a PDCA counter on Please Don't Choke Anyone.  PDCA counter: Gain an action. Use this ability only once per turn and only during your turn."
+ :stripped-title "ONR Please Dont Choke Anyone"
+ :text "For each 1 damage you successfully do, you may choose instead to prevent that damage and put a PDCA counter on Please Don't Choke Anyone. \nPDCA counter: Gain an action. Use this ability only once per turn and only during your turn."
+ :title "ONR Please Don't Choke Anyone"
+ :type :agenda
+ :uniqueness false}

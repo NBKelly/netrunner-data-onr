@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-neural-blade"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditDo 1 Net damage.  S creditRunner cannot break any subroutines of the next piece of ice encountered during the run."
+ :stripped-title "ONR Neural Blade"
+ :subtype [:onr-sentry :onr-ap :onr-sword]
+ :text "S [credit]Do 1 Net damage. \nS [credit]Runner cannot break any subroutines of the next piece of ice encountered during the run."
+ :title "ONR Neural Blade"
+ :type :ice
+ :uniqueness false}

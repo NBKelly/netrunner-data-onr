@@ -1,0 +1,15 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-japanese-water-torture"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "0 credit: Break wall subroutine.  X credit: +X strength, and forgo your next X actions."
+ :stripped-title "ONR Japanese Water Torture"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break wall subroutine. \nX [credit]: +X strength, and forgo your next X actions."
+ :title "ONR Japanese Water Torture"
+ :type :program
+ :uniqueness false}

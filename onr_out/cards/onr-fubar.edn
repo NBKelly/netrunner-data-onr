@@ -1,0 +1,15 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-fubar"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "1 credit: Break a subroutine of the type chosen for Fubar.  2 credit: +1 strength.  0 credit: Choose whether Fubar breaks code gates, sentries, or walls. Use this ability only once. Whenever you break an ice subroutine with Fubar, lose 1 credit from a stealth card."
+ :stripped-title "ONR Fubar"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "1 [credit]: Break a subroutine of the type chosen for Fubar. \n2 [credit]: +1 strength. \n0 [credit]: Choose whether Fubar breaks code gates, sentries, or walls. Use this ability only once. Whenever you break an ice subroutine with Fubar, lose 1 [credit] from a stealth card."
+ :title "ONR Fubar"
+ :type :program
+ :uniqueness false}

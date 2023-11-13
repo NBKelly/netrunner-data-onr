@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-shredder-uplink-protocol"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :stripped-text "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ."
+ :stripped-title "ONR Shredder Uplink Protocol"
+ :text "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ."
+ :title "ONR Shredder Uplink Protocol"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-stumble-through-wilderspace"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. You have +9 link for every trace attempt made during that run."
+ :stripped-title "ONR Stumble through Wilderspace"
+ :text "Make a run. You have +9 link for every trace attempt made during that run."
+ :title "ONR Stumble through Wilderspace"
+ :type :event
+ :uniqueness false}

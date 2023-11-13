@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-wall-20"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Data Wall 20"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run."
+ :title "ONR Data Wall 2.0"
+ :type :ice
+ :uniqueness false}

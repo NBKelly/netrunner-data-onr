@@ -1,0 +1,14 @@
+{:cost 17
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-colonel-failure"
+ :influence-cost 1
+ :side :corp
+ :strength 6
+ :stripped-text "S creditTrash a program.  S creditTrash a program.  S creditTrash a program.  S creditEnd the run.  S creditEnd the run."
+ :stripped-title "ONR Colonel Failure"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]Trash a program. \nS [credit]Trash a program. \nS [credit]End the run. \nS [credit]End the run."
+ :title "ONR Colonel Failure"
+ :type :ice
+ :uniqueness false}

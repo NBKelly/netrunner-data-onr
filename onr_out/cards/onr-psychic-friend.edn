@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-psychic-friend"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "1 credit: Break code gate subroutine.  2 credit: +1 strength until end of turn"
+ :stripped-title "ONR Psychic Friend"
+ :subtype [:onr-icebreaker]
+ :text "1 [credit]: Break code gate subroutine. \n2 [credit]: +1 strength until end of turn"
+ :title "ONR Psychic Friend"
+ :type :program
+ :uniqueness false}

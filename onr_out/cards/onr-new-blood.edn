@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-new-blood"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Conceal all revealed but unrezzed ice; then rearrange your installed ice by swapping pairs of ice while Runner looks away."
+ :stripped-title "ONR New Blood"
+ :text "Conceal all revealed but unrezzed ice; then rearrange your installed ice by swapping pairs of ice while Runner looks away."
+ :title "ONR New Blood"
+ :type :operation
+ :uniqueness false}

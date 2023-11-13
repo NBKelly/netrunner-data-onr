@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-romp-through-hq"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ; you may trash, at no cost, any cards you access that were stored in HQ, even if the cards cannot normally be trashed."
+ :stripped-title "ONR Romp through HQ"
+ :subtype [:onr-sabotage]
+ :text "Make a run on HQ; you may trash, at no cost, any cards you access that were stored in HQ, even if the cards cannot normally be trashed."
+ :title "ONR Romp through HQ"
+ :type :event
+ :uniqueness false}

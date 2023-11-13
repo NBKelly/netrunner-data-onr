@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-sandstorm"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "Sandstorm has one \"S creditEnd the run\" subroutine for every 2 credit you pay, above the rez cost, when you rez it."
+ :stripped-title "ONR Sandstorm"
+ :subtype [:onr-wall]
+ :text "Sandstorm has one \"S [credit]End the run\" subroutine for every 2 [credit] you pay, above the rez cost, when you rez it."
+ :title "ONR Sandstorm"
+ :type :ice
+ :uniqueness false}

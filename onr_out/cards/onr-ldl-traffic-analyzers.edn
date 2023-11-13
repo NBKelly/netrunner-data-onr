@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-ldl-traffic-analyzers"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance LDL Traffic Analyzers before and after you rez it.  You may rez LDL Traffic Analyzers during a trace attempt.  LDL Traffic Analyzers advancement counter: Gain 5 credit. Use this ability only during a trace attempt.  When the trace attempt ends, return to the bank any of the 5 credit you did not spend."
+ :stripped-title "ONR LDL Traffic Analyzers"
+ :subtype [:onr-asset]
+ :text "You may advance LDL Traffic Analyzers before and after you rez it. \nYou may rez LDL Traffic Analyzers during a trace attempt. \nLDL Traffic Analyzers advancement counter: Gain 5 [credit]. Use this ability only during a trace attempt. \nWhen the trace attempt ends, return to the bank any of the 5 [credit] you did not spend."
+ :title "ONR LDL Traffic Analyzers"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

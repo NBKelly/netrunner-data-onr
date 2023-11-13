@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-spinn-r-public-relations"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Take 1 credit from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns. A: Put 3 credit from the bank on Spinn(R) Public Relations."
+ :stripped-title "ONR Spinn R Public Relations"
+ :subtype [:onr-transactions]
+ :text "Take 1 [credit] from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns.\nA: Put 3 [credit] from the bank on Spinn(R) Public Relations."
+ :title "ONR Spinn (R) Public Relations"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-silicon-saloon-franchise"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Gain 1 credit and draw one card."
+ :stripped-title "ONR Silicon Saloon Franchise"
+ :subtype [:onr-position]
+ :text "A: Gain 1 [credit] and draw one card."
+ :title "ONR Silicon Saloon Franchise"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-quest-for-cattekin"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "At the start of each of your turns, roll a die. On a 6, trash Quest for Cattekin, and you gain an action on each of your turns for the remainder of the game. On a 1, suffer 1 brain damage. On a 2, suffer 1 Net damage. Damage from Quest for Cattekin cannot be prevented."
+ :stripped-title "ONR Quest for Cattekin"
+ :subtype [:onr-random]
+ :text "At the start of each of your turns, roll a die. On a 6, trash Quest for Cattekin, and you gain an action on each of your turns for the remainder of the game. On a 1, suffer 1 brain damage. On a 2, suffer 1 Net damage. Damage from Quest for Cattekin cannot be prevented."
+ :title "ONR Quest for Cattekin"
+ :type :resource
+ :uniqueness false}

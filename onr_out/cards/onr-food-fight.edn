@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-food-fight"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "Food Fight has one \"S creditEnd the run\" subroutine for every 2 credit you pay, above the rez cost, when you rez it."
+ :stripped-title "ONR Food Fight"
+ :subtype [:onr-sentry :onr-deckrash]
+ :text "Food Fight has one \"S [credit]End the run\" subroutine for every 2 [credit] you pay, above the rez cost, when you rez it."
+ :title "ONR Food Fight"
+ :type :ice
+ :uniqueness false}

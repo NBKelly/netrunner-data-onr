@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-trauma-team-tm"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put two Trauma counters on Trauma Team TM credit when it is installed.  Trauma Counter: Prevent 1 meat damage.  A: Put one Trauma counter on Trauma Team TM credit."
+ :stripped-title "ONR Trauma Team TM"
+ :text "Put two Trauma counters on Trauma Team TM [credit] when it is installed. \nTrauma Counter: Prevent 1 meat damage. \nA: Put one Trauma counter on Trauma Team TM [credit]."
+ :title "ONR Trauma Team [TM]"
+ :type :resource
+ :uniqueness false}

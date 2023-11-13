@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-oncall-solo-team"
+ :side :corp
+ :subtype [:onr-asset]
+ :stripped-text "A: Do 1 meat damage. Use this ability only if Runner is tagged."
+ :stripped-title "ONR OnCall Solo Team"
+ :text "A: Do 1 meat damage. Use this ability only if Runner is tagged."
+ :title "ONR On-Call Solo Team"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-shuffle"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Draw five cards, then shuffle a card stored in HQ into R&D.  Playing a double operation costs two consecutive actions this turn instead of one."
+ :stripped-title "ONR Corporate Shuffle"
+ :subtype [:onr-double]
+ :text "Draw five cards, then shuffle a card stored in HQ into R&D. \nPlaying a double operation costs two consecutive actions this turn instead of one."
+ :title "ONR Corporate Shuffle"
+ :type :operation
+ :uniqueness false}

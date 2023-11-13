@@ -1,0 +1,13 @@
+{:advancement-requirement 6
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-superior-net-barriers"
+ :side :corp
+ :subtype [:onr-research]
+ :stripped-text "All walls have +1 strength.  When you score Superior Net Barriers, reveal as many walls as you  wish. Then, gain 1 credit for each revealed or rezzed wall."
+ :stripped-title "ONR Superior Net Barriers"
+ :text "All walls have +1 strength. \nWhen you score Superior Net Barriers, reveal as many walls as you  wish. Then, gain 1 [credit] for each revealed or rezzed wall."
+ :title "ONR Superior Net Barriers"
+ :type :agenda
+ :uniqueness false}

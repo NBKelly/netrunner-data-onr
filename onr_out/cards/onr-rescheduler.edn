@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-rescheduler"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards."
+ :stripped-title "ONR Rescheduler"
+ :subtype [:onr-gray-ops]
+ :text "A: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards."
+ :title "ONR Rescheduler"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

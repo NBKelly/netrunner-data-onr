@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wutech-mem-chip"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU."
+ :stripped-title "ONR WuTech Mem Chip"
+ :subtype [:onr-chip]
+ :text "Provides +1 MU."
+ :title "ONR WuTech Mem Chip"
+ :type :hardware
+ :uniqueness false}

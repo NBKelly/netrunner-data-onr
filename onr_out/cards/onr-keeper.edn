@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-keeper"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Keeper"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run."
+ :title "ONR Keeper"
+ :type :ice
+ :uniqueness false}

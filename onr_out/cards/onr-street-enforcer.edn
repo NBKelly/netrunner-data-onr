@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-street-enforcer"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "At the start of each run on this data fort, Runner loses X credit, where X is equal to the number of tags Runner has."
+ :stripped-title "ONR Street Enforcer"
+ :subtype [:onr-sysop]
+ :text "At the start of each run on this data fort, Runner loses X [credit], where X is equal to the number of tags Runner has."
+ :title "ONR Street Enforcer"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

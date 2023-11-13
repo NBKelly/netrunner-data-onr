@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-synchronized-attack-on-hq"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ this turn. The Corp discards all cards. The Corp can retain cards by paying 2 credit for each card not discarded."
+ :stripped-title "ONR Synchronized Attack on HQ"
+ :text "Play only if you made a successful run on HQ this turn. The Corp discards all cards. The Corp can retain cards by paying 2 [credit] for each card not discarded."
+ :title "ONR Synchronized Attack on HQ"
+ :type :event
+ :uniqueness false}

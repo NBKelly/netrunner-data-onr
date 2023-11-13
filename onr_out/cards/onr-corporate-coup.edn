@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-coup"
+ :side :corp
+ :subtype [:onr-black-ops]
+ :stripped-text "Put 15 credit from the bank on Corporate Coup when you score it.  A: Take 3 credit from Corporate Coup, if it has any bits."
+ :stripped-title "ONR Corporate Coup"
+ :text "Put 15 [credit] from the bank on Corporate Coup when you score it. \nA: Take 3 [credit] from Corporate Coup, if it has any bits."
+ :title "ONR Corporate Coup"
+ :type :agenda
+ :uniqueness false}

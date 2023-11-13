@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-weefle-initiation"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. Prevent up to 7 damage during that run."
+ :stripped-title "ONR Weefle Initiation"
+ :text "Make a run. Prevent up to 7 damage during that run."
+ :title "ONR Weefle Initiation"
+ :type :event
+ :uniqueness false}

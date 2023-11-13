@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-skalderviken-sa-beta-test-site"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Cost to rez black ice is reduced by 2 credit."
+ :stripped-title "ONR Skälderviken SA Beta Test Site"
+ :text "Cost to rez black ice is reduced by 2 [credit]."
+ :title "ONR Skälderviken SA Beta Test Site"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

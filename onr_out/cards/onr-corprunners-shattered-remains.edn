@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corprunners-shattered-remains"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Shattered Remains before and after you rez it.  When Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it."
+ :stripped-title "ONR Corprunners Shattered Remains"
+ :subtype [:onr-ambush]
+ :text "You may advance Shattered Remains before and after you rez it. \nWhen Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it."
+ :title "ONR Corprunner's Shattered Remains"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

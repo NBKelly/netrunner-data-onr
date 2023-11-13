@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-sterdroid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "3 credit, T credit: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10."
+ :stripped-title "ONR Sterdroid"
+ :text "3 [credit], T [credit]: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10."
+ :title "ONR Sterdroid"
+ :trash-cost 0
+ :type :upgrade
+ :uniqueness false}

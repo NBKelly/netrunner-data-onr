@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-pavit-bharat"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Install Pavit only in a subsidiary data fort.  When you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort.  Rez Pavit only when Runner has passed the last piece of ice on this fort."
+ :stripped-title "ONR Pavit Bharat"
+ :subtype [:onr-sysop]
+ :text "Install Pavit only in a subsidiary data fort. \nWhen you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort. \nRez Pavit only when Runner has passed the last piece of ice on this fort."
+ :title "ONR Pavit Bharat"
+ :trash-cost 0
+ :type :upgrade
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-marked-accounts"
+ :side :corp
+ :subtype [:onr-gray-ops :onr-ambush]
+ :stripped-text "When Runner accesses Marked Accounts, give Runner a tag, even if it is not installed. If Marked Accounts is accessed from R&D, Runner must show it to you."
+ :stripped-title "ONR Marked Accounts"
+ :text "When Runner accesses Marked Accounts, give Runner a tag, even if it is not installed. If Marked Accounts is accessed from R&D, Runner must show it to you."
+ :title "ONR Marked Accounts"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-promises-promises"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "The next time you access an agenda this turn, score 1 additional agenda point."
+ :stripped-title "ONR Promises Promises"
+ :text "The next time you access an agenda this turn, score 1 additional agenda point."
+ :title "ONR Promises, Promises"
+ :type :event
+ :uniqueness false}

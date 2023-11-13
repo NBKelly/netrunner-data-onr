@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-smiths-pawnshop"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "At the start of each of your turns, you may trash one of your other installed cards to gain 2 credit. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Smiths Pawnshop"
+ :subtype [:onr-connection :onr-unique]
+ :text "At the start of each of your turns, you may trash one of your other installed cards to gain 2 [credit].\nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Smith's Pawnshop"
+ :type :resource
+ :uniqueness false}

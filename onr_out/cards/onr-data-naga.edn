@@ -1,0 +1,14 @@
+{:cost 9
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-naga"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrash a program.  S creditEnd the run."
+ :stripped-title "ONR Data Naga"
+ :subtype [:onr-sentry :onr-killer]
+ :text "S [credit]Trash a program. \nS [credit]End the run."
+ :title "ONR Data Naga"
+ :type :ice
+ :uniqueness false}

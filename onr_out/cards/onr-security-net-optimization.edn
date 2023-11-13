@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-security-net-optimization"
+ :side :corp
+ :subtype [:onr-gray-ops]
+ :stripped-text "Choose a fort when you score Security Net Optimization. That fort gives all ice installed on it +1 strength."
+ :stripped-title "ONR Security Net Optimization"
+ :text "Choose a fort when you score Security Net Optimization. That fort gives all ice installed on it +1 strength."
+ :title "ONR Security Net Optimization"
+ :type :agenda
+ :uniqueness false}

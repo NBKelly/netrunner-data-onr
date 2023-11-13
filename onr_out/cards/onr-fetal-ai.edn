@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-fetal-ai"
+ :side :corp
+ :subtype [:onr-asset :onr-ai :onr-ambush]
+ :stripped-text "When Runner accesses Fetal AI, do 2 Net damage, even if it is not installed. Ignore this effect if Runner accesses Fetal AI from the Archives. If Fetal AI is accessed from R&D, Runner must show it to you.  Runner must pay 2 to steal Fetal AI, in addition to any other costs."
+ :stripped-title "ONR Fetal AI"
+ :text "When Runner accesses Fetal AI, do 2 Net damage, even if it is not installed. Ignore this effect if Runner accesses Fetal AI from the Archives. If Fetal AI is accessed from R&D, Runner must show it to you. \nRunner must pay 2 to steal Fetal AI, in addition to any other costs."
+ :title "ONR Fetal AI"
+ :type :agenda
+ :uniqueness false}

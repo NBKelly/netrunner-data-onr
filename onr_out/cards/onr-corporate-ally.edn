@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-corporate-ally"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Installing Corporate Ally costs 1 agenda point, in addition to the normal cost.  The difficulty of all agendas is +1.  Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Corporate Ally"
+ :subtype [:onr-connection :onr-unique]
+ :text "Installing Corporate Ally costs 1 agenda point, in addition to the normal cost. \nThe difficulty of all agendas is +1. \nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Corporate Ally"
+ :type :resource
+ :uniqueness false}

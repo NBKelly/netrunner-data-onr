@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-dermatech-bodyplating"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Prevents 1 meat damage each turn."
+ :stripped-title "ONR Dermatech Bodyplating"
+ :subtype [:onr-cybernetics]
+ :text "Prevents 1 meat damage each turn."
+ :title "ONR Dermatech Bodyplating"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-sneak-preview"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Choose a program from your trash or search your stack for a program. Install that program, at no cost. Shuffle your stack afterwards. At the end of the turn, take the program into your hand."
+ :stripped-title "ONR Sneak Preview"
+ :text "Choose a program from your trash or search your stack for a program. Install that program, at no cost. Shuffle your stack afterwards. At the end of the turn, take the program into your hand."
+ :title "ONR Sneak Preview"
+ :type :event
+ :uniqueness false}

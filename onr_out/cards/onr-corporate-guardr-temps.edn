@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-guardr-temps"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Pay two times X credit when you play Corporate Guard(R) Temps, to gain an action during each of your next X turns. Forfeit the next X credit you gain."
+ :stripped-title "ONR Corporate GuardR Temps"
+ :text "Pay two times X [credit] when you play Corporate Guard(R) Temps, to gain an action during each of your next X turns. Forfeit the next X [credit] you gain."
+ :title "ONR Corporate Guard(R) Temps"
+ :type :operation
+ :uniqueness false}

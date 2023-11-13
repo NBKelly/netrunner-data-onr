@@ -1,0 +1,15 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-snowball"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "Snowball has +1 strength for each subroutine it has broken during a run, until the end of that run.  1 credit: Break sentry subroutine. 1 credit: +1 strength."
+ :stripped-title "ONR Snowball"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "Snowball has +1 strength for each subroutine it has broken during a run, until the end of that run. \n1 [credit]: Break sentry subroutine.\n1 [credit]: +1 strength."
+ :title "ONR Snowball"
+ :type :program
+ :uniqueness false}

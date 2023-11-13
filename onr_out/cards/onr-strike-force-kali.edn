@@ -1,0 +1,13 @@
+{:advancement-requirement 6
+ :agenda-points 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-strike-force-kali"
+ :side :corp
+ :subtype [:onr-asset]
+ :stripped-text "A: Do 2 meat damage. Use this ability only if Runner is tagged."
+ :stripped-title "ONR Strike Force Kali"
+ :text "A: Do 2 meat damage. Use this ability only if Runner is tagged."
+ :title "ONR Strike Force Kali"
+ :type :agenda
+ :uniqueness false}

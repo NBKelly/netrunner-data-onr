@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-urban-renewal"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner is tagged. Do 5 meat damage."
+ :stripped-title "ONR Urban Renewal"
+ :subtype [:onr-black-ops]
+ :text "Play only if Runner is tagged. Do 5 meat damage."
+ :title "ONR Urban Renewal"
+ :type :operation
+ :uniqueness false}

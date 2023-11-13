@@ -1,0 +1,13 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-remote-detonator"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on a data fort this turn. Trash all rezzed ice on that fort, and the Corp gives you three tags."
+ :stripped-title "ONR Remote Detonator"
+ :subtype [:onr-sabotage]
+ :text "Play only if you made a successful run on a data fort this turn. Trash all rezzed ice on that fort, and the Corp gives you three tags."
+ :title "ONR Remote Detonator"
+ :type :event
+ :uniqueness false}

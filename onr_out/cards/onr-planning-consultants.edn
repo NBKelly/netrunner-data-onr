@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-planning-consultants"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Look at the top five cards of R&D and arrange them in any order you choose."
+ :stripped-title "ONR Planning Consultants"
+ :subtype [:onr-gray-ops]
+ :text "Look at the top five cards of R&D and arrange them in any order you choose."
+ :title "ONR Planning Consultants"
+ :type :operation
+ :uniqueness false}

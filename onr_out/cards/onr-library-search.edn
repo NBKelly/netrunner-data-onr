@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-library-search"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on R&D or HQ. If run is successful, access two additional cards if you used no noisy icebreakers during the run and if no trace attempts were made during the run."
+ :stripped-title "ONR Library Search"
+ :text "Make a run on R&D or HQ. If run is successful, access two additional cards if you used no noisy icebreakers during the run and if no trace attempts were made during the run."
+ :title "ONR Library Search"
+ :type :event
+ :uniqueness false}

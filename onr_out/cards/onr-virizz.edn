@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-virizz"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditFor the remainder of the run, Runner must pay an additional 1 credit to break each ice subroutine."
+ :stripped-title "ONR Virizz"
+ :subtype [:onr-sentry]
+ :text "S [credit]For the remainder of the run, Runner must pay an additional 1 [credit] to break each ice subroutine."
+ :title "ONR Virizz"
+ :type :ice
+ :uniqueness false}

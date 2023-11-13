@@ -1,0 +1,15 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-bulldozer"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 4
+ :stripped-text "1 credit: Break wall subroutine.  2 credit: +1 strength.  If Bulldozer breaks all the subroutines of a wall, and the next piece of ice encountered during this run is a sentry, break one of the subroutines of that sentry, at no cost.  Whenever you break a wall subroutine with Bulldozer, lose a total of 2 credit from stealth cards."
+ :stripped-title "ONR Bulldozer"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "1 [credit]: Break wall subroutine. \n2 [credit]: +1 strength. \nIf Bulldozer breaks all the subroutines of a wall, and the next piece of ice encountered during this run is a sentry, break one of the subroutines of that sentry, at no cost. \nWhenever you break a wall subroutine with Bulldozer, lose a total of 2 [credit] from stealth cards."
+ :title "ONR Bulldozer"
+ :type :program
+ :uniqueness false}

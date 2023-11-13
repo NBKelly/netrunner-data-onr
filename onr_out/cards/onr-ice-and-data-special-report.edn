@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-ice-and-data-special-report"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Expose up to five cards installed in or on a single data fort."
+ :stripped-title "ONR Ice and Data Special Report"
+ :text "Expose up to five cards installed in or on a single data fort."
+ :title "ONR Ice and Data Special Report"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-audit-of-call-records"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner attempted two or more runs during his or her last turn.  Trace 5-If trace is successful, give Runner a tag."
+ :stripped-title "ONR Audit of Call Records"
+ :text "Play only if Runner attempted two or more runs during his or her last turn.  Trace 5-If trace is successful, give Runner a tag."
+ :title "ONR Audit of Call Records"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-vacant-soulkiller"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Vacant Soulkiller before and after you rez it. When Runner accesses Vacant Soulkiller, it does 1 brain damage for each advancement counter on it."
+ :stripped-title "ONR Vacant Soulkiller"
+ :subtype [:onr-ambush]
+ :text "You may advance Vacant Soulkiller before and after you rez it.\nWhen Runner accesses Vacant Soulkiller, it does 1 brain damage for each advancement counter on it."
+ :title "ONR Vacant Soulkiller"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

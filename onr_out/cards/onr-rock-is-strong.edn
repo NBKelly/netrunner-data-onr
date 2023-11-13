@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-rock-is-strong"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Rock is Strong"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run."
+ :title "ONR Rock is Strong"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-jenny-jett"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Install that piece of ice on this fort in the innermost position, paying an installation cost of 1 credit for each piece of ice already on the fort. Runner is now considered to be approaching that piece of ice. Use this ability only once during each run on this fort."
+ :stripped-title "ONR Jenny Jett"
+ :subtype [:onr-sysop]
+ :text "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Install that piece of ice on this fort in the innermost position, paying an installation cost of 1 [credit] for each piece of ice already on the fort. Runner is now considered to be approaching that piece of ice. Use this ability only once during each run on this fort."
+ :title "ONR Jenny Jett"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

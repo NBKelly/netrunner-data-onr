@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-corporate-detective-agency"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner is tagged. Trash up to two resources, at no cost."
+ :stripped-title "ONR Corporate Detective Agency"
+ :text "Play only if Runner is tagged. Trash up to two resources, at no cost."
+ :title "ONR Corporate Detective Agency"
+ :type :operation
+ :uniqueness false}

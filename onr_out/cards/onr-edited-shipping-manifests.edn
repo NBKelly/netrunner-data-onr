@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-edited-shipping-manifests"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ. If run is successful, and the Corp has any bits when you would access HQ, do not access cards from HQ; instead, the Corp loses 1 credit and gives you a tag, and you gain 10 credit."
+ :stripped-title "ONR Edited Shipping Manifests"
+ :subtype [:onr-sabotage]
+ :text "Make a run on HQ. If run is successful, and the Corp has any bits when you would access HQ, do not access cards from HQ; instead, the Corp loses 1 [credit] and gives you a tag, and you gain 10 [credit]."
+ :title "ONR Edited Shipping Manifests"
+ :type :event
+ :uniqueness false}

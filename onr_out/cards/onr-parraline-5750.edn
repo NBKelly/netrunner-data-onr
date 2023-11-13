@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-parraline-5750"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +1 MU.  Put 1 credit from the bank on Parraline 5750 when it is installed. Use this bit only to pay for using icebreakers during runs. If you use the bit, replace it at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Parraline 5750"
+ :subtype [:onr-deck]
+ :text "Provides +1 MU. \nPut 1 [credit] from the bank on Parraline 5750 when it is installed. Use this bit only to pay for using icebreakers during runs. If you use the bit, replace it at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Parraline 5750"
+ :type :hardware
+ :uniqueness false}

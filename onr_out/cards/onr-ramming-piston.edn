@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-ramming-piston"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 5
+ :stripped-text "2 credit: Break wall subroutine.  1 credit: +1 strength. Whenever you break a wall subroutine with Ramming Piston, lose a total of 2 credit from stealth cards."
+ :stripped-title "ONR Ramming Piston"
+ :subtype [:onr-icebreaker :onr-noisy]
+ :text "2 [credit]: Break wall subroutine. \n1 [credit]: +1 strength. Whenever you break a wall subroutine with Ramming Piston, lose a total of 2 [credit] from stealth cards."
+ :title "ONR Ramming Piston"
+ :type :program
+ :uniqueness false}

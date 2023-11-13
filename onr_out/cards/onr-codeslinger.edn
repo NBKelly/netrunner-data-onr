@@ -1,0 +1,15 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-codeslinger"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "1 credit: Break sentry subroutine."
+ :stripped-title "ONR Codeslinger"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "1 [credit]: Break sentry subroutine."
+ :title "ONR Codeslinger"
+ :type :program
+ :uniqueness false}

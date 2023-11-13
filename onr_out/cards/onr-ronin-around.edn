@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-ronin-around"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1 credit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack. A, 2 credit: Expose any card."
+ :stripped-title "ONR Ronin Around"
+ :subtype [:onr-bbs]
+ :text "A: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1 [credit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\nA, 2 [credit]: Expose any card."
+ :title "ONR Ronin Around"
+ :type :resource
+ :uniqueness false}

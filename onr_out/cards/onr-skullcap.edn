@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-skullcap"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "T: Prevent any amount of Net or brain damage."
+ :stripped-title "ONR Skullcap"
+ :text "T: Prevent any amount of Net or brain damage."
+ :title "ONR Skullcap"
+ :type :program
+ :uniqueness false}

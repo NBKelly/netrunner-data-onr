@@ -1,0 +1,3505 @@
+[{:card-id "onr-aardvark"
+ :code "70001"
+ :illustrator "Fellwalker & Tolen"
+ :position 1
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-access-through-alpha"
+ :code "70002"
+ :illustrator "Mark Collen"
+ :position 2
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-access-through-arasaka"
+ :code "70003"
+ :illustrator "unknown"
+ :position 3
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-access-through-kiribati"
+ :code "70004"
+ :illustrator "unknown"
+ :position 4
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-access-to-arasaka"
+ :code "70005"
+ :illustrator "Robert McLees"
+ :position 5
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-access-to-kiribati"
+ :code "70006"
+ :illustrator "Sue Ann Harkey"
+ :position 6
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-accounts-receivable"
+ :code "70007"
+ :illustrator "Zak Plucinski"
+ :position 7
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-acme-savings-and-loan"
+ :code "70008"
+ :illustrator "Ramon Mascarenas"
+ :position 8
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-afreet"
+ :code "70009"
+ :illustrator "Mike Kimble"
+ :position 9
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ai-board-member"
+ :code "70010"
+ :illustrator "Moebius"
+ :position 10
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ai-boon"
+ :code "70011"
+ :illustrator "Higgins & King"
+ :position 11
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ai-chief-financial-officer"
+ :code "70012"
+ :illustrator "Pete Venters"
+ :position 12
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-airport-locker"
+ :code "70013"
+ :illustrator "Zak Plucinski"
+ :position 13
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-allhands"
+ :code "70014"
+ :illustrator "Michael Kellner"
+ :position 14
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-allnighter"
+ :code "70015"
+ :illustrator "Christina Wald"
+ :position 15
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-annual-reviews"
+ :code "70016"
+ :illustrator "John Ramirez"
+ :position 16
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-anonymous-tip"
+ :code "70017"
+ :illustrator "Margaret Organ-Kean"
+ :position 17
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-antiquated-interface-routines"
+ :code "70018"
+ :illustrator "Mark Collen"
+ :position 18
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-arasaka-owns-you"
+ :code "70019"
+ :illustrator "Craig Gilmore"
+ :position 19
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-arasaka-portable-prototype"
+ :code "70020"
+ :illustrator "James Allen Higgins"
+ :position 20
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-armadillo-armored-road-home"
+ :code "70021"
+ :illustrator "Norm Dwyer"
+ :position 21
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-armageddon"
+ :code "70022"
+ :illustrator "Mark Tedin"
+ :position 22
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-armored-fridge"
+ :code "70023"
+ :illustrator "Kim Francisco"
+ :position 23
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-artemis-2020"
+ :code "70024"
+ :illustrator "Doug Chaffee"
+ :position 24
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-artificial-security-directors"
+ :code "70025"
+ :illustrator "Fellwalker & Tolen"
+ :position 25
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-asp"
+ :code "70026"
+ :illustrator "Mark Poole"
+ :position 26
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-audit-of-call-records"
+ :code "70027"
+ :illustrator "Tony Luke"
+ :position 27
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-aujourdoui"
+ :code "70028"
+ :illustrator "Margaret Organ-Kean"
+ :position 28
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-back-door-to-hilliard"
+ :code "70029"
+ :illustrator "Robert McLees"
+ :position 29
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-back-door-to-netwatch"
+ :code "70030"
+ :illustrator "John Sledd"
+ :position 30
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-back-door-to-orbital-air"
+ :code "70031"
+ :illustrator "Mark Collen"
+ :position 31
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-back-door-to-rivals"
+ :code "70032"
+ :illustrator "Romas Kukalis"
+ :position 32
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-badtimes"
+ :code "70033"
+ :illustrator "Kevin T. Phillips"
+ :position 33
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-baedekers-net-map"
+ :code "70034"
+ :illustrator "Doug Shuler"
+ :position 34
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bakdoor-tm"
+ :code "70035"
+ :illustrator "Kevin Taylor"
+ :position 35
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ball-and-chain"
+ :code "70036"
+ :illustrator "Robert McLees"
+ :position 36
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-banpei"
+ :code "70037"
+ :illustrator "Doug Shuler"
+ :position 37
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bargain-with-viacox"
+ :code "70038"
+ :illustrator "Michael Kellner"
+ :position 38
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bartmoss-memorial-icebreaker"
+ :code "70039"
+ :illustrator "Ash Arnett"
+ :position 39
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-baskerville"
+ :code "70040"
+ :illustrator "Mark Rattin"
+ :position 40
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bbs-whispering-campaign"
+ :code "70041"
+ :illustrator "Kevin Taylor"
+ :position 41
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-beldigmo-antibody"
+ :code "70042"
+ :illustrator "Corey Macourek"
+ :position 42
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-big-frackin-gun"
+ :code "70043"
+ :illustrator "Doug Shuler"
+ :position 43
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bioweapons-engineering"
+ :code "70044"
+ :illustrator "Doug Chaffee"
+ :position 44
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bizarre-encryption-scheme"
+ :code "70045"
+ :illustrator "Mark Collen"
+ :position 45
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-black-dahlia"
+ :code "70046"
+ :illustrator "Maria P. Cabardo"
+ :position 46
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-black-ice-quality-assurance"
+ :code "70047"
+ :illustrator "James Allen Higgins"
+ :position 47
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-blackmail"
+ :code "70048"
+ :illustrator "James Allen Higgins"
+ :position 48
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-black-widow"
+ :code "70049"
+ :illustrator "Doug Shuler"
+ :position 49
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-blink"
+ :code "70050"
+ :illustrator "Dave Pilurs"
+ :position 50
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-blood-cat"
+ :code "70051"
+ :illustrator "Larry Friedman"
+ :position 51
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-boardwalk"
+ :code "70052"
+ :illustrator "Sue Ann Harkey"
+ :position 52
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bodyweight-tm-data-creche"
+ :code "70053"
+ :illustrator "Pete Venters"
+ :position 53
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bodyweight-tm-synthetic-blood"
+ :code "70054"
+ :illustrator "Anthony Judge"
+ :position 54
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bolter-cluster"
+ :code "70055"
+ :illustrator "Norm Dwyer"
+ :position 55
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bolter-swarm"
+ :code "70056"
+ :illustrator "John Sledd"
+ :position 56
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bolthole"
+ :code "70057"
+ :illustrator "Doug Chaffee"
+ :position 57
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-boostergang-connections"
+ :code "70058"
+ :illustrator "Clint Langley"
+ :position 58
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-boring-bit"
+ :code "70059"
+ :illustrator "Michael Kellner"
+ :position 59
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-braindance-campaign"
+ :code "70060"
+ :illustrator "Heather Hudson"
+ :position 60
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-brain-drain"
+ :code "70061"
+ :illustrator "David Ho"
+ :position 61
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-brain-wash"
+ :code "70062"
+ :illustrator "Doug Shuler"
+ :position 62
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-braniac-espionage-enjoyer" :type :identity
+ :code "70063"
+ :illustrator "unknown"
+ :position 63
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-broker"
+ :code "70064"
+ :illustrator "Armand Cabrera"
+ :position 64
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bug-zapper"
+ :code "70065"
+ :illustrator "Corey Macourek"
+ :position 65
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-bulldozer"
+ :code "70066"
+ :illustrator "Michael Kellner"
+ :position 66
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-butcher-boy"
+ :code "70067"
+ :illustrator "Norm Dwyer"
+ :position 67
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-canis-major"
+ :code "70068"
+ :illustrator "Ash Arnett"
+ :position 68
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-canis-minor"
+ :code "70069"
+ :illustrator "Mark Collen"
+ :position 69
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-caryatid"
+ :code "70070"
+ :illustrator "Mike Kimble"
+ :position 70
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cascade"
+ :code "70071"
+ :illustrator "Doug Shuler"
+ :position 71
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cerberus"
+ :code "70072"
+ :illustrator "Robert McLees"
+ :position 72
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chance-observation"
+ :code "70073"
+ :illustrator "John Ramirez"
+ :position 73
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-charity-takeover"
+ :code "70074"
+ :illustrator "Matt Wilson"
+ :position 74
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chester-mix"
+ :code "70075"
+ :illustrator "Lawrence Snelly"
+ :position 75
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chiba-bank-account"
+ :code "70076"
+ :illustrator "Matt Wilson"
+ :position 76
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chicago-branch"
+ :code "70077"
+ :illustrator "Anthony Petrarca"
+ :position 77
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chihuahua"
+ :code "70078"
+ :illustrator "Kevin Taylor"
+ :position 78
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-chimera"
+ :code "70079"
+ :illustrator "Larry Friedman"
+ :position 79
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cinderella"
+ :code "70080"
+ :illustrator "Kaja Foglio"
+ :position 80
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-city-surveillance"
+ :code "70081"
+ :illustrator "Sue Ann Harkey"
+ :position 81
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cloak"
+ :code "70082"
+ :illustrator "Doug Shuler"
+ :position 82
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-closed-accounts"
+ :code "70083"
+ :illustrator "Randy Gallegos"
+ :position 83
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-clown"
+ :code "70084"
+ :illustrator "Mark Collen"
+ :position 84
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cockroach"
+ :code "70085"
+ :illustrator "Norm Dwyer"
+ :position 85
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-code-corpse"
+ :code "70086"
+ :illustrator "Brian Booker"
+ :position 86
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-codecracker"
+ :code "70087"
+ :illustrator "Doug Shuler"
+ :position 87
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-codeslinger"
+ :code "70088"
+ :illustrator "Tony Luke"
+ :position 88
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-code-viral-cache"
+ :code "70089"
+ :illustrator "Robert McLees"
+ :position 89
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-colonel-failure"
+ :code "70090"
+ :illustrator "Mark Tedin"
+ :position 90
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-core-command-jettison-ice"
+ :code "70091"
+ :illustrator "Kevin Stein"
+ :position 91
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corolla-speed-chip"
+ :code "70092"
+ :illustrator "Lawrence Brown"
+ :position 92
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-ally"
+ :code "70093"
+ :illustrator "Glenn Kim"
+ :position 93
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-boon"
+ :code "70094"
+ :illustrator "Mike Kimble"
+ :position 94
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-coup"
+ :code "70095"
+ :illustrator "Dave Pilurs"
+ :position 95
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-detective-agency"
+ :code "70096"
+ :illustrator "Zak Plucinski"
+ :position 96
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-downsizing"
+ :code "70097"
+ :illustrator "James Allen Higgins"
+ :position 97
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-guardr-temps"
+ :code "70098"
+ :illustrator "Craig Hooper"
+ :position 98
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-headhunters"
+ :code "70099"
+ :illustrator "Rick Berry"
+ :position 99
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-negotiating-center"
+ :code "70100"
+ :illustrator "Roger Coad"
+ :position 100
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-retreat"
+ :code "70101"
+ :illustrator "Doug Keith"
+ :position 101
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-shuffle"
+ :code "70102"
+ :illustrator "Doug Chaffee"
+ :position 102
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corporate-war"
+ :code "70103"
+ :illustrator "Greg Staples"
+ :position 103
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corprunners-shattered-remains"
+ :code "70104"
+ :illustrator "Mark Collen"
+ :position 104
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corrosion"
+ :code "70105"
+ :illustrator "James Allen Higgins"
+ :position 105
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-corruption"
+ :code "70106"
+ :illustrator "Mark Tedin"
+ :position 106
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cortical-cybermodem"
+ :code "70107"
+ :illustrator "Christopher Rush"
+ :position 107
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cortical-scanner"
+ :code "70108"
+ :illustrator "Robert McLees"
+ :position 108
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cortical-scrub"
+ :code "70109"
+ :illustrator "Mark Tedin"
+ :position 109
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cortical-stimulators"
+ :code "70110"
+ :illustrator "Randy Gallegos"
+ :position 110
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cowboy-sysop"
+ :code "70111"
+ :illustrator "Mark Tedin"
+ :position 111
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-coyote"
+ :code "70112"
+ :illustrator "Jonnie Wilder"
+ :position 112
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crash-everett-inventive-fixer"
+ :code "70113"
+ :illustrator "Mike Kimble"
+ :position 113
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crash-space"
+ :code "70114"
+ :illustrator "John Bolton"
+ :position 114
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-credit-blocks"
+ :code "70115"
+ :illustrator "James Allen Higgins"
+ :position 115
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-credit-consolidation"
+ :code "70116"
+ :illustrator "Doug Alexander"
+ :position 116
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-credit-subversion"
+ :code "70117"
+ :illustrator "David Logan"
+ :position 117
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cruising-for-netwatch"
+ :code "70118"
+ :illustrator "David Logan"
+ :position 118
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crumble"
+ :code "70119"
+ :illustrator "Mark Rattin"
+ :position 119
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crybaby"
+ :code "70120"
+ :illustrator "Kim Francisco"
+ :position 120
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crystal-palace-station-grid"
+ :code "70121"
+ :illustrator "R. Talsorian Games Staff"
+ :position 121
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-crystal-wall"
+ :code "70122"
+ :illustrator "John Casebeer"
+ :position 122
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-custodial-position"
+ :code "70123"
+ :illustrator "James Allen Higgins"
+ :position 123
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cybertech-think-tank"
+ :code "70124"
+ :illustrator "Rick Berry"
+ :position 124
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-cyfermaster"
+ :code "70125"
+ :illustrator "Mark Poole"
+ :position 125
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-danshis-second-id"
+ :code "70126"
+ :illustrator "Mark Collen"
+ :position 126
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-darc-knight"
+ :code "70127"
+ :illustrator "Doug Shuler"
+ :position 127
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-databroker"
+ :code "70128"
+ :illustrator "Craig Gilmore"
+ :position 128
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-datacomb"
+ :code "70129"
+ :illustrator "Kim Francisco"
+ :position 129
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-darts"
+ :code "70130"
+ :illustrator "Robert McLees"
+ :position 130
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-fort-reclamation"
+ :code "70131"
+ :illustrator "Jonnie Wilder"
+ :position 131
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-fort-remapping"
+ :code "70132"
+ :illustrator "John Sledd"
+ :position 132
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-masons"
+ :code "70133"
+ :illustrator "Sue Ann Harkey"
+ :position 133
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-naga"
+ :code "70134"
+ :illustrator "Kaja Foglio"
+ :position 134
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-datapool-r-by-zetatech"
+ :code "70135"
+ :illustrator "James Allen Higgins"
+ :position 135
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-raven"
+ :code "70136"
+ :illustrator "Matt Milberger"
+ :position 136
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-sifters"
+ :code "70137"
+ :illustrator "James Allen Higgins"
+ :position 137
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-wall-20"
+ :code "70138"
+ :illustrator "Jonnie Wilder"
+ :position 138
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-data-wall"
+ :code "70139"
+ :illustrator "Jonnie Wilder"
+ :position 139
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-day-shift"
+ :code "70140"
+ :illustrator "Zak Plucinski"
+ :position 140
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-deadeye"
+ :code "70141"
+ :illustrator "Doug Shuler"
+ :position 141
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-deal-with-militech"
+ :code "70142"
+ :illustrator "Pete Venters"
+ :position 142
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-death-from-above"
+ :code "70143"
+ :illustrator "Zak Plucinski"
+ :position 143
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-death-yoyo"
+ :code "70144"
+ :illustrator "Norm Dwyer"
+ :position 144
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-decoy-signal"
+ :code "70145"
+ :illustrator "John Sledd"
+ :position 145
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dedicated-response-team"
+ :code "70146"
+ :illustrator "Pete Venters"
+ :position 146
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-deep-thought"
+ :code "70147"
+ :illustrator "Norm Dwyer"
+ :position 147
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-demolition-run"
+ :code "70148"
+ :illustrator "John Sledd"
+ :position 148
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-department-of-misinformation"
+ :code "70149"
+ :illustrator "Doug Chaffee"
+ :position 149
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-department-of-truth-enhancement"
+ :code "70150"
+ :illustrator "Matt Wilson"
+ :position 150
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dermatech-bodyplating"
+ :code "70151"
+ :illustrator "L.A. Williams"
+ :position 151
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-desperate-competitor"
+ :code "70152"
+ :illustrator "Craig Gilmore"
+ :position 152
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-detroit-police-contract"
+ :code "70153"
+ :illustrator "Doug Chaffee"
+ :position 153
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dieter-esslin"
+ :code "70154"
+ :illustrator "Matt Wilson"
+ :position 154
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-digiconda"
+ :code "70155"
+ :illustrator "David Ho"
+ :position 155
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-diplomatic-immunity"
+ :code "70156"
+ :illustrator "Higgins & King"
+ :position 156
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-disgruntled-ice-technician"
+ :code "70157"
+ :illustrator "Doug Chaffee"
+ :position 157
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-disinfectant-inc"
+ :code "70158"
+ :illustrator "Rob Dixon"
+ :position 158
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-disintegrator"
+ :code "70159"
+ :illustrator "Christopher Rush"
+ :position 159
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dogcatcher"
+ :code "70160"
+ :illustrator "James Allen Higgins"
+ :position 160
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dog-pile"
+ :code "70161"
+ :illustrator "Doug Shuler"
+ :position 161
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-doppelganger-antibody"
+ :code "70162"
+ :illustrator "David Ho"
+ :position 162
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-do-the-drine-tm"
+ :code "70163"
+ :illustrator "Matthew D. Wilson"
+ :position 163
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dr-dreff"
+ :code "70164"
+ :illustrator "Doug Chaffee"
+ :position 164
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-drifter-mobile-environment"
+ :code "70165"
+ :illustrator "Randy Gallegos"
+ :position 165
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-drone-for-a-day"
+ :code "70166"
+ :illustrator "Romas Kukalis"
+ :position 166
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dropp-tm"
+ :code "70167"
+ :illustrator "Todd Wade"
+ :position 167
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dumpster"
+ :code "70168"
+ :illustrator "Mark Poole"
+ :position 168
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dupre"
+ :code "70169"
+ :illustrator "Robert McLees"
+ :position 169
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-dwarf"
+ :code "70170"
+ :illustrator "Norm Dwyer"
+ :position 170
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-early-worm"
+ :code "70171"
+ :illustrator "James Allen"
+ :position 171
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-edgerunner-inc-temps"
+ :code "70172"
+ :illustrator "Zak Plucinski"
+ :position 172
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-edited-shipping-manifests"
+ :code "70173"
+ :illustrator "Dave Pilurs"
+ :position 173
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-efficiency-experts"
+ :code "70174"
+ :illustrator "John Ramirez"
+ :position 174
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-elena-laskova"
+ :code "70175"
+ :illustrator "John Bolton"
+ :position 175
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-emergency-rig"
+ :code "70176"
+ :illustrator "Romas Kukalis"
+ :position 176
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-emergency-selfconstruct"
+ :code "70177"
+ :illustrator "Mark Poole"
+ :position 177
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-employee-empowerment"
+ :code "70178"
+ :illustrator "Dan Frazier"
+ :position 178
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-encoder-inc"
+ :code "70179"
+ :illustrator "Todd Wade"
+ :position 179
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-encryption-breakthrough"
+ :code "70180"
+ :illustrator "Kim Francisco"
+ :position 180
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-endless-corridor"
+ :code "70181"
+ :illustrator "Anthony Petrarca"
+ :position 181
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-enterprise-inc-shields"
+ :code "70182"
+ :illustrator "Mark Rattin"
+ :position 182
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-entrapment"
+ :code "70183"
+ :illustrator "Mark Tedin"
+ :position 183
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-esa-contract"
+ :code "70184"
+ :illustrator "Ramon Mascarenas"
+ :position 184
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-eurocorpse-tm-spin-chip"
+ :code "70185"
+ :illustrator "Doug Shuler"
+ :position 185
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-euromarket-consortium"
+ :code "70186"
+ :illustrator "Doug Chaffee"
+ :position 186
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-evil-twin"
+ :code "70187"
+ :illustrator "Mark Tedin"
+ :position 187
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-executive-boot-camp"
+ :code "70188"
+ :illustrator "Zak Plucinski"
+ :position 188
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-executive-extraction"
+ :code "70189"
+ :illustrator "Dan Frazier"
+ :position 189
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-executive-file-clerk"
+ :code "70190"
+ :illustrator "Phad Chadwick"
+ :position 190
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-executive-wiretaps"
+ :code "70191"
+ :illustrator "Mark Collen"
+ :position 191
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-expendable-family-member"
+ :code "70192"
+ :illustrator "Zak Plucinski"
+ :position 192
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-experimental-ai"
+ :code "70193"
+ :illustrator "Mike Kimble"
+ :position 193
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-expert-schedule-analyzer"
+ :code "70194"
+ :illustrator "Doug Shuler"
+ :position 194
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fair-accompli"
+ :code "70195"
+ :illustrator "Kevin Taylor"
+ :position 195
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-faked-hit"
+ :code "70196"
+ :illustrator "Randy Gallegos"
+ :position 196
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fall-guy"
+ :code "70197"
+ :illustrator "Mike Kimble"
+ :position 197
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-false-echo"
+ :code "70198"
+ :illustrator "Pete Venters"
+ :position 198
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-falsifiedtransactions-expert"
+ :code "70199"
+ :illustrator "Craig Gilmore"
+ :position 199
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fang-20"
+ :code "70200"
+ :illustrator "Anson Maddocks"
+ :position 200
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fang"
+ :code "70201"
+ :illustrator "Kim Francisco"
+ :position 201
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fatal-attractor"
+ :code "70202"
+ :illustrator "Mark Tedin"
+ :position 202
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fetal-ai"
+ :code "70203"
+ :illustrator "Rick Berry"
+ :position 203
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fetch-401"
+ :code "70204"
+ :illustrator "Kim Francisco"
+ :position 204
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-field-reporter-for-ice-and-data"
+ :code "70205"
+ :illustrator "Dan Frazier"
+ :position 205
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-filter"
+ :code "70206"
+ :illustrator "Daniel Gelon"
+ :position 206
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-finders-keepers"
+ :code "70207"
+ :illustrator "Thomas Gianni"
+ :position 207
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fire-wall"
+ :code "70208"
+ :illustrator "Kim Francisco"
+ :position 208
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-flak"
+ :code "70209"
+ :illustrator "Mark Collen"
+ :position 209
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-floating-runner-bbs"
+ :code "70210"
+ :illustrator "James Allen Higgins"
+ :position 210
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-food-fight"
+ :code "70211"
+ :illustrator "Mark Rattin"
+ :position 211
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-force-shield"
+ :code "70212"
+ :illustrator "Doug Shuler"
+ :position 212
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-forged-activation-orders"
+ :code "70213"
+ :illustrator "Dave Pilurs"
+ :position 213
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-forgotten-backup-chip"
+ :code "70214"
+ :illustrator "Randy Gallegos"
+ :position 214
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fortress-architects"
+ :code "70215"
+ :illustrator "Fellwalker & Tolen"
+ :position 215
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fortress-respecification"
+ :code "70216"
+ :illustrator "Dave Pilurs"
+ :position 216
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-forwards-legacy"
+ :code "70217"
+ :illustrator "Mark Rattin"
+ :position 217
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fragmentation-storm"
+ :code "70218"
+ :illustrator "Fellwalker & Tolen"
+ :position 218
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-frameup"
+ :code "70219"
+ :illustrator "Doug Chaffee"
+ :position 219
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-friend-corp" :type :identity
+ :code "70220"
+ :illustrator "unknown"
+ :position 220
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-fubar"
+ :code "70221"
+ :illustrator "David Logan"
+ :position 221
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-full-body-conversion"
+ :code "70222"
+ :illustrator "L.A. Williams"
+ :position 222
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-galatea"
+ :code "70223"
+ :illustrator "Jonnie Wilder"
+ :position 223
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-garbage-in"
+ :code "70224"
+ :illustrator "Kevin Taylor"
+ :position 224
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-gatekeeper"
+ :code "70225"
+ :illustrator "Mark Poole"
+ :position 225
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-geneticsvisionary-acquisition"
+ :code "70226"
+ :illustrator "Dan Frazier"
+ :position 226
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-get-ready-to-rumble"
+ :code "70227"
+ :illustrator "Kevin Taylor"
+ :position 227
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-gideons-pawnshop"
+ :code "70228"
+ :illustrator "Mark Collen"
+ :position 228
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-glacier"
+ :code "70229"
+ :illustrator "Daniel Gelon"
+ :position 229
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-government-contract"
+ :code "70230"
+ :illustrator "Doug Chaffee"
+ :position 230
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-green-knight-surge-buffers"
+ :code "70231"
+ :illustrator "Lawrence Brown"
+ :position 231
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-gremlins"
+ :code "70232"
+ :illustrator "Doug Shuler"
+ :position 232
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-grubb"
+ :code "70233"
+ :illustrator "Norm Dwyer"
+ :position 233
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-gypsy-tm-schedule-analyzer"
+ :code "70234"
+ :illustrator "Doug Shuler"
+ :position 234
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hacker-tracker-central"
+ :code "70235"
+ :illustrator "Robert McLees"
+ :position 235
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hammer"
+ :code "70236"
+ :illustrator "Mark Poole"
+ :position 236
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-haunting-inquisition"
+ :code "70237"
+ :illustrator "Robert McLees"
+ :position 237
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hells-run"
+ :code "70238"
+ :illustrator "Pete Venters"
+ :position 238
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-herman-revista"
+ :code "70239"
+ :illustrator "Zak Plucinski"
+ :position 239
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-highlighter"
+ :code "70240"
+ :illustrator "Craig Hooper"
+ :position 240
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hijack"
+ :code "70241"
+ :illustrator "Thomas Gianni"
+ :position 241
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-holovid-campaign"
+ :code "70242"
+ :illustrator "Zak Plucinski"
+ :position 242
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-homewrecker-tm"
+ :code "70243"
+ :illustrator "Mark Tedin"
+ :position 243
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-homing-missile"
+ :code "70244"
+ :illustrator "John Sledd"
+ :position 244
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hostile-takeover"
+ :code "70245"
+ :illustrator "Doug Shuler"
+ :position 245
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hot-tip-for-wns"
+ :code "70246"
+ :illustrator "Sue Ann Harkey"
+ :position 246
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hq-interface"
+ :code "70247"
+ :illustrator "Lawrence Brown"
+ :position 247
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hq-mole"
+ :code "70248"
+ :illustrator "Phil Hale"
+ :position 248
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hunt-club-bbs"
+ :code "70249"
+ :illustrator "Anthony Petrarca"
+ :position 249
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hunter"
+ :code "70250"
+ :illustrator "Kim Francisco"
+ :position 250
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-hunting-pack"
+ :code "70251"
+ :illustrator "Norm Dwyer"
+ :position 251
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ice-and-datas-guide-to-the-net"
+ :code "70252"
+ :illustrator "Sue Ann Harkey"
+ :position 252
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ice-and-data-special-report"
+ :code "70253"
+ :illustrator "David Logan"
+ :position 253
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-iceberg"
+ :code "70254"
+ :illustrator "Mark Tedin"
+ :position 254
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ice-pick-willie"
+ :code "70255"
+ :illustrator "Mark Poole"
+ :position 255
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ice-transmutation"
+ :code "70256"
+ :illustrator "T. Brian Wagner"
+ :position 256
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-identity-donor"
+ :code "70257"
+ :illustrator "Debbie Hughes"
+ :position 257
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-if-you-want-it-done-right"
+ :code "70258"
+ :illustrator "Zak Plucinski"
+ :position 258
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-i-got-a-rock"
+ :code "70259"
+ :illustrator "Richard Thomas"
+ :position 259
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-imp"
+ :code "70260"
+ :illustrator "Mike Kimble"
+ :position 260
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-imperial-guard"
+ :code "70261"
+ :illustrator "Doug Shuler"
+ :position 261
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-incubator"
+ :code "70262"
+ :illustrator "Norm Dwyer"
+ :position 262
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-indiscriminate-response-team"
+ :code "70263"
+ :illustrator "Ian Miller"
+ :position 263
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-information-laundering"
+ :code "70264"
+ :illustrator "Mike Kimble"
+ :position 264
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-inside-job"
+ :code "70265"
+ :illustrator "Ernie Chan"
+ :position 265
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-investment-firm"
+ :code "70266"
+ :illustrator "Anthony Petrarca"
+ :position 266
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-invisibility"
+ :code "70267"
+ :illustrator "Mark Tedin"
+ :position 267
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-i-spy"
+ :code "70268"
+ :illustrator "Mark Poole"
+ :position 268
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-jack-attac"
+ :code "70269"
+ :illustrator "Anson Maddocks"
+ :position 269
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-jackhammer"
+ :code "70270"
+ :illustrator "Norm Dwyer"
+ :position 270
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-jack-n-joe"
+ :code "70271"
+ :illustrator "Pete Venters"
+ :position 271
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-japanese-water-torture"
+ :code "70272"
+ :illustrator "Jonnie Wilder"
+ :position 272
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-jenny-jett"
+ :code "70273"
+ :illustrator "Lawrence Snelly"
+ :position 273
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-jerusalem-city-grid"
+ :code "70274"
+ :illustrator "Chris Vande Voort"
+ :position 274
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-joan-of-arc"
+ :code "70275"
+ :illustrator "John Casebeer"
+ :position 275
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-junkyard-bbs"
+ :code "70276"
+ :illustrator "Sue Ann Harkey"
+ :position 276
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-karl-de-veres-corporate-stooge"
+ :code "70277"
+ :illustrator "Randy Gallegos"
+ :position 277
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-keeper"
+ :code "70278"
+ :illustrator "Daniel Gelon"
+ :position 278
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-kilroy-was-here"
+ :code "70279"
+ :illustrator "Sue Ann Harkey"
+ :position 279
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-krash"
+ :code "70280"
+ :illustrator "Jonnie Wilder"
+ :position 280
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-krumz"
+ :code "70281"
+ :illustrator "Mark Collen"
+ :position 281
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-laser-wire"
+ :code "70282"
+ :illustrator "Kim Francisco"
+ :position 282
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ldl-traffic-analyzers"
+ :code "70283"
+ :illustrator "Mark Maxwell"
+ :position 283
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-leland-corporate-bodyguard"
+ :code "70284"
+ :illustrator "Heather Hudson"
+ :position 284
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lesley-major"
+ :code "70285"
+ :illustrator "Randy Gallegos"
+ :position 285
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lesser-arcana"
+ :code "70286"
+ :illustrator "Kino"
+ :position 286
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-liberated-savings-account"
+ :code "70287"
+ :illustrator "Phil Hale"
+ :position 287
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-library-search"
+ :code "70288"
+ :illustrator "Corey Macourek"
+ :position 288
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-liche"
+ :code "70289"
+ :illustrator "Mark Poole"
+ :position 289
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lifesaver-tm-nanosurgeons"
+ :code "70290"
+ :illustrator "Doug Shuler"
+ :position 290
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lisa-blight"
+ :code "70291"
+ :illustrator "Phil Hale"
+ :position 291
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-little-black-box"
+ :code "70292"
+ :illustrator "Randy Gallegos"
+ :position 292
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-live-news-feed"
+ :code "70293"
+ :illustrator "Doug Chaffee"
+ :position 293
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-livewires-contacts"
+ :code "70294"
+ :illustrator "Lawrence Snelly"
+ :position 294
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-loan-from-chiba"
+ :code "70295"
+ :illustrator "James Allen Higgins"
+ :position 295
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lockjaw"
+ :code "70296"
+ :illustrator "David Logan"
+ :position 296
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-london-city-grid"
+ :code "70297"
+ :illustrator "Pete Venters"
+ :position 297
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-loony-goon"
+ :code "70298"
+ :illustrator "Tony Luke"
+ :position 298
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lucidrine-tm-booster-drug"
+ :code "70299"
+ :illustrator "Pete Venters"
+ :position 299
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-lucidrine-tm-drip-feed"
+ :code "70300"
+ :illustrator "Paul Chadwick"
+ :position 300
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mainoffice-relocation"
+ :code "70301"
+ :illustrator "Mike Kimble"
+ :position 301
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-management-shakeup"
+ :code "70302"
+ :illustrator "Zak Plucinski"
+ :position 302
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-manhunt"
+ :code "70303"
+ :illustrator "Thomas Gianni"
+ :position 303
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mantis-fixeratlarge"
+ :code "70304"
+ :illustrator "Ernie Chan"
+ :position 304
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-marcel-desoleil"
+ :code "70305"
+ :illustrator "Phil Hale"
+ :position 305
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-marine-arcology"
+ :code "70306"
+ :illustrator "Ernie Chan"
+ :position 306
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-marionette"
+ :code "70307"
+ :illustrator "Mark Rattin"
+ :position 307
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-marked-accounts"
+ :code "70308"
+ :illustrator "Doug Shuler"
+ :position 308
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mastermind"
+ :code "70309"
+ :illustrator "Kino"
+ :position 309
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mastiff"
+ :code "70310"
+ :illustrator "Doug Shuler"
+ :position 310
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-matador"
+ :code "70311"
+ :illustrator "Mark Tedin"
+ :position 311
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mazer"
+ :code "70312"
+ :illustrator "Daniel Gelon"
+ :position 312
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-meat-upgrade"
+ :code "70313"
+ :illustrator "David Seeley"
+ :position 313
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mercenary-subcontract"
+ :code "70314"
+ :illustrator "Rick Berry"
+ :position 314
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-microtech-ai-interface"
+ :code "70315"
+ :illustrator "Doug Shuler"
+ :position 315
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-microtech-backup-drive"
+ :code "70316"
+ :illustrator "James Allen Higgins"
+ :position 316
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-microtech-trode-set"
+ :code "70317"
+ :illustrator "Randy Gallegos"
+ :position 317
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-militech-mram-chip"
+ :code "70318"
+ :illustrator "James Allen Higgins"
+ :position 318
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-minotaur"
+ :code "70319"
+ :illustrator "Craig Hooper"
+ :position 319
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-miscforsale"
+ :code "70320"
+ :illustrator "Robert McLees"
+ :position 320
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-misleading-access-menus"
+ :code "70321"
+ :illustrator "Mike Kimble"
+ :position 321
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mit-west-tier"
+ :code "70322"
+ :illustrator "John Park"
+ :position 322
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mobile-barricade"
+ :code "70323"
+ :illustrator "Michael Kellner"
+ :position 323
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-morphing-tool"
+ :code "70324"
+ :illustrator "Rick Berry"
+ :position 324
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mouse"
+ :code "70325"
+ :illustrator "Mark Collen"
+ :position 325
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mram-chip"
+ :code "70326"
+ :illustrator "Doug Chaffee"
+ :position 326
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mstodon"
+ :code "70327"
+ :illustrator "Doug Shuler"
+ :position 327
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-mystery-box"
+ :code "70328"
+ :illustrator "Kevin Taylor"
+ :position 328
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-namatoki-plaza"
+ :code "70329"
+ :illustrator "Chris Vande Voort"
+ :position 329
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-nasuko-cycle"
+ :code "70330"
+ :illustrator "L.A. Williams"
+ :position 330
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-nerve-labyrinth"
+ :code "70331"
+ :illustrator "Anson Maddocks"
+ :position 331
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-neto"
+ :code "70332"
+ :illustrator "Robert McLees"
+ :position 332
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-netspace-inverter"
+ :code "70333"
+ :illustrator "Mark Collen"
+ :position 333
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-netwatch-credit-voucher"
+ :code "70334"
+ :illustrator "Margaret Organ-Kean"
+ :position 334
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-netwatch-operations-office"
+ :code "70335"
+ :illustrator "Christina Wald"
+ :position 335
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-networked-center"
+ :code "70336"
+ :illustrator "Romas Kukalis"
+ :position 336
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-networking"
+ :code "70337"
+ :illustrator "Thomas Gianni"
+ :position 337
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-neural-blade"
+ :code "70338"
+ :illustrator "Mark Poole"
+ :position 338
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-nevinyrral"
+ :code "70339"
+ :illustrator "Maria P. Cabardo"
+ :position 339
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-new-blood"
+ :code "70340"
+ :illustrator "Mike Kimble"
+ :position 340
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-new-galveston-city-grid"
+ :code "70341"
+ :illustrator "Craig Hooper"
+ :position 341
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-newsgroup-filter"
+ :code "70342"
+ :illustrator "Sue Ann Harkey"
+ :position 342
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-newsgroup-taunting"
+ :code "70343"
+ :illustrator "Kevin Taylor"
+ :position 343
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-night-shift"
+ :code "70344"
+ :illustrator "Zak Plucinski"
+ :position 344
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-nomad-allies"
+ :code "70345"
+ :illustrator "Dan Frazier"
+ :position 345
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-obfuscated-fortress"
+ :code "70346"
+ :illustrator "Mark Rattin"
+ :position 346
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-offsite-backups"
+ :code "70347"
+ :illustrator "Zak Plucinski"
+ :position 347
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-olivia-salazar"
+ :code "70348"
+ :illustrator "Randy Gallegos"
+ :position 348
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-omni-kismet-ph-d"
+ :code "70349"
+ :illustrator "Doug Shuler"
+ :position 349
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-omniscience-foundation"
+ :code "70350"
+ :illustrator "Rob Dixon"
+ :position 350
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-omnitech-spinal-tap-cybermodem"
+ :code "70351"
+ :illustrator "Clint Langley"
+ :position 351
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-omnitech-wet-drive"
+ :code "70352"
+ :illustrator "Terese Nielsen"
+ :position 352
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-oncall-solo-team"
+ :code "70353"
+ :illustrator "Matt Wilson"
+ :position 353
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-on-the-fast-track"
+ :code "70354"
+ :illustrator "Paul Chadwick"
+ :position 354
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-openendedr-mileage-program"
+ :code "70355"
+ :illustrator "John Park"
+ :position 355
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-organ-donor"
+ :code "70356"
+ :illustrator "Pete Venters"
+ :position 356
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-overtime-incentives"
+ :code "70357"
+ :illustrator "Zak Plucinski"
+ :position 357
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pacifica-regional-ai"
+ :code "70358"
+ :illustrator "Chris Vande Voort"
+ :position 358
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pandoras-deck"
+ :code "70359"
+ :illustrator "Jonnie Wilder"
+ :position 359
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-panic-button"
+ :code "70360"
+ :illustrator "Doug Shuler"
+ :position 360
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-panzer-run"
+ :code "70361"
+ :illustrator "Brice Parker"
+ :position 361
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-paris-city-grid"
+ :code "70362"
+ :illustrator "Mark Tedin"
+ :position 362
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-parraline-5750"
+ :code "70363"
+ :illustrator "Mark Collen"
+ :position 363
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pattel-antibody"
+ :code "70364"
+ :illustrator "Norm Dwyer"
+ :position 364
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pattels-virus"
+ :code "70365"
+ :illustrator "Sue Ann Harkey"
+ :position 365
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pavit-bharat"
+ :code "70366"
+ :illustrator "Zak Plucinski"
+ :position 366
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pi-in-the-face"
+ :code "70367"
+ :illustrator "Robert McLees"
+ :position 367
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pile-driver"
+ :code "70368"
+ :illustrator "Norm Dwyer"
+ :position 368
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pirate-broadcast"
+ :code "70369"
+ :illustrator "Ciro Tota"
+ :position 369
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pk6089a"
+ :code "70370"
+ :illustrator "Chris Vande Voort"
+ :position 370
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-planning-consultants"
+ :code "70371"
+ :illustrator "Christina Wald"
+ :position 371
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-playful-ai"
+ :code "70372"
+ :illustrator "Pete Venters"
+ :position 372
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-please-dont-choke-anyone"
+ :code "70373"
+ :illustrator "Pete Venters"
+ :position 373
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pocket-virtual-reality"
+ :code "70374"
+ :illustrator "Fellwalker & Tolen"
+ :position 374
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-poisoned-water-supply"
+ :code "70375"
+ :illustrator "Brice Parker"
+ :position 375
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-political-coup"
+ :code "70376"
+ :illustrator "Ernie Chan"
+ :position 376
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-political-overthrow"
+ :code "70377"
+ :illustrator "Doug Chaffee"
+ :position 377
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-poltergeist"
+ :code "70378"
+ :illustrator "Mark Tedin"
+ :position 378
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-polymer-breakthrough"
+ :code "70379"
+ :illustrator "Kevin Taylor"
+ :position 379
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-power-grid-overload"
+ :code "70380"
+ :illustrator "Randy Gallegos"
+ :position 380
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-pox"
+ :code "70381"
+ :illustrator "Norm Dwyer"
+ :position 381
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-prearranged-drop"
+ :code "70382"
+ :illustrator "David Seeley"
+ :position 382
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-precision-bribery"
+ :code "70383"
+ :illustrator "Debbie Hughes"
+ :position 383
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-preying-mantis"
+ :code "70384"
+ :illustrator "Dan Frazier"
+ :position 384
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-priority-requisition"
+ :code "70385"
+ :illustrator "Kevin Stein"
+ :position 385
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-priority-wreck"
+ :code "70386"
+ :illustrator "Dave Pilurs"
+ :position 386
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-private-cybernet-police"
+ :code "70387"
+ :illustrator "Brian Booker"
+ :position 387
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-private-ldl-access"
+ :code "70388"
+ :illustrator "John Park"
+ :position 388
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-project-babylon"
+ :code "70389"
+ :illustrator "Greg Staples"
+ :position 389
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-project-consultants"
+ :code "70390"
+ :illustrator "Mike Raabe"
+ :position 390
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-project-venice"
+ :code "70391"
+ :illustrator "Mark Tedin"
+ :position 391
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-project-zurich"
+ :code "70392"
+ :illustrator "Moebius"
+ :position 392
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-promises-promises"
+ :code "70393"
+ :illustrator "Doug Shuler"
+ :position 393
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-psychic-friend"
+ :code "70394"
+ :illustrator "Mike Kimble"
+ :position 394
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-punitive-counterstrike"
+ :code "70395"
+ :illustrator "Dave Pilurs"
+ :position 395
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-puzzle"
+ :code "70396"
+ :illustrator "Kino"
+ :position 396
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-quandary"
+ :code "70397"
+ :illustrator "Daniel Gelon"
+ :position 397
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-quest-for-cattekin"
+ :code "70398"
+ :illustrator "Kevin Stein"
+ :position 398
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rabbit"
+ :code "70399"
+ :illustrator "Mark Collen"
+ :position 399
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-raffles"
+ :code "70400"
+ :illustrator "Mark Collen"
+ :position 400
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ramming-piston"
+ :code "70401"
+ :illustrator "Norm Dwyer"
+ :position 401
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-raptor"
+ :code "70402"
+ :illustrator "Higgins & King"
+ :position 402
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rasmin-bridger"
+ :code "70403"
+ :illustrator "Brice Parker"
+ :position 403
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-raven-microcyb-eagle"
+ :code "70404"
+ :illustrator "Mike Raabe"
+ :position 404
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-raven-microcyb-owl"
+ :code "70405"
+ :illustrator "Doug Shuler"
+ :position 405
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-raymond-ellison"
+ :code "70406"
+ :illustrator "Phil Hale"
+ :position 406
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-razor-wire"
+ :code "70407"
+ :illustrator "John Casebeer"
+ :position 407
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rd-interface"
+ :code "70408"
+ :illustrator "John Park"
+ :position 408
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rd-mole"
+ :code "70409"
+ :illustrator "Rick Berry"
+ :position 409
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rdprotocol-files"
+ :code "70410"
+ :illustrator "Doug Shuler"
+ :position 410
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-reclamation-project"
+ :code "70411"
+ :illustrator "David Seeley"
+ :position 411
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-reconnaissance"
+ :code "70412"
+ :illustrator "Doug Shuler"
+ :position 412
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-record-reconstructor"
+ :code "70413"
+ :illustrator "James Allen Higgins"
+ :position 413
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-redecorator"
+ :code "70414"
+ :illustrator "Mark Tedin"
+ :position 414
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-red-herrings"
+ :code "70415"
+ :illustrator "Mark Collen"
+ :position 415
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-reflector"
+ :code "70416"
+ :illustrator "Kevin Taylor"
+ :position 416
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-reinforced-wall"
+ :code "70417"
+ :illustrator "Kim Francisco"
+ :position 417
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-remote-detonator"
+ :code "70418"
+ :illustrator "Norm Dwyer"
+ :position 418
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-remote-facility"
+ :code "70419"
+ :illustrator "Chris Vande Voort"
+ :position 419
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-renticon"
+ :code "70420"
+ :illustrator "John Sledd"
+ :position 420
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-renttoown-contract"
+ :code "70421"
+ :illustrator "Doug Shuler"
+ :position 421
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-replicator"
+ :code "70422"
+ :illustrator "Lawrence Brown"
+ :position 422
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rescheduler"
+ :code "70423"
+ :illustrator "Mike Kimble"
+ :position 423
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-research-bunker"
+ :code "70424"
+ :illustrator "Brice Parker"
+ :position 424
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-restrictive-net-zoning"
+ :code "70425"
+ :illustrator "Jonnie Wilder"
+ :position 425
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rex"
+ :code "70426"
+ :illustrator "Brian Booker"
+ :position 426
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-riddler"
+ :code "70427"
+ :illustrator "Daniel Gelon"
+ :position 427
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rigged-investments"
+ :code "70428"
+ :illustrator "Armand Cabrera"
+ :position 428
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rio-de-janeiro-city-grid"
+ :code "70429"
+ :illustrator "Pete Venters"
+ :position 429
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-roadblock"
+ :code "70430"
+ :illustrator "Daniel Gelon"
+ :position 430
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rockerboy-promotion"
+ :code "70431"
+ :illustrator "John Ramirez"
+ :position 431
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rock-is-strong"
+ :code "70432"
+ :illustrator "Anson Maddocks"
+ :position 432
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-romp-through-hq"
+ :code "70433"
+ :illustrator "Kevin Taylor"
+ :position 433
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-ronin-around"
+ :code "70434"
+ :illustrator "Sue Ann Harkey"
+ :position 434
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-roving-submarine"
+ :code "70435"
+ :illustrator "Doug Chaffee"
+ :position 435
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-runner-sensei"
+ :code "70436"
+ :illustrator "Randy Gallegos"
+ :position 436
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-running-interference"
+ :code "70437"
+ :illustrator "Mark Tedin"
+ :position 437
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rush-hour"
+ :code "70438"
+ :illustrator "John Sledd"
+ :position 438
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-rustbelt-hq-branch"
+ :code "70439"
+ :illustrator "Anthony Petrarca"
+ :position 439
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sandbox-dig"
+ :code "70440"
+ :illustrator "Mark Tedin"
+ :position 440
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sandstorm"
+ :code "70441"
+ :illustrator "Kim Francisco"
+ :position 441
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-satellite-monitors"
+ :code "70442"
+ :illustrator "Doug Chaffee"
+ :position 442
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-scaffolding"
+ :code "70443"
+ :illustrator "Kim Francisco"
+ :position 443
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-scaldan"
+ :code "70444"
+ :illustrator "Norm Dwyer"
+ :position 444
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-scatter-shot"
+ :code "70445"
+ :illustrator "Mark Collen"
+ :position 445
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-schematics-search-engine"
+ :code "70446"
+ :illustrator "Doug Shuler"
+ :position 446
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-schlaghund"
+ :code "70447"
+ :illustrator "L.A. Williams"
+ :position 447
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-schlaghund-pointers"
+ :code "70448"
+ :illustrator "Ciro Tota"
+ :position 448
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-scorched-earth"
+ :code "70449"
+ :illustrator "Greg Staples"
+ :position 449
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-score"
+ :code "70450"
+ :illustrator "Zak Plucinski"
+ :position 450
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-scramble"
+ :code "70451"
+ :illustrator "Daniel Gelon"
+ :position 451
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-security-code-worm-chip"
+ :code "70452"
+ :illustrator "Robert McLees"
+ :position 452
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-security-net-optimization"
+ :code "70453"
+ :illustrator "Chris Vande Voort"
+ :position 453
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-security-purge"
+ :code "70454"
+ :illustrator "Ramon Mascarenas"
+ :position 454
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-seeya"
+ :code "70455"
+ :illustrator "Mark Collen"
+ :position 455
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-selfdestruct"
+ :code "70456"
+ :illustrator "Mark Tedin"
+ :position 456
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-selfmodifying-code"
+ :code "70457"
+ :illustrator "Jonnie Wilder"
+ :position 457
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-senatorial-field-trip"
+ :code "70458"
+ :illustrator "Pete Venters"
+ :position 458
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sentinels-prime"
+ :code "70459"
+ :illustrator "Kevin Taylor"
+ :position 459
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-setup"
+ :code "70460"
+ :illustrator "Norm Dwyer"
+ :position 460
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shaka"
+ :code "70461"
+ :illustrator "Tony Luke"
+ :position 461
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shield"
+ :code "70462"
+ :illustrator "Kevin Taylor"
+ :position 462
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shockr"
+ :code "70463"
+ :illustrator "Mark Collen"
+ :position 463
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shock-treatment"
+ :code "70464"
+ :illustrator "Doug Chaffee"
+ :position 464
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shortterm-contract"
+ :code "70465"
+ :illustrator "James Allen Higgins"
+ :position 465
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shotgun-wire"
+ :code "70466"
+ :illustrator "Kim Francisco"
+ :position 466
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-shredder-uplink-protocol"
+ :code "70467"
+ :illustrator "Doug Shuler"
+ :position 467
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-signpost"
+ :code "70468"
+ :illustrator "Mark Collen"
+ :position 468
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-silicon-saloon-franchise"
+ :code "70469"
+ :illustrator "James Allen Higgins"
+ :position 469
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-silver-lining-recovery-protocol"
+ :code "70470"
+ :illustrator "Jonnie Wilder"
+ :position 470
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-simon-francisco"
+ :code "70471"
+ :illustrator "Randy Gallegos"
+ :position 471
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-simulacrum"
+ :code "70472"
+ :illustrator "Kino"
+ :position 472
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-singapore-city-grid"
+ :code "70473"
+ :illustrator "Mike Kimble"
+ :position 473
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-siren"
+ :code "70474"
+ :illustrator "David Logan"
+ :position 474
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-skalderviken-sa-beta-test-site"
+ :code "70475"
+ :illustrator "Chris Vande Voort"
+ :position 475
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-skeleton-passkeys"
+ :code "70476"
+ :illustrator "Michael Kellner"
+ :position 476
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-skivviss"
+ :code "70477"
+ :illustrator "Mike Kimble"
+ :position 477
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-skullcap"
+ :code "70478"
+ :illustrator "Craig Hooper"
+ :position 478
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sleeper"
+ :code "70479"
+ :illustrator "Daniel Gelon"
+ :position 479
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-smarteye"
+ :code "70480"
+ :illustrator "Mark Poole"
+ :position 480
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-smiths-pawnshop"
+ :code "70481"
+ :illustrator "Glenn Kim"
+ :position 481
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sneak-preview"
+ :code "70482"
+ :illustrator "Sue Ann Harkey"
+ :position 482
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-snowball"
+ :code "70483"
+ :illustrator "Maria P. Cabardo"
+ :position 483
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-snowbank"
+ :code "70484"
+ :illustrator "Doug Shuler"
+ :position 484
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-social-engineering"
+ :code "70485"
+ :illustrator "Zak Plucinski"
+ :position 485
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-solo-squad"
+ :code "70486"
+ :illustrator "Ernie Chan"
+ :position 486
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-south-african-mining-corp"
+ :code "70487"
+ :illustrator "Todd Wade"
+ :position 487
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-speed-trap"
+ :code "70488"
+ :illustrator "Mark Collen"
+ :position 488
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sphinx-2006"
+ :code "70489"
+ :illustrator "Daniel Gelon"
+ :position 489
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-spinn-r-public-relations"
+ :code "70490"
+ :illustrator "Todd Wade"
+ :position 490
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-stakeout"
+ :code "70491"
+ :illustrator "Paul Chadwick"
+ :position 491
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-startup-immolator"
+ :code "70492"
+ :illustrator "Mark Collen"
+ :position 492
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sterdroid"
+ :code "70493"
+ :illustrator "Kino"
+ :position 493
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-stereogram-antibody"
+ :code "70494"
+ :illustrator "John Sledd"
+ :position 494
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-strategic-planning-group"
+ :code "70495"
+ :illustrator "Doug Chaffee"
+ :position 495
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-street-enforcer"
+ :code "70496"
+ :illustrator "Hannibal King"
+ :position 496
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-streetware-distributor"
+ :code "70497"
+ :illustrator "Matt Wilson"
+ :position 497
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-strike-force-kali"
+ :code "70498"
+ :illustrator "Richard Thomas"
+ :position 498
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-stumble-through-wilderspace"
+ :code "70499"
+ :illustrator "Sue Ann Harkey"
+ :position 499
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-subliminal-corruption"
+ :code "70500"
+ :illustrator "James Allen Higgins"
+ :position 500
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-submarine-uplink"
+ :code "70501"
+ :illustrator "John Ramirez"
+ :position 501
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-subsidiary-branch"
+ :code "70502"
+ :illustrator "Anthony Petrarca"
+ :position 502
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-succubus"
+ :code "70503"
+ :illustrator "Anson Maddocks"
+ :position 503
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sumo-2008"
+ :code "70504"
+ :illustrator "Mike Kimble"
+ :position 504
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-sunburst-cranial-interface"
+ :code "70505"
+ :illustrator "Craig Hooper"
+ :position 505
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-superglue"
+ :code "70506"
+ :illustrator "James Allen"
+ :position 506
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-superior-net-barriers"
+ :code "70507"
+ :illustrator "Ramon Mascarenas"
+ :position 507
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-superserum"
+ :code "70508"
+ :illustrator "David Ho"
+ :position 508
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-swiss-bank-account"
+ :code "70509"
+ :illustrator "Debbie Hughes"
+ :position 509
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-syd-meyer-superstores"
+ :code "70510"
+ :illustrator "Mike Kimble"
+ :position 510
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-synchronized-attack-on-hq"
+ :code "70511"
+ :illustrator "Craig Gilmore"
+ :position 511
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-systematic-layoffs"
+ :code "70512"
+ :illustrator "Zak Plucinski"
+ :position 512
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-taxman"
+ :code "70513"
+ :illustrator "James Allen Higgins"
+ :position 513
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-team-restructuring"
+ :code "70514"
+ :illustrator "Craig Gilmore"
+ :position 514
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-technician-lover"
+ :code "70515"
+ :illustrator "Randy Gallegos"
+ :position 515
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-techtronica-tm-utility-suit"
+ :code "70516"
+ :illustrator "Doug Shuler"
+ :position 516
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-temple-microcode-outlet"
+ :code "70517"
+ :illustrator "Dave Pilurs"
+ :position 517
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-terrorist-reprisal"
+ :code "70518"
+ :illustrator "Mark Collen"
+ :position 518
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tesseract-fort-construction"
+ :code "70519"
+ :illustrator "Mark Tedin"
+ :position 519
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-test-spin"
+ :code "70520"
+ :illustrator "Mark Tedin"
+ :position 520
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-the-deck"
+ :code "70521"
+ :illustrator "Mark Tedin"
+ :position 521
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-theorem-proof"
+ :code "70522"
+ :illustrator "Doug Chaffee"
+ :position 522
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-the-personal-touch"
+ :code "70523"
+ :illustrator "Debbie Hughes"
+ :position 523
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-the-shell-traders"
+ :code "70524"
+ :illustrator "Mike Kimble"
+ :position 524
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-the-short-circuit"
+ :code "70525"
+ :illustrator "Ray Winninger"
+ :position 525
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-the-springboard"
+ :code "70526"
+ :illustrator "Sue Ann Harkey"
+ :position 526
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-time-to-collect"
+ :code "70527"
+ :illustrator "Doug Chaffee"
+ :position 527
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tinweasel"
+ :code "70528"
+ :illustrator "Mark Collen"
+ :position 528
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tko-20"
+ :code "70529"
+ :illustrator "John Casebeer"
+ :position 529
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tokyochiba-infighting"
+ :code "70530"
+ :illustrator "Mark Collen"
+ :position 530
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-too-many-doors"
+ :code "70531"
+ :illustrator "Pete Venters"
+ :position 531
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-top-runners-conference"
+ :code "70532"
+ :illustrator "James Allen Higgins"
+ :position 532
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-total-genetic-retrofit"
+ :code "70533"
+ :illustrator "Doug Chaffee"
+ :position 533
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-toughonium-tm-wall"
+ :code "70534"
+ :illustrator "Craig Hooper"
+ :position 534
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-trapdoor"
+ :code "70535"
+ :illustrator "Mark Tedin"
+ :position 535
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-trap"
+ :code "70536"
+ :illustrator "Mark Collen"
+ :position 536
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-trauma-team-tm"
+ :code "70537"
+ :illustrator "Mike Kimble"
+ :position 537
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-triggerman"
+ :code "70538"
+ :illustrator "Robert McLees"
+ :position 538
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-trojan-horse"
+ :code "70539"
+ :illustrator "Mike Kimble"
+ :position 539
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tumblers"
+ :code "70540"
+ :illustrator "Daniel Gelon"
+ :position 540
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-turbeau-delacroix"
+ :code "70541"
+ :illustrator "L.A. Williams"
+ :position 541
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tutor"
+ :code "70542"
+ :illustrator "Roger Coad"
+ :position 542
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-twentyfourhour-surveillance"
+ :code "70543"
+ :illustrator "Mark Collen"
+ :position 543
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-twisty-passages"
+ :code "70544"
+ :illustrator "Daniel Gelon"
+ :position 544
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tycho-extension"
+ :code "70545"
+ :illustrator "Randy Gallegos"
+ :position 545
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-tycho-mem-chip"
+ :code "70546"
+ :illustrator "Lawrence Brown"
+ :position 546
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-umbrella-policy"
+ :code "70547"
+ :illustrator "Zak Plucinski"
+ :position 547
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-underworld-mole"
+ :code "70548"
+ :illustrator "David Seeley"
+ :position 548
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-unlisted-research-lab"
+ :code "70549"
+ :illustrator "Doug Chaffee"
+ :position 549
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-urban-renewal"
+ :code "70550"
+ :illustrator "Doug Chaffee"
+ :position 550
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vacant-soulkiller"
+ :code "70551"
+ :illustrator "Larry Friedman"
+ :position 551
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vacuum-link"
+ :code "70552"
+ :illustrator "Robert McLees"
+ :position 552
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-valupak-software-bundle"
+ :code "70553"
+ :illustrator "John Park"
+ :position 553
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vapor-ops"
+ :code "70554"
+ :illustrator "Craig Hooper"
+ :position 554
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vewy-vewy-quiet"
+ :code "70555"
+ :illustrator "Kevin Taylor"
+ :position 555
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vienna-22"
+ :code "70556"
+ :illustrator "Kino"
+ :position 556
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vintage-camaro"
+ :code "70557"
+ :illustrator "Romas"
+ :position 557
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-viral-15"
+ :code "70558"
+ :illustrator "Robert McLees"
+ :position 558
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-viral-breeding-ground"
+ :code "70559"
+ :illustrator "Michael Kellner"
+ :position 559
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-viral-pipeline"
+ :code "70560"
+ :illustrator "David Ho"
+ :position 560
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-virizz"
+ :code "70561"
+ :illustrator "Doug Shuler"
+ :position 561
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-virus-test-site"
+ :code "70562"
+ :illustrator "Mark Collen"
+ :position 562
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-vortex"
+ :code "70563"
+ :illustrator "James Allen"
+ :position 563
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-walking-wall"
+ :code "70564"
+ :illustrator "John Sledd"
+ :position 564
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wall-of-ice"
+ :code "70565"
+ :illustrator "Mark Tedin"
+ :position 565
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wall-of-static"
+ :code "70566"
+ :illustrator "Kim Francisco"
+ :position 566
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-washedup-solo-construct"
+ :code "70567"
+ :illustrator "David Logan"
+ :position 567
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-washington-dc-city-grid"
+ :code "70568"
+ :illustrator "Chris Vande Voort"
+ :position 568
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-weapons-depot"
+ :code "70569"
+ :illustrator "David Seeley"
+ :position 569
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-weathertofinance-pipe"
+ :code "70570"
+ :illustrator "Sue Ann Harkey"
+ :position 570
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-weefle-initiation"
+ :code "70571"
+ :illustrator "Rick Berry"
+ :position 571
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wild-card"
+ :code "70572"
+ :illustrator "Tony Luke"
+ :position 572
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wilson-weeflerunner-apprentice"
+ :code "70573"
+ :illustrator "Dan Frazier"
+ :position 573
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wired-switchboard"
+ :code "70574"
+ :illustrator "Debbie Hughes"
+ :position 574
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wizards-book"
+ :code "70575"
+ :illustrator "Maria P. Cabardo"
+ :position 575
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-world-domination"
+ :code "70576"
+ :illustrator "Craig Hooper"
+ :position 576
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-worm"
+ :code "70577"
+ :illustrator "Anson Maddocks"
+ :position 577
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wrecking-ball"
+ :code "70578"
+ :illustrator "Doug Shuler"
+ :position 578
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-wutech-mem-chip"
+ :code "70579"
+ :illustrator "Jonnie Wilder"
+ :position 579
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-zetatech-mem-chip"
+ :code "70580"
+ :illustrator "Lawrence Brown"
+ :position 580
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-zetatech-portastation"
+ :code "70581"
+ :illustrator "Brice Parker"
+ :position 581
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-zetatech-software-installer"
+ :code "70582"
+ :illustrator "Doug Shuler"
+ :position 582
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-zombie"
+ :code "70583"
+ :illustrator "Pete Venters"
+ :position 583
+ :quantity 99
+ :set-id "onr-base"}
+{:card-id "onr-zz22-speed-chip"
+ :code "70584"
+ :illustrator "Jonnie Wilder"
+ :position 584
+ :quantity 99
+ :set-id "onr-base"}
+]

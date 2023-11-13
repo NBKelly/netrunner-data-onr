@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-herman-revista"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "0 credit: Rearrange the ice installed on this fort. Use this ability only at the start of a run on this data fort."
+ :stripped-title "ONR Herman Revista"
+ :subtype [:onr-sysop]
+ :text "0 [credit]: Rearrange the ice installed on this fort. Use this ability only at the start of a run on this data fort."
+ :title "ONR Herman Revista"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

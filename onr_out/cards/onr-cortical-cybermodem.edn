@@ -1,0 +1,13 @@
+{:cost 11
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-cortical-cybermodem"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Provides +2 MU and +2 hand size. Put 2 credit from the bank on Cortical Cybermodem when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them from the bank at the start of your next turn.  Only one deck can be in play at a time. Trash any older decks."
+ :stripped-title "ONR Cortical Cybermodem"
+ :subtype [:onr-deck :onr-cybernetics]
+ :text "Provides +2 MU and +2 hand size. Put 2 [credit] from the bank on Cortical Cybermodem when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them from the bank at the start of your next turn. \nOnly one deck can be in play at a time. Trash any older decks."
+ :title "ONR Cortical Cybermodem"
+ :type :hardware
+ :uniqueness false}

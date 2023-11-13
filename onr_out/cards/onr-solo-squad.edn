@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-solo-squad"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Do 1 meat damage. Use this ability only if Runner is tagged."
+ :stripped-title "ONR Solo Squad"
+ :text "A: Do 1 meat damage. Use this ability only if Runner is tagged."
+ :title "ONR Solo Squad"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-hijack"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Install a program or a piece of hardware. Gain 3 credit, which you may use only to pay for its installation cost. Return to the bank any of the 3 credit you did not spend."
+ :stripped-title "ONR Hijack"
+ :text "Install a program or a piece of hardware. Gain 3 [credit], which you may use only to pay for its installation cost. Return to the bank any of the 3 [credit] you did not spend."
+ :title "ONR Hijack"
+ :type :event
+ :uniqueness false}

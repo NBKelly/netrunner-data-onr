@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-executive-wiretaps"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on HQ. If run is successful, access two additional cards from HQ."
+ :stripped-title "ONR Executive Wiretaps"
+ :text "Make a run on HQ. If run is successful, access two additional cards from HQ."
+ :title "ONR Executive Wiretaps"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-arasaka-owns-you"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Do not play Arasaka Owns You as a normal action; instead, play it when you would suffer enough damage to flatline you. Prevent all of that damage, trash Arasaka Owns You, remove any brain damage you have suffered, and then refresh your hand to its maximum size. Gain 10 credit and remove all tags, at no cost. You forgo your next four actions, and you forfeit the next 3 agenda points you score."
+ :stripped-title "ONR Arasaka Owns You"
+ :text "Do not play Arasaka Owns You as a normal action; instead, play it when you would suffer enough damage to flatline you. Prevent all of that damage, trash Arasaka Owns You, remove any brain damage you have suffered, and then refresh your hand to its maximum size. Gain 10 [credit] and remove all tags, at no cost. You forgo your next four actions, and you forfeit the next 3 agenda points you score."
+ :title "ONR Arasaka Owns You"
+ :type :event
+ :uniqueness false}

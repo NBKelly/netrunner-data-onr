@@ -1,0 +1,14 @@
+{:cost 13
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-toughonium-tm-wall"
+ :influence-cost 1
+ :side :corp
+ :strength 7
+ :stripped-text "S creditEnd the run.  S creditEnd the run.  S creditEnd the run.  S creditEnd the run."
+ :stripped-title "ONR Toughonium TM Wall"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. \nS [credit]End the run. \nS [credit]End the run. \nS [credit]End the run."
+ :title "ONR Toughonium [TM] Wall"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-crybaby"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When Runner accesses Crybaby, give Runner a Crying counter.  Each Crying counter reduces Runner's link by 2 during each trace attempt.  Runner can remove a Crying counter by taking an action to pay 2 credit."
+ :stripped-title "ONR Crybaby"
+ :subtype [:onr-ambush]
+ :text "When Runner accesses Crybaby, give Runner a Crying counter. \nEach Crying counter reduces Runner's link by 2 during each trace attempt. \nRunner can remove a Crying counter by taking an action to pay 2 [credit]."
+ :title "ONR Crybaby"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

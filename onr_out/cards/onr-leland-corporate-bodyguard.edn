@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-leland-corporate-bodyguard"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "1 credit: Prevent 1 meat damage.  T credit: Avoid receiving a tag."
+ :stripped-title "ONR Leland Corporate Bodyguard"
+ :text "1 [credit]: Prevent 1 meat damage. \nT [credit]: Avoid receiving a tag."
+ :title "ONR Leland, Corporate Bodyguard"
+ :type :resource
+ :uniqueness false}

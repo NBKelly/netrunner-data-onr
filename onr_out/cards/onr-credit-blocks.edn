@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-credit-blocks"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditEnd the run. When you rez Credit Blocks, you may pay 1 credit, above the rez cost, to make it a wall instead of a sentry."
+ :stripped-title "ONR Credit Blocks"
+ :subtype [:onr-sentry]
+ :text "S [credit]End the run. When you rez Credit Blocks, you may pay 1 [credit], above the rez cost, to make it a wall instead of a sentry."
+ :title "ONR Credit Blocks"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-playful-ai"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Roll a die. On a 1, 2, or 3, gain that many bits, set aside that many dice to roll again, or choose some combination thereof. Repeat until you have rolled all the dice you set aside."
+ :stripped-title "ONR Playful AI"
+ :subtype [:onr-ai :onr-random]
+ :text "Roll a die. On a 1, 2, or 3, gain that many bits, set aside that many dice to roll again, or choose some combination thereof. Repeat until you have rolled all the dice you set aside."
+ :title "ONR Playful AI"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-ball-and-chain"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditFor the remainder of the run, Runner must pay 2 credit when encountering a piece of ice, in addition to any other costs, or end the run."
+ :stripped-title "ONR Ball and Chain"
+ :subtype [:onr-code-gate]
+ :text "S [credit]For the remainder of the run, Runner must pay 2 [credit] when encountering a piece of ice, in addition to any other costs, or end the run."
+ :title "ONR Ball and Chain"
+ :type :ice
+ :uniqueness false}

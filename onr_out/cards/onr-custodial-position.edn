@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-custodial-position"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on R&D. If run is successful, access two additional cards from R&D."
+ :stripped-title "ONR Custodial Position"
+ :text "Make a run on R&D. If run is successful, access two additional cards from R&D."
+ :title "ONR Custodial Position"
+ :type :event
+ :uniqueness false}

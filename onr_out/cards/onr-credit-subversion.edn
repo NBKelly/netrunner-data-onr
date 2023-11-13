@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-credit-subversion"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "T credit: The Corp loses 3 credit. Use this ability immediately after a successful run on HQ.  Hidden resources are installed face down, but are put into the trash face up."
+ :stripped-title "ONR Credit Subversion"
+ :subtype [:onr-hidden :onr-sabotage]
+ :text "T [credit]: The Corp loses 3 [credit]. Use this ability immediately after a successful run on HQ. \nHidden resources are installed face down, but are put into the trash face up."
+ :title "ONR Credit Subversion"
+ :type :resource
+ :uniqueness false}

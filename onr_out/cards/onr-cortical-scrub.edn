@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-cortical-scrub"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditDo 1 brain damage.  S creditEnd the run."
+ :stripped-title "ONR Cortical Scrub"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-brainwipe]
+ :text "S [credit]Do 1 brain damage. \nS [credit]End the run."
+ :title "ONR Cortical Scrub"
+ :type :ice
+ :uniqueness false}

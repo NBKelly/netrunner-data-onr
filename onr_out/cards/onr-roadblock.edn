@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-roadblock"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditEnd the run.  When Runner encounters Roadblock, roll a die. On a 6, derez Roadblock, and Runner automatically passes it; otherwise, add the result to Roadblock's strength for that encounter."
+ :stripped-title "ONR Roadblock"
+ :subtype [:onr-code-gate :onr-random]
+ :text "S [credit]End the run. \nWhen Runner encounters Roadblock, roll a die. On a 6, derez Roadblock, and Runner automatically passes it; otherwise, add the result to Roadblock's strength for that encounter."
+ :title "ONR Roadblock"
+ :type :ice
+ :uniqueness false}

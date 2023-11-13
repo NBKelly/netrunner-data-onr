@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-record-reconstructor"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D."
+ :stripped-title "ONR Record Reconstructor"
+ :text "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D."
+ :title "ONR Record Reconstructor"
+ :type :hardware
+ :uniqueness false}

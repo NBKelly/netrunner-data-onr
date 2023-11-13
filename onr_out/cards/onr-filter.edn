@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-filter"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Filter"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run."
+ :title "ONR Filter"
+ :type :ice
+ :uniqueness false}

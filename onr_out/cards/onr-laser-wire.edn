@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-laser-wire"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditDo 1 Net damage.  S creditEnd the run."
+ :stripped-title "ONR Laser Wire"
+ :subtype [:onr-wall]
+ :text "S [credit]Do 1 Net damage. \nS [credit]End the run."
+ :title "ONR Laser Wire"
+ :type :ice
+ :uniqueness false}

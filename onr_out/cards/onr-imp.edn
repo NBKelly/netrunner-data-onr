@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-imp"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Imp can have up to 2 MU of programs installed in it. All icebreakers installed in this way have their strength reduced by 1. If Imp leaves play, trash all programs installed in it."
+ :stripped-title "ONR Imp"
+ :subtype [:onr-daemon]
+ :text "Imp can have up to 2 MU of programs installed in it. All icebreakers installed in this way have their strength reduced by 1. If Imp leaves play, trash all programs installed in it."
+ :title "ONR Imp"
+ :type :program
+ :uniqueness false}

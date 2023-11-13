@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-cowboy-sysop"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Choose one of your installed cards to be uninstalled. Store it in HQ."
+ :stripped-title "ONR Cowboy Sysop"
+ :text "A: Choose one of your installed cards to be uninstalled. Store it in HQ."
+ :title "ONR Cowboy Sysop"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-newsgroup-filter"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :stripped-text "A: Gain 2 credit."
+ :stripped-title "ONR Newsgroup Filter"
+ :text "A: Gain 2 [credit]."
+ :title "ONR Newsgroup Filter"
+ :type :program
+ :uniqueness false}

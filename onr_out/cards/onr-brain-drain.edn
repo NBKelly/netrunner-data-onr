@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-brain-drain"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditRoll a die. On a 1, do 3 brain damage."
+ :stripped-title "ONR Brain Drain"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap]
+ :text "S [credit]Roll a die. On a 1, do 3 brain damage."
+ :title "ONR Brain Drain"
+ :type :ice
+ :uniqueness false}

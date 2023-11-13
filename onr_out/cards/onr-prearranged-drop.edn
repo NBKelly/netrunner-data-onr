@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-prearranged-drop"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "The next time you access an agenda this turn, gain 6 credit."
+ :stripped-title "ONR Prearranged Drop"
+ :text "The next time you access an agenda this turn, gain 6 [credit]."
+ :title "ONR Prearranged Drop"
+ :type :event
+ :uniqueness false}

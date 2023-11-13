@@ -1,0 +1,14 @@
+{:cost 13
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-wall-of-ice"
+ :influence-cost 1
+ :side :corp
+ :strength 6
+ :stripped-text "S creditDo 2 Net damage.  S creditDo 2 Net damage.  S creditEnd the run.  S creditEnd the run."
+ :stripped-title "ONR Wall of Ice"
+ :subtype [:onr-wall]
+ :text "S [credit]Do 2 Net damage. \nS [credit]Do 2 Net damage. \nS [credit]End the run. \nS [credit]End the run."
+ :title "ONR Wall of Ice"
+ :type :ice
+ :uniqueness false}

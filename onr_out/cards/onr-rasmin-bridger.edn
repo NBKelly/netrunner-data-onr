@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-rasmin-bridger"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "After Runner passes each piece of ice on this fort, Runner must pay 1 credit or end the run."
+ :stripped-title "ONR Rasmin Bridger"
+ :subtype [:onr-sysop]
+ :text "After Runner passes each piece of ice on this fort, Runner must pay 1 [credit] or end the run."
+ :title "ONR Rasmin Bridger"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-death-yoyo"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditDo 1 brain damage.  S creditEnd the run.  If Runner passes Death Yo-Yo, you may choose to uninstall it, store it in HQ, and gain 1 credit."
+ :stripped-title "ONR Death YoYo"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-brainwipe]
+ :text "S [credit]Do 1 brain damage. \nS [credit]End the run. \nIf Runner passes Death Yo-Yo, you may choose to uninstall it, store it in HQ, and gain 1 [credit]."
+ :title "ONR Death Yo-Yo"
+ :type :ice
+ :uniqueness false}

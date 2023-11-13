@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-virus-test-site"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "You may advance Virus Test Site before and after you rez it. When Runner accesses Test Site, it does 2 Net damage per advancement counter on it, or 1 Net damage if it has no counters, even if it is not installed or rezzed.  Ignore this effect if Runner accesses it from the Archives.  If Test Site is accessed from R&D, Runner must show it to you."
+ :stripped-title "ONR Virus Test Site"
+ :subtype [:onr-ambush]
+ :text "You may advance Virus Test Site before and after you rez it. When Runner accesses Test Site, it does 2 Net damage per advancement counter on it, or 1 Net damage if it has no counters, even if it is not installed or rezzed. \nIgnore this effect if Runner accesses it from the Archives. \nIf Test Site is accessed from R&D, Runner must show it to you."
+ :title "ONR Virus Test Site"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

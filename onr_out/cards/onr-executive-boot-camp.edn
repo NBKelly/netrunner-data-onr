@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-executive-boot-camp"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Discard a card at random: Gain 2 credit. Use this ability only during a run.  At the end of the run, return to the bank any of the 2 credit you did not spend."
+ :stripped-title "ONR Executive Boot Camp"
+ :text "Discard a card at random: Gain 2 [credit]. Use this ability only during a run. \nAt the end of the run, return to the bank any of the 2 [credit] you did not spend."
+ :title "ONR Executive Boot Camp"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-marcel-desoleil"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "2 credit, Trash the top two cards stored in R&D: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run."
+ :stripped-title "ONR Marcel DeSoleil"
+ :subtype [:onr-sysop]
+ :text "2 [credit], Trash the top two cards stored in R&D: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run."
+ :title "ONR Marcel DeSoleil"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

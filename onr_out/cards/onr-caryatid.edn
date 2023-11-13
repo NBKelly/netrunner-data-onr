@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-caryatid"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditEnd the run.  When you rez Caryatid, you may pay 1 credit, above the rez cost, to make it a code gate instead of a wall."
+ :stripped-title "ONR Caryatid"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. \nWhen you rez Caryatid, you may pay 1 [credit], above the rez cost, to make it a code gate instead of a wall."
+ :title "ONR Caryatid"
+ :type :ice
+ :uniqueness false}

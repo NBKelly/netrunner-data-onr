@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-bizarre-encryption-scheme"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs."
+ :stripped-title "ONR Bizarre Encryption Scheme"
+ :text "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs."
+ :title "ONR Bizarre Encryption Scheme"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

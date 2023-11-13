@@ -1,0 +1,14 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-imperial-guard"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditTrash a program. S creditEnd the run. If Runner has used a noisy icebreaker during this run, the cost to rez Imperial Guard is reduced by 5 credit."
+ :stripped-title "ONR Imperial Guard"
+ :subtype [:onr-sentry :onr-killer :onr-sleepy]
+ :text "S [credit]Trash a program.\nS [credit]End the run.\nIf Runner has used a noisy icebreaker during this run, the cost to rez Imperial Guard is reduced by 5 [credit]."
+ :title "ONR Imperial Guard"
+ :type :ice
+ :uniqueness false}

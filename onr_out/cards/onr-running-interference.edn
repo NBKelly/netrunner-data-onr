@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-running-interference"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run. During that run, the Corp must pay X credit, in addition to the normal cost, to rez each piece of ice, where X is the rez cost of that piece of ice. Playing a double prep costs two consecutive actions this turn instead of one."
+ :stripped-title "ONR Running Interference"
+ :subtype [:onr-double]
+ :text "Make a run. During that run, the Corp must pay X [credit], in addition to the normal cost, to rez each piece of ice, where X is the rez cost of that piece of ice.\nPlaying a double prep costs two consecutive actions this turn instead of one."
+ :title "ONR Running Interference"
+ :type :event
+ :uniqueness false}

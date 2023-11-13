@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-mazer"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR Mazer"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run."
+ :title "ONR Mazer"
+ :type :ice
+ :uniqueness false}

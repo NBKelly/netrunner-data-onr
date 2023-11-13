@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-mystery-box"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "0 credit: Show the top five cards of your stack to the Corp. If any of those cards are programs, trash Mystery Box and then install one of those programs, at no cost. Shuffle your stack afterwards. Use this ability only during a run and only once each run."
+ :stripped-title "ONR Mystery Box"
+ :text "0 [credit]: Show the top five cards of your stack to the Corp. If any of those cards are programs, trash Mystery Box and then install one of those programs, at no cost. Shuffle your stack afterwards. Use this ability only during a run and only once each run."
+ :title "ONR Mystery Box"
+ :type :program
+ :uniqueness false}

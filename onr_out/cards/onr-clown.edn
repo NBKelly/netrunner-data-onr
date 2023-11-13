@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-clown"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "All ice is encountered with its strength reduced by 1."
+ :stripped-title "ONR Clown"
+ :text "All ice is encountered with its strength reduced by 1."
+ :title "ONR Clown"
+ :type :program
+ :uniqueness false}

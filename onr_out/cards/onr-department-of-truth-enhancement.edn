@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-department-of-truth-enhancement"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Put 3 credit from the bank on Department of Truth Enhancement. A: Take all the bits from Department of Truth Enhancement."
+ :stripped-title "ONR Department of Truth Enhancement"
+ :subtype [:onr-gray-ops]
+ :text "A: Put 3 [credit] from the bank on Department of Truth Enhancement.\nA: Take all the bits from Department of Truth Enhancement."
+ :title "ONR Department of Truth Enhancement"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

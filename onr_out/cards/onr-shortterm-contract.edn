@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-shortterm-contract"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Put 12 credit from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract.  A: Take 2 credit from Short-Term Contract."
+ :stripped-title "ONR ShortTerm Contract"
+ :subtype [:onr-position]
+ :text "Put 12 [credit] from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract. \nA: Take 2 [credit] from Short-Term Contract."
+ :title "ONR Short-Term Contract"
+ :type :resource
+ :uniqueness false}

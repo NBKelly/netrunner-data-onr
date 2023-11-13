@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-test-spin"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Search your stack for a program, and install it, at no cost. Shuffle your stack. If you install a program in this way, make a run. After the run, shuffle the program into your stack, unless it is no longer in play, in which case, lose 4 credit plus its installation cost. If this is more than the number of bits in your pool, suffer the difference in meat damage."
+ :stripped-title "ONR Test Spin"
+ :text "Search your stack for a program, and install it, at no cost. Shuffle your stack. If you install a program in this way, make a run. After the run, shuffle the program into your stack, unless it is no longer in play, in which case, lose 4 [credit] plus its installation cost. If this is more than the number of bits in your pool, suffer the difference in meat damage."
+ :title "ONR Test Spin"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-wilson-weeflerunner-apprentice"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Each of your turns, you may choose to gain an action, which you may use only to make a run. You cannot spend more than 3 credit during that run to pay for using icebreakers or increasing your link. Use this ability only once per turn and only during your turn.  T credit: Avoid receiving a tag. T credit: Prevent any amount of meat damage."
+ :stripped-title "ONR Wilson Weeflerunner Apprentice"
+ :text "Each of your turns, you may choose to gain an action, which you may use only to make a run. You cannot spend more than 3 [credit] during that run to pay for using icebreakers or increasing your link. Use this ability only once per turn and only during your turn. \nT [credit]: Avoid receiving a tag.\nT [credit]: Prevent any amount of meat damage."
+ :title "ONR Wilson, Weeflerunner Apprentice"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-remote-facility"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Gain an action during each of your turns."
+ :stripped-title "ONR Remote Facility"
+ :subtype [:onr-asset]
+ :text "Gain an action during each of your turns."
+ :title "ONR Remote Facility"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

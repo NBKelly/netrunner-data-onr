@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-data-sifters"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner trashed any nodes during his or her last turn. Give Runner a tag."
+ :stripped-title "ONR Data Sifters"
+ :text "Play only if Runner trashed any nodes during his or her last turn. Give Runner a tag."
+ :title "ONR Data Sifters"
+ :type :operation
+ :uniqueness false}

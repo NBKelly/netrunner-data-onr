@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :onr-corp
+ :id "onr-friend-corp"
+ :influence-limit nil
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-title "ONR FRIEND Corp: Virtue Distilled"
+ :subtype [:megacorp]
+ :title "ONR FRIEND Corp: Virtue Distilled"
+ :type :identity
+ :uniqueness false}

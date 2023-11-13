@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-paris-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Put 3 credit from the bank on Paris City Grid when you rez it. Use these bits only to pay for traces made during runs on this fort. If you use any of these bits, replace them at the start of your next turn.  Rez a region when you install it.  Install a region only if you can pay to rez it.  Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR Paris City Grid"
+ :subtype [:onr-region]
+ :text "Put 3 [credit] from the bank on Paris City Grid when you rez it. Use these bits only to pay for traces made during runs on this fort. If you use any of these bits, replace them at the start of your next turn. \nRez a region when you install it. \nInstall a region only if you can pay to rez it. \nOnly one region may be installed in each fort. Trash older ones."
+ :title "ONR Paris City Grid"
+ :trash-cost 6
+ :type :upgrade
+ :uniqueness false}

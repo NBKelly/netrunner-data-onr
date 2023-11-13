@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-floating-runner-bbs"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 1 credit at the start of each of your turns."
+ :stripped-title "ONR Floating Runner BBS"
+ :subtype [:onr-bbs :onr-position]
+ :text "Gain 1 [credit] at the start of each of your turns."
+ :title "ONR Floating Runner BBS"
+ :type :resource
+ :uniqueness false}

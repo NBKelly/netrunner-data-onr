@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-bakdoor-tm"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :stripped-text "0 credit: Base link 3. 2 credit: +1 link. Use only one base link card for each trace attempt made against you."
+ :stripped-title "ONR Bakdoor TM"
+ :subtype [:onr-base-link]
+ :text "0 [credit]: Base link 3. 2 [credit]: +1 link. Use only one base link card for each trace attempt made against you."
+ :title "ONR Bakdoor [TM]"
+ :type :program
+ :uniqueness false}

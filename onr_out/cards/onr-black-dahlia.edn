@@ -1,0 +1,15 @@
+{:cost 10
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-black-dahlia"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 5
+ :stripped-text "2 credit: Break sentry subroutine. 2 credit: +1 strength."
+ :stripped-title "ONR Black Dahlia"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "2 [credit]: Break sentry subroutine. 2 [credit]: +1 strength."
+ :title "ONR Black Dahlia"
+ :type :program
+ :uniqueness false}

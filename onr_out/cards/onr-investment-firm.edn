@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-investment-firm"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Take 1 credit from Investment Firm, if it has any bits, at the start of each of your turns. Whenever 1 credit or more bits are added to your pool, you may put 2 credit from the bank on Investment Firm for each 1 credit you choose not to add to your pool. Effects that give you bits at the start of your turn cannot be used this way."
+ :stripped-title "ONR Investment Firm"
+ :subtype [:onr-transactions]
+ :text "Take 1 [credit] from Investment Firm, if it has any bits, at the start of each of your turns. Whenever 1 [credit] or more bits are added to your pool, you may put 2 [credit] from the bank on Investment Firm for each 1 [credit] you choose not to add to your pool. Effects that give you bits at the start of your turn cannot be used this way."
+ :title "ONR Investment Firm"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

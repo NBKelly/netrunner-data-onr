@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-pi-in-the-face"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "S creditEnd the run."
+ :stripped-title "ONR π in the Face"
+ :subtype [:onr-sentry :onr-deckrash]
+ :text "S [credit]End the run."
+ :title "ONR π in the 'Face"
+ :type :ice
+ :uniqueness false}

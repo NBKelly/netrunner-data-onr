@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-manhunt"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Play only if Runner attempted a run during his or her last turn.  Trace 6-If trace is successful, give Runner one tag for each point by which your trace exceeded his or her link."
+ :stripped-title "ONR Manhunt"
+ :subtype [:onr-gray-ops]
+ :text "Play only if Runner attempted a run during his or her last turn. \nTrace 6-If trace is successful, give Runner one tag for each point by which your trace exceeded his or her link."
+ :title "ONR Manhunt"
+ :type :operation
+ :uniqueness false}

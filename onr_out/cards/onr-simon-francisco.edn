@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-simon-francisco"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Install Simon Francisco only in R&D or HQ.  During a run in which Simon is accessed, Runner  accesses one less card stored in this fort."
+ :stripped-title "ONR Simon Francisco"
+ :subtype [:onr-sysop]
+ :text "Install Simon Francisco only in R&D or HQ. \nDuring a run in which Simon is accessed, Runner  accesses one less card stored in this fort."
+ :title "ONR Simon Francisco"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

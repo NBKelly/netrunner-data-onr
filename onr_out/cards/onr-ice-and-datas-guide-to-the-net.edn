@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-ice-and-datas-guide-to-the-net"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Expose the outermost ice of each data fort."
+ :stripped-title "ONR Ice and Datas Guide to the Net"
+ :text "Expose the outermost ice of each data fort."
+ :title "ONR Ice and Data's Guide to the Net"
+ :type :event
+ :uniqueness false}

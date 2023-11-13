@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-syd-meyer-superstores"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "A: Trash a rezzed piece of ice. Gain 4 credit."
+ :stripped-title "ONR Syd Meyer Superstores"
+ :subtype [:onr-asset]
+ :text "A: Trash a rezzed piece of ice. Gain 4 [credit]."
+ :title "ONR Syd Meyer Superstores"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

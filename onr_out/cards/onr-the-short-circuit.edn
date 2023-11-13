@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-the-short-circuit"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "A, 1 credit: Search your stack for a program. Show that program to the Corp, and then bring it into your hand. Reshuffle your stack afterwards."
+ :stripped-title "ONR The Short Circuit"
+ :subtype [:onr-bbs]
+ :text "A, 1 [credit]: Search your stack for a program. Show that program to the Corp, and then bring it into your hand. Reshuffle your stack afterwards."
+ :title "ONR The Short Circuit"
+ :type :resource
+ :uniqueness false}

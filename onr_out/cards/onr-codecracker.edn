@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-codecracker"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "0 credit: Break code gate subroutine. 1 credit: +1 strength."
+ :stripped-title "ONR Codecracker"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break code gate subroutine. 1 [credit]: +1 strength."
+ :title "ONR Codecracker"
+ :type :program
+ :uniqueness false}

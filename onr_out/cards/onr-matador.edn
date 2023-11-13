@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-matador"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "1 credit: Break sentry subroutine.  3 credit: +5 strength"
+ :stripped-title "ONR Matador"
+ :subtype [:onr-icebreaker :onr-killer]
+ :text "1 [credit]: Break sentry subroutine. \n3 [credit]: +5 strength"
+ :title "ONR Matador"
+ :type :program
+ :uniqueness false}

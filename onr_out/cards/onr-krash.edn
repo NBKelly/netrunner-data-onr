@@ -1,0 +1,15 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-krash"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "2 credit: Break ice subroutine.  2 credit: +1 strength."
+ :stripped-title "ONR Krash"
+ :subtype [:onr-icebreaker]
+ :text "2 [credit]: Break ice subroutine. \n2 [credit]: +1 strength."
+ :title "ONR Krash"
+ :type :program
+ :uniqueness false}

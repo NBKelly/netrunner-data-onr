@@ -1,0 +1,14 @@
+{:cost 11
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-cerberus"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :stripped-text "S creditDo 3 Net damage.  S creditTrace 5-If trace is successful, give Runner a Cerberus counter. Each Cerberus counter does 2 Net damage at the start of each run. Runner may remove a Cerberus counter by taking an action to spend 4 credit.  S creditEnd the run."
+ :stripped-title "ONR Cerberus"
+ :subtype [:onr-sentry :onr-black-ice :onr-ap :onr-hellhound]
+ :text "S [credit]Do 3 Net damage. \nS [credit]Trace 5-If trace is successful, give Runner a Cerberus counter. Each Cerberus counter does 2 Net damage at the start of each run. Runner may remove a Cerberus counter by taking an action to spend 4 [credit]. \nS [credit]End the run."
+ :title "ONR Cerberus"
+ :type :ice
+ :uniqueness false}

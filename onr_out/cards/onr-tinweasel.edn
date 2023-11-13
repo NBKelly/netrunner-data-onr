@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-tinweasel"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "0 credit: Break code gate subroutine."
+ :stripped-title "ONR Tinweasel"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break code gate subroutine."
+ :title "ONR Tinweasel"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-replicator"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "0 credit: Break ice subroutine that traces.  1 credit: +1 strength"
+ :stripped-title "ONR Replicator"
+ :subtype [:onr-icebreaker]
+ :text "0 [credit]: Break ice subroutine that traces. \n1 [credit]: +1 strength"
+ :title "ONR Replicator"
+ :type :program
+ :uniqueness false}

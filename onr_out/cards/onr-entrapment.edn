@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-entrapment"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditIf you pay 2 credit, Runner is now encountering the outermost piece of rezzed ice on a data fort of your choice, instead of passing Entrapment. The run is now considered to be a run on that data fort. If there is no rezzed ice on that fort, Runner is considered to have passed the last piece of ice on that fort."
+ :stripped-title "ONR Entrapment"
+ :subtype [:onr-code-gate :onr-deflector]
+ :text "S [credit]If you pay 2 [credit], Runner is now encountering the outermost piece of rezzed ice on a data fort of your choice, instead of passing Entrapment. The run is now considered to be a run on that data fort. If there is no rezzed ice on that fort, Runner is considered to have passed the last piece of ice on that fort."
+ :title "ONR Entrapment"
+ :type :ice
+ :uniqueness false}

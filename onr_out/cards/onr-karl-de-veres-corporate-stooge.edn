@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-karl-de-veres-corporate-stooge"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 1 credit each time you make a successful run.  Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :stripped-title "ONR Karl de Veres Corporate Stooge"
+ :subtype [:onr-connection :onr-unique]
+ :text "Gain 1 [credit] each time you make a successful run. \nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one."
+ :title "ONR Karl de Veres, Corporate Stooge"
+ :type :resource
+ :uniqueness false}

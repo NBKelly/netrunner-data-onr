@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-selfmodifying-code"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :stripped-text "T credit: Search your stack for a program and install that program, if you can. Shuffle your stack afterwards. Use this ability only during a run."
+ :stripped-title "ONR SelfModifying Code"
+ :text "T [credit]: Search your stack for a program and install that program, if you can. Shuffle your stack afterwards. Use this ability only during a run."
+ :title "ONR Self-Modifying Code"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-endless-corridor"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :stripped-text "S creditEnd the run. S creditEnd the run."
+ :stripped-title "ONR Endless Corridor"
+ :subtype [:onr-code-gate]
+ :text "S [credit]End the run.\nS [credit]End the run."
+ :title "ONR Endless Corridor"
+ :type :ice
+ :uniqueness false}

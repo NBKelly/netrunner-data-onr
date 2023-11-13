@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-singapore-city-grid"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.  Rez a region when you install it.  Install a region only if you can pay to rez it.  Only one region may be installed in each fort. Trash older ones."
+ :stripped-title "ONR Singapore City Grid"
+ :subtype [:onr-region]
+ :text "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort. \nRez a region when you install it. \nInstall a region only if you can pay to rez it. \nOnly one region may be installed in each fort. Trash older ones."
+ :title "ONR Singapore City Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

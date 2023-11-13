@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-hunt-club-bbs"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Expose up to three installed cards."
+ :stripped-title "ONR Hunt Club BBS"
+ :subtype [:onr-bbs]
+ :text "Expose up to three installed cards."
+ :title "ONR Hunt Club BBS"
+ :type :event
+ :uniqueness false}

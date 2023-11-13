@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-gypsy-tm-schedule-analyzer"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Make a run on R&D. If run is successful, do not access any cards. Instead, reveal cards one at a time from R&D until you reveal an agenda card or there are no cards left in R&D. Store the agenda, if any, in HQ and shuffle the other revealed cards, if any, into R&D."
+ :stripped-title "ONR Gypsy TM Schedule Analyzer"
+ :text "Make a run on R&D. If run is successful, do not access any cards. Instead, reveal cards one at a time from R&D until you reveal an agenda card or there are no cards left in R&D. Store the agenda, if any, in HQ and shuffle the other revealed cards, if any, into R&D."
+ :title "ONR Gypsy [TM] Schedule Analyzer"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 99
+ :faction :onr-corp
+ :id "onr-reinforced-wall"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "S creditEnd the run.  S creditEnd the run."
+ :stripped-title "ONR Reinforced Wall"
+ :subtype [:onr-wall]
+ :text "S [credit]End the run. \nS [credit]End the run."
+ :title "ONR Reinforced Wall"
+ :type :ice
+ :uniqueness false}

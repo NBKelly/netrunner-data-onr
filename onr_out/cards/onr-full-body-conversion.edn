@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 99
+ :faction :onr-runner
+ :id "onr-full-body-conversion"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Prevents all meat damage.  For each 1 credit the Corp pays when meat damage is done, 1 point of meat damage is not prevented by this card."
+ :stripped-title "ONR Full Body Conversion"
+ :subtype [:onr-cybernetics]
+ :text "Prevents all meat damage. \nFor each 1 [credit] the Corp pays when meat damage is done, 1 point of meat damage is not prevented by this card."
+ :title "ONR Full Body Conversion"
+ :type :hardware
+ :uniqueness false}
