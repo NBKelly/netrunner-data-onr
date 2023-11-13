@@ -210,7 +210,7 @@
   :set-id "system-core-2019"}
  {:card-id "paragon"
   :code "25032"
-  :illustrator "Martin Diego Sádaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 32
   :quantity 2
   :set-id "system-core-2019"}
@@ -414,7 +414,7 @@
  {:card-id "armitage-codebusting"
   :code "25062"
   :flavor "Drudge work, but it pays the bills."
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 62
   :quantity 2
   :set-id "system-core-2019"}
@@ -447,13 +447,13 @@
  {:card-id "seidr-laboratories-destiny-defined"
   :code "25067"
   :flavor "Interweaving the Past and the Future."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 67
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-vitruvius"
   :code "25068"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 68
   :quantity 3
   :set-id "system-core-2019"}
@@ -686,7 +686,7 @@
  {:card-id "hokusai-grid"
   :code "25103"
   :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 103
   :quantity 2
   :set-id "system-core-2019"}
@@ -699,7 +699,7 @@
  {:card-id "spark-agency-worldswide-reach"
   :code "25105"
   :flavor "We're ready to start the fire."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 105
   :quantity 1
   :set-id "system-core-2019"}
@@ -725,7 +725,7 @@
   :set-id "system-core-2019"}
  {:card-id "ghost-branch"
   :code "25109"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 109
   :quantity 1
   :set-id "system-core-2019"}
@@ -792,7 +792,7 @@
  {:card-id "sea-source"
   :code "25119"
   :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 119
   :quantity 2
   :set-id "system-core-2019"}
@@ -817,7 +817,7 @@
  {:card-id "blue-sun-powering-the-future"
   :code "25123"
   :flavor "Unlimited Energy. Reasonable Prices."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 123
   :quantity 1
   :set-id "system-core-2019"}
@@ -836,7 +836,7 @@
   :set-id "system-core-2019"}
  {:card-id "project-atlas"
   :code "25126"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 126
   :quantity 3
   :set-id "system-core-2019"}
@@ -937,7 +937,7 @@
  {:card-id "priority-requisition"
   :code "25141"
   :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 141
   :quantity 2
   :set-id "system-core-2019"}

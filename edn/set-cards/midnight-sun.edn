@@ -1,0 +1,447 @@
+[{:card-id "esa-afontov-eco-insurrectionist"
+  :code "33001"
+  :flavor "Waiting is useless. The crisis is here; pick a side."
+  :illustrator "Benjamin Giletti"
+  :position 1
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "chastushka"
+  :code "33002"
+  :flavor "We're all alike down here\nAndroids are friends we salute\nGive us all a f***ing break\nOl' Jack is the s*** on my boot."
+  :illustrator "Adam S. Doyle"
+  :position 2
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "running-hot"
+  :code "33003"
+  :flavor "We can change the world, if we're willing to be changed in return."
+  :illustrator "Elizaveta Sokolova"
+  :position 3
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "steelskin-scarring"
+  :code "33004"
+  :flavor "Reactive implants reclaim the memories of our fallen comrades. Their sacrifice is our shield."
+  :illustrator "Elliott Birt"
+  :position 4
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ghosttongue"
+  :code "33005"
+  :flavor "Arming the resistance with disarming charm."
+  :illustrator "Martin de Diego Sádaba"
+  :position 5
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "marrow"
+  :code "33006"
+  :illustrator "Martin de Diego Sádaba"
+  :position 6
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "begemot"
+  :code "33007"
+  :flavor "He didn't speak, but I knew exactly what he wanted, and what I had to do."
+  :illustrator "Martin de Diego Sádaba"
+  :position 7
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "avgustina-ivanovskaya"
+  :code "33008"
+  :flavor "\"Sometimes being a union rep calls for action even more... direct.\""
+  :illustrator "Dave Lee"
+  :position 8
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "light-the-fire"
+  :code "33009"
+  :flavor "A single spark is all that it takes to destroy billions of credits... or to burn away the rot that ravages our world."
+  :illustrator "Olie Boldador"
+  :position 9
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "the-twinning"
+  :code "33010"
+  :flavor "All is folding back, ever back; together as one."
+  :illustrator "Adam S. Doyle"
+  :position 10
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "nyusha-sable-sintashta-symphonic-prodigy"
+  :code "33011"
+  :flavor "Flaws hold both beauty and opportunity."
+  :illustrator "Benjamin Giletti"
+  :position 11
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "carpe-diem"
+  :code "33012"
+  :flavor "The best moment to listen is when others are listening to you."
+  :illustrator "Benjamin Giletti"
+  :position 12
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "pinhole-threading"
+  :code "33013"
+  :flavor "Neneciğim would be proud."
+  :illustrator "Bruno Balixa"
+  :position 13
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "pan-weave"
+  :code "33014"
+  :flavor "Skimming credits with the slightest touch."
+  :illustrator "Martin de Diego Sádaba"
+  :position 14
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "virtuoso"
+  :code "33015"
+  :illustrator "Zoe Cohen"
+  :position 15
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "cat-s-cradle"
+  :code "33016"
+  :flavor "I can show you a carpet, a fish, a magical tale..."
+  :illustrator "Bruno Balixa"
+  :position 16
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "cezve"
+  :code "33017"
+  :flavor "The feel of flour-fine coffee, the scent of caramelizing sugar, the gentle heat of the flame. A ritual I never forget."
+  :illustrator "Bruno Balixa"
+  :position 17
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "revolver"
+  :code "33018"
+  :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\"\n–Sundog"
+  :illustrator "Bruno Balixa"
+  :position 18
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "backstitching"
+  :code "33019"
+  :flavor "One step back. Take cover. Two steps forward. Repeat, then secure well."
+  :illustrator "Adam S. Doyle"
+  :position 19
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "no-free-lunch"
+  :code "33020"
+  :flavor "If there's anything to be learned from our android cousins, it's that there's no shortcut to perfection. Consider all your options."
+  :illustrator "Bruno Balixa"
+  :position 20
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "captain-padma-isbister-intrepid-explorer"
+  :code "33021"
+  :flavor "The sea is everything; its breath must remain pure and healthy."
+  :illustrator "Benjamin Giletti"
+  :position 21
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "deep-dive"
+  :code "33022"
+  :illustrator "Cat Shen"
+  :position 22
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "into-the-depths"
+  :code "33023"
+  :illustrator "Kira L. Nguyen"
+  :position 23
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "rigging-up"
+  :code "33024"
+  :flavor "Edie doesn't mind the noise. She's happy just being nearby."
+  :illustrator "Benjamin Giletti"
+  :position 24
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "endurance"
+  :code "33025"
+  :illustrator "Anna Butova"
+  :position 25
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "hyperbaric"
+  :code "33026"
+  :illustrator "Cat Shen"
+  :position 26
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "propeller"
+  :code "33027"
+  :flavor "Within netspace, tangible space can be manipulated as desired, and fluid dynamics rarely factors into ice development."
+  :illustrator "Cat Shen"
+  :position 27
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "daeg-first-net-cat"
+  :code "33028"
+  :flavor "\"That's him at the front, then there's Scout, Jonesy, Parker, Buča, Squee, Boots... you get the idea.\""
+  :illustrator "Cat Shen"
+  :position 28
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "environmental-testing"
+  :code "33029"
+  :flavor "\"Why are we here? No one else is going to do independent testing, that's why.\"\n–Padma Isbister"
+  :illustrator "Anna Butova"
+  :position 29
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "stoneship-chart-room"
+  :code "33030"
+  :flavor "Every ship is a home, and every home needs a heart."
+  :illustrator "Elizaveta Sokolova"
+  :position 30
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "elivagar-bifurcation"
+  :code "33031"
+  :flavor "Ancient paradoxes are children's stories to the greatest minds ever designed."
+  :illustrator "Scott Uminga"
+  :position 31
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "midnight-3-arcology"
+  :code "33032"
+  :flavor "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog"
+  :illustrator "Emilio Rodríguez"
+  :position 32
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "refuge-campaign"
+  :code "33033"
+  :flavor "\"The promise of a new home, safe work and friendly neighbors will draw in tens of thousands of eco-refugees, no matter which corner of the world they are from.\"\n–Thule employee handbook"
+  :illustrator "Kira L. Nguyen"
+  :position 33
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "trieste-model-bioroids"
+  :code "33034"
+  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<strong>Designed by 2019 World Champion Oliver \"Pinsel\" Siccha</strong>"
+  :illustrator "Dimik"
+  :position 34
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "echo"
+  :code "33035"
+  :flavor "End the run. End the run. End the run. End the run."
+  :illustrator "Jakuza"
+  :position 35
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "hakarl-1-0"
+  :code "33036"
+  :illustrator "Jakuza"
+  :position 36
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "wave"
+  :code "33037"
+  :flavor "With networks, growth is exponential."
+  :illustrator "Jakuza"
+  :position 37
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "big-deal"
+  :code "33038"
+  :flavor "<strong>Designed by 2018 North American Champion Sam Suied</strong>"
+  :illustrator "Dimik"
+  :position 38
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "blood-in-the-water"
+  :code "33039"
+  :flavor "Some tests require <strong>specific</strong> conditions."
+  :illustrator "Scott Uminga"
+  :position 39
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "regenesis"
+  :code "33040"
+  :flavor "\"Esteemed guests, by the end of this demonstration you will see that extinction is now only a temporary state of affairs.\"\n–Vientiane Keeling"
+  :illustrator "Anthony Hutchings"
+  :position 40
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "bladderwort"
+  :code "33041"
+  :flavor "Prey and seawater sucked in, all in the space of a millisecond."
+  :illustrator "Jack Reeves"
+  :position 41
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "moon-pool"
+  :code "33042"
+  :flavor "<strong>Designed by the Borealis Playtesters</strong>"
+  :illustrator "Olie Boldador"
+  :position 42
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "anemone"
+  :code "33043"
+  :flavor "Ethereal beauty laced with the most elegant venom."
+  :illustrator "Jack Reeves"
+  :position 43
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "bathynomus"
+  :code "33044"
+  :flavor "Digital refuse is their food, and you should never come between an animal and its food."
+  :illustrator "Jack Reeves"
+  :position 44
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ivik"
+  :code "33045"
+  :flavor "Keep off the grass."
+  :illustrator "Jack Reeves"
+  :position 45
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mitosis"
+  :code "33046"
+  :flavor "One becomes many."
+  :illustrator "Emilio Rodríguez"
+  :position 46
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mavirus"
+  :code "33047"
+  :flavor "Viruses, runners; all are food to them."
+  :illustrator "Jack Reeves"
+  :position 47
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "pravdivost-consulting-political-solutions"
+  :code "33048"
+  :flavor "Political news, fit for public consumption."
+  :illustrator "Emilio Rodríguez"
+  :position 48
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "artificial-cryptocrash"
+  :code "33049"
+  :flavor "The line goes up... until we don't need it to anymore."
+  :illustrator "Wyn Lacabra"
+  :position 49
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "chekist-scion"
+  :code "33050"
+  :flavor "The only thing that changes is the uniform."
+  :illustrator "Dimik"
+  :position 50
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "drago-ivanov"
+  :code "33051"
+  :flavor "\"Tell them Drago would like a word.\"\n<strong>Designed by 2019 European Champion Aaryn \"Drago\" Byrne</strong>"
+  :illustrator "Dimik"
+  :position 51
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ubiquitous-vig"
+  :code "33052"
+  :flavor "They say they'll only take a handful, but oh what big hands they have!"
+  :illustrator "Adam S. Doyle"
+  :position 52
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mestnichestvo"
+  :code "33053"
+  :flavor "Names of old carry little weight today, their legacies broken and swept away. Now, we are the rulers of truth."
+  :illustrator "BalanceSheet"
+  :position 53
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "vasilisa"
+  :code "33054"
+  :flavor "No task the witch set would ever be too great, for Vasilisa had her mother's blessing."
+  :illustrator "BalanceSheet"
+  :position 54
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "backroom-machinations"
+  :code "33055"
+  :flavor "\"Recording devices at the door, please!\""
+  :illustrator "Olie Boldador"
+  :position 55
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "vladisibirsk-city-grid"
+  :code "33056"
+  :flavor "Straddling the banks of the Ob River, this metropolis contains hope for a better tomorrow."
+  :illustrator "Kira L. Nguyen"
+  :position 56
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ob-superheavy-logistics-extract-export-excel"
+  :code "33057"
+  :flavor "Take all that is offered, and more."
+  :illustrator "Vitalii Ostaschenko"
+  :position 57
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "azef-protocol"
+  :code "33058"
+  :flavor "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\"\n–Yakov Avdakov"
+  :illustrator "Benjamin Giletti"
+  :position 58
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "svyatogor-excavator"
+  :code "33059"
+  :flavor "It doesn't matter how long you've owned the land, you'd better hope there's nothing valuable beneath."
+  :illustrator "Vitalii Ostaschenko"
+  :position 59
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "envelopment"
+  :code "33060"
+  :illustrator "Scott Uminga"
+  :position 60
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "maskirovka"
+  :code "33061"
+  :flavor "Confound the runner so that they cannot see our true intent."
+  :illustrator "Scott Uminga"
+  :position 61
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "stavka"
+  :code "33062"
+  :flavor "Centuries of military tactics compressed into a single entity."
+  :illustrator "Scott Uminga"
+  :position 62
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "extract"
+  :code "33063"
+  :flavor "Leave nothing of value behind."
+  :illustrator "Vitalii Ostaschenko"
+  :position 63
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mutually-assured-destruction"
+  :code "33064"
+  :flavor "<strong>Designed by 2020 Asia-Pacific Champion Eric Keilback</strong>"
+  :illustrator "Dimik"
+  :position 64
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "trust-operation"
+  :code "33065"
+  :flavor "Identify. Contact. Entrap. Counterintelligence never changes."
+  :illustrator "Olie Boldador"
+  :position 65
+  :quantity 3
+  :set-id "midnight-sun"}]

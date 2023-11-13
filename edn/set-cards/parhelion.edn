@@ -1,0 +1,436 @@
+[{:card-id "finality"
+  :code "33066"
+  :flavor "\"My guilt is never to be doubted.\""
+  :illustrator "Ferenc Patkós"
+  :position 66
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "katorga-breakout"
+  :code "33067"
+  :flavor "\"I promised I would come back for you, no matter the cost.\"\n—Esâ Afontov"
+  :illustrator "Olie Boldador"
+  :position 67
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "raindrops-cut-stone"
+  :code "33068"
+  :flavor "With every step closer to their prize, Bankhar felt the ice slicing white-hot through their synapses. It was worth it."
+  :illustrator "Scott Uminga"
+  :position 68
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "time-bomb"
+  :code "33069"
+  :illustrator "Anna Butova"
+  :position 69
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "abaasy"
+  :code "33070"
+  :flavor "Every piece of ice I see, I see Abaasy."
+  :illustrator "Bruno Balixa"
+  :position 70
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hush"
+  :code "33071"
+  :flavor "Quiet. I need to focus."
+  :illustrator "Scott Uminga"
+  :position 71
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nga"
+  :code "33072"
+  :flavor "Relinquish your foolish notions of control."
+  :illustrator "Bruno Balixa"
+  :position 72
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "num"
+  :code "33073"
+  :flavor "I give you understanding, that you might control that which would threaten you."
+  :illustrator "Bruno Balixa"
+  :position 73
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "tsakhia-bankhar-gantulga"
+  :code "33074"
+  :flavor "\"With these two by my side, Iʼve sworn never to fail. I can bear any pain so long as it has meaning.\""
+  :illustrator "Dimik"
+  :position 74
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "concerto"
+  :code "33075"
+  :flavor "\"Roslavetsʼ Concerto No. 2. Breakneck, brilliant, enchanting. The perfect finale for Virtuoso.\""
+  :illustrator "Olie Boldador"
+  :position 75
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "reprise"
+  :code "33076"
+  :flavor "\"I may bow like Iʼve accomplished the impossible, but the truth is itʼs not that hard.\"\n"
+  :illustrator "Ferenc Patkós"
+  :position 76
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "poison-vial"
+  :code "33077"
+  :flavor "The poison cuts deeper than the blade."
+  :illustrator "Ed Mattinian"
+  :position 77
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "wake-implant-v2a-jrj"
+  :code "33078"
+  :illustrator "Zefanya Langkan Maega"
+  :position 78
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "zenit-chip-jz-2mj"
+  :code "33079"
+  :flavor "\"Zenit implants help you focus on the important things.\"\n—Ampère holo-billboard"
+  :illustrator "Martin de Diego Sádaba"
+  :position 79
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "tremolo"
+  :code "33080"
+  :flavor "A repeated note, the alternation of fingers, the rhythm of stitches... the resulting intensity is always the same."
+  :illustrator "Bruno Balixa"
+  :position 80
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "tunnel-vision"
+  :code "33081"
+  :flavor "\"How could I pick a favorite? Theyʼre all good dogs.\"\n—Nyusha \"Sable\" Sintashta"
+  :illustrator "Anthony Hutchings"
+  :position 81
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "asmund-pudlat"
+  :code "33082"
+  :illustrator "Marlon Ruiz"
+  :position 82
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "info-bounty"
+  :code "33083"
+  :flavor "It was a relief, really, deciding on that one place in the world to definitely never visit again."
+  :illustrator "Elliott Birt"
+  :position 83
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "spark-of-inspiration"
+  :code "33084"
+  :flavor "\"The best ideas float to the top, if you give them time.\"\n—Ar<h1m3d3s  JAR"
+  :illustrator "Oliver Morit"
+  :position 84
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hippocampic-mechanocytes"
+  :code "33085"
+  :flavor "To outsiders, it is ironic that no one in Ampère can remember who invented these little fellows. Within the company, this is considered normal."
+  :illustrator "Ed Mattinian"
+  :position 85
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "basilar-synthgland-2kvj"
+  :code "33086"
+  :flavor "It isnʼt as enjoyable as coffee, but the effects are magnitudes stronger."
+  :illustrator "Martin de Diego Sádaba"
+  :position 86
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "flux-capacitor"
+  :code "33087"
+  :flavor "\"Are you telling me itʼs pronounced ʼgigawattsʼ?\"\n—Captain Padma Isbister"
+  :illustrator "Ed Mattinian"
+  :position 87
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nanuq"
+  :code "33088"
+  :flavor "Nanuq never leaves, but instead waits, invisible, for the next hunt."
+  :illustrator "Adam S. Doyle"
+  :position 88
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "orca"
+  :code "33089"
+  :illustrator "Jakuza"
+  :position 89
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "k2cp-turbine"
+  :code "33090"
+  :flavor "Every rig needs a power source. How about one with blades moving at Mach 2?"
+  :illustrator "Ed Mattinian"
+  :position 90
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "world-tree"
+  :code "33091"
+  :flavor "Few constructs reach the Deep Net, but these old trees have stretched their roots further than once thought possible."
+  :illustrator "Liiga Smilshkalne"
+  :position 91
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "dr-nuka-vrolyck"
+  :code "33092"
+  :flavor "\"There is another world under the waves, vanishing as we speak. I want to map it before itʼs gone.\""
+  :illustrator "Dave Lee"
+  :position 92
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nova-initiumia-catalyst-impetus"
+  :code "33093"
+  :flavor "I found my twin hidden away on Luna. Now we will never be apart."
+  :illustrator "Ferenc Patkós"
+  :position 93
+  :quantity 1
+  :set-id "parhelion"}
+ {:card-id "matryoshka"
+  :code "33094"
+  :flavor "She leads and they all follow.\nAlways there to back up her big sister.\nSheʼs a typical middle child, really.\nJust as brave as his sisters.\nSheʼs little—but fierce.\nLook at the little baby, even she helps!"
+  :illustrator "Ed Mattinian"
+  :position 94
+  :quantity 6
+  :set-id "parhelion"}
+ {:card-id "thule-subsea-safety-below"
+  :code "33095"
+  :flavor "Join us. Safe, away from the crisis."
+  :illustrator "Kira L. Nguyen"
+  :position 95
+  :quantity 1
+  :set-id "parhelion"}
+ {:card-id "ontological-dependence"
+  :code "33096"
+  :flavor "Bend the minds of those below you such that they will always need you, and loyalty is assured forever."
+  :illustrator "Oliver Morit"
+  :position 96
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nightmare-archive"
+  :code "33097"
+  :flavor "Everyone remembers the first tape they archive."
+  :illustrator "Kira L. Nguyen"
+  :position 97
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "bloop"
+  :code "33098"
+  :flavor "As one, every monitoring device on the ship reverberated, emitting a noise so primordial, so titanic, it shook Padma to her core.\nDaeg hissed."
+  :illustrator "Jakuza"
+  :position 98
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "pulse"
+  :code "33099"
+  :flavor "The sound welled up from the deep: throbbing, thumping, growing with every passing beat of their hearts."
+  :illustrator "Jakuza"
+  :position 99
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "distributed-tracing"
+  :code "33100"
+  :flavor "Sometimes, they want you to know that they know."
+  :illustrator "Kira L. Nguyen"
+  :position 100
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hypoxia"
+  :code "33101"
+  :flavor "You think thatʼs air youʼre breathing now?"
+  :illustrator "Ed Mattinian"
+  :position 101
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "djupstad-grid"
+  :code "33102"
+  :flavor "\"Itʼs technically above our pay grade, but we know where our weapons come from. In Djupstad they wait, deep in thought, until we call upon them.\"\n—Aron Hendrik"
+  :illustrator "Kira L. Nguyen"
+  :position 102
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "mr-hendrik"
+  :code "33103"
+  :flavor "Few employees know he exists. Even fewer know he is actually <em>three</em>."
+  :illustrator "Ferenc Patkós"
+  :position 103
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "issuaq-adaptics-sustaining-diversity"
+  :code "33104"
+  :flavor "Bringing Mother Nature up to speed."
+  :illustrator "Emilio Rodríguez"
+  :position 104
+  :quantity 1
+  :set-id "parhelion"}
+ {:card-id "hybrid-release"
+  :code "33105"
+  :flavor "\"By disabling their bodiesʼ ability to create a variety of necessary enzymes, weʼve ensured their loyalty to us. If they donʼt return for supplements every month, they die; simple as that.\"\n—Dr. Vientiane Keeling"
+  :illustrator "Marlon Ruiz"
+  :position 105
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "dr-vientiane-keeling"
+  :code "33106"
+  :flavor "Her numbers never lie, but she doesnʼt write the words that accompany them."
+  :illustrator "Dimik"
+  :position 106
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "reaper-function"
+  :code "33107"
+  :flavor "There is an elegance to its blade and stride, but with it comes a screaming whirlwind."
+  :illustrator "Adam S. Doyle"
+  :position 107
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hafrun"
+  :code "33108"
+  :flavor "Hafrún has seen generations of the Net. Now there are whispers that something from the deep is disquieting it."
+  :illustrator "Jack Reeves"
+  :position 108
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "vampyronassa"
+  :code "33109"
+  :flavor "\"Matt, thereʼs something big heading your way. Matt, are you hearing me? Matt? Oh no.\"\n—Moth"
+  :illustrator "Ed Mattinian"
+  :position 109
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "simulation-reset"
+  :code "33110"
+  :flavor "\"The worst part about failed experiments? The queue for the incinerator.\"\n—Overheard in the Issuaq Adaptics cafeteria."
+  :illustrator "Anthony Hutchings"
+  :position 110
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nanisivik-grid"
+  :code "33111"
+  :flavor "Here, at the edge of the habitable world, they extract the future from the bones of the past."
+  :illustrator "Emilio Rodríguez"
+  :position 111
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "freedom-of-information"
+  :code "33112"
+  :flavor "\"An FOI request? No problem! Please fill out all details. Youʼd like to make an anonymous request? Iʼm sorry: absolutely not.\""
+  :illustrator "Zefanya Langkan Maega"
+  :position 112
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "post-truth-dividend"
+  :code "33113"
+  :flavor "\"Hey kiddo, remember what Daddy says about lying?\"\n\"ʼOnly when you can get away with it!ʼ\""
+  :illustrator "Wyn Lacabra"
+  :position 113
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "gaslight"
+  :code "33114"
+  :flavor "Donʼt you remember?"
+  :illustrator "Olie Boldador"
+  :position 114
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "vera-ivanovna-shuyskaya"
+  :code "33115"
+  :flavor "\"People donʼt think in facts, they think in stories. We just tidy up that information to hasten the process.\""
+  :illustrator "Mauricio Herrera"
+  :position 115
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "klevetnik"
+  :code "33116"
+  :flavor "SCANNING... ASSEMBLING INSULT!"
+  :illustrator "Bruno Balixa"
+  :position 116
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "unsmiling-tsarevna"
+  :code "33117"
+  :illustrator "BalanceSheet"
+  :position 117
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nonequivalent-exchange"
+  :code "33118"
+  :flavor "\"Oh, the text on these is endless. Just tap accept and you can read it later if you want.\""
+  :illustrator "Dimik"
+  :position 118
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "shipment-from-vladisibirsk"
+  :code "33119"
+  :flavor "\"Donʼt look at the crates.\""
+  :illustrator "Ferenc Patkós"
+  :position 119
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "regulatory-capture"
+  :code "33120"
+  :flavor "This was a criminal offense. Now itʼs an option for business."
+  :illustrator "Wyn Lacabra"
+  :position 120
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "kimberlite-field"
+  :code "33121"
+  :flavor "\"Weylandʼs synthetic diamonds cost less than naturals... so what are they really digging for here?\"\n—Captain Padma Isbister"
+  :illustrator "Vitalii Ostaschenko"
+  :position 121
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hostile-architecture"
+  :code "33122"
+  :flavor "When implemented at this sort of scale, these practices can keep away far more than a few unwanted citizens."
+  :illustrator "Dimik"
+  :position 122
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "superdeep-borehole"
+  :code "33123"
+  :flavor "\"They just keep drilling down, no matter what...\"\n—Valentina Ferreira"
+  :illustrator "Vitalii Ostaschenko"
+  :position 123
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "anvil"
+  :code "33124"
+  :flavor "Waiting for the next blow to land."
+  :illustrator "Scott Uminga"
+  :position 124
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "end-of-the-line"
+  :code "33125"
+  :flavor "Under northern skies Sundog had lived all his life, and under them he would die."
+  :illustrator "Olie Boldador"
+  :position 125
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "yakov-erikovich-avdakov"
+  :code "33126"
+  :flavor "They say the Butcher of Siberia keeps the best cuts for himself."
+  :illustrator "Dave Lee"
+  :position 126
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "zato-city-grid"
+  :code "33127"
+  :flavor "Getting in is hard. Getting out requires a death certificate."
+  :illustrator "Vitalii Ostaschenko"
+  :position 127
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "ampere-cybernetics-for-anyone"
+  :code "33128"
+  :flavor "Affordable, Effective, and Uncompromising."
+  :illustrator "Emilio Rodríguez"
+  :position 128
+  :quantity 1
+  :set-id "parhelion"}]

@@ -2,6 +2,9 @@
   (:require
    [clojure.string :as str]))
 
+(defn map-kv [f coll]
+  (reduce-kv (fn [m k v] (assoc m k (f v))) (empty coll) coll))
+
 (defmacro vals->vec
   ([coll]
    `(into [] (vals ~coll)))
@@ -35,3 +38,15 @@
 (defn prune-null-fields
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
+
+(defn quantify [n s]
+  (if (or (= "1" n)
+          (= "-1" n))
+    (str n " " s)
+    (str n " " s "s")))
+
+(defn spend-vs-pay [card]
+  (when (seq (:text card))
+    (->> (:text card)
+         (str/lower-case)
+         (re-find #"spend.*?\[click].*?\[credit]"))))

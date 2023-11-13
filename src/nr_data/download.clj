@@ -3,7 +3,7 @@
    [cheshire.core :as json]
    [clojure.java.io :as io]
    [clojure.string :as str]
-   [nr-data.scratch :refer [add-stripped-card-text]]
+   [nr-data.text :refer [add-stripped-card-text]]
    [nr-data.utils :refer [cards->map slugify]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
@@ -32,13 +32,13 @@
 (defn read-card-dir
   [base-path]
   (->> (str base-path "/pack")
-       io/file
-       file-seq
+       (io/file)
+       (file-seq)
        (filter #(and (.isFile %)
                      (str/ends-with? % ".json")))
        (map read-json-file)
-       flatten
-       parse-response))
+       (flatten)
+       (parse-response)))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"
@@ -186,19 +186,20 @@
   [set-cards-map mwl]
   (-> mwl
       (assoc :cards (reduce-kv
-                      (fn [m k v]
-                        (let [c (name k)
+                      (fn [m code penalty]
+                        (let [c (name code)
                               s (get set-cards-map c)]
                           (assoc m
                                  (:card-id s)
                                  (reduce-kv
                                    (fn [m_ k_ v_]
-                                     (assoc m_ (-> k_ slugify keyword) v_))
+                                     (assoc m_ (-> k_ name slugify keyword) v_))
                                    {}
-                                   v))))
+                                   penalty))))
                       {}
                       (:cards mwl))
-                 :id (-> mwl :name slugify))
+                 :id (-> mwl :name slugify)
+                 :format (or (:format mwl) "standard"))
       (dissoc :code)))
 
 (defn sort-and-group-set-cards
@@ -296,7 +297,7 @@
                       (partial read-local-data localpath)
                       download-nrdb-data)
 
-        ; cycles (cycle-handler line-ending download-fn)
+        cycles (cycle-handler line-ending download-fn)
 
         sets (set-handler line-ending download-fn)
 
@@ -313,7 +314,7 @@
 
         _set-cards (set-cards-handler line-ending raw-set-cards)
 
-        ; mwls (mwl-handler line-ending download-fn raw-set-cards)
+        mwls (mwl-handler line-ending download-fn raw-set-cards)
         ]
 
     (println "Done!")))

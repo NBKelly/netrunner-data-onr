@@ -15,7 +15,7 @@
  {:card-id "carnivore"
   :code "30003"
   :flavor "\"It hungers to sink teeth into problems.\"\n—Loup"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 3
   :quantity 3
   :set-id "system-gateway"}
@@ -92,7 +92,7 @@
  {:card-id "pennyshaver"
   :code "30014"
   :flavor "\"Braggarts chase big heists. Patience enriches skimming fractions of a credit at a time.\" —Zahya"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 14
   :quantity 3
   :set-id "system-gateway"}
@@ -140,7 +140,7 @@
   :set-id "system-gateway"}
  {:card-id "vrcation"
   :code "30021"
-  :flavor "“You know there's no water in the Sea of Tranquility, right?”\n“That doesn't mean there's no beach.”"
+  :flavor "\"You know there's no water in the Sea of Tranquility, right?\"\n\"That doesn't mean there's no beach.\""
   :illustrator "Benjamin Giletti"
   :position 21
   :quantity 3
@@ -155,7 +155,7 @@
  {:card-id "pantograph"
   :code "30023"
   :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n—Tāo"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 23
   :quantity 3
   :set-id "system-gateway"}
@@ -239,7 +239,7 @@
  {:card-id "haas-bioroid-precision-design"
   :code "30035"
   :flavor "Not an Atom Misplaced."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 35
   :quantity 1
   :set-id "system-gateway"}
@@ -259,7 +259,7 @@
   :set-id "system-gateway"}
  {:card-id "ansel-1-0"
   :code "30038"
-  :flavor "<champion>Designed by 2018 European Champion Patrick Gower</champion>"
+  :flavor "<strong>Designed by 2018 European Champion Patrick Gower</strong>"
   :illustrator "Galen Dara"
   :position 38
   :quantity 3
@@ -295,7 +295,7 @@
  {:card-id "jinteki-restoring-humanity"
   :code "30043"
   :flavor "An End to Suffering."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 43
   :quantity 1
   :set-id "system-gateway"}
@@ -351,14 +351,14 @@
  {:card-id "nbn-reality-plus"
   :code "30051"
   :flavor "Why Settle for Real?"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 51
   :quantity 1
   :set-id "system-gateway"}
  {:card-id "tomorrow-s-headline"
   :code "30052"
   :flavor "We don't find news. We make it."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 52
   :quantity 3
   :set-id "system-gateway"}
@@ -407,7 +407,7 @@
  {:card-id "weyland-consortium-built-to-last"
   :code "30059"
   :flavor "Here to Stay."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 59
   :quantity 1
   :set-id "system-gateway"}
@@ -532,7 +532,7 @@
  {:card-id "the-syndicate-profit-over-principle"
   :code "30077"
   :flavor "You work for us. You just don't know it yet."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 77
   :quantity 1
   :set-id "system-gateway"}]

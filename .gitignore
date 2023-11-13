@@ -8,5 +8,9 @@
 .hgignore
 .hg/
 .DS_Store
-raw_data.edn
 .cpcache
+.cache
+*.fossil
+.fslckout
+.rebel_readline_history
+sqlite.db

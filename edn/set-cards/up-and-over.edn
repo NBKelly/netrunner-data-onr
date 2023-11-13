@@ -1,6 +1,6 @@
 [{:card-id "architect"
   :code "06061"
-  :flavor "<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>"
+  :flavor "<strong>Designed by 2012 World Champion Jeremy Zwirn</strong>"
   :illustrator "Samuel R. Shimota"
   :position 61
   :quantity 3
@@ -48,7 +48,7 @@
  {:card-id "blue-sun-powering-the-future"
   :code "06068"
   :flavor "Unlimited Energy. Reasonable Prices."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 68
   :quantity 3
   :set-id "up-and-over"}
@@ -128,7 +128,7 @@
  {:card-id "angel-arena"
   :code "06080"
   :flavor "\"Low gravity sports are wildly popular, so match-fixing has proven wildly profitable.\" -Leela Patel"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 80
   :quantity 3
   :set-id "up-and-over"}]
