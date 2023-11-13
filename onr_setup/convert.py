@@ -162,7 +162,8 @@ def convert_asset(card):
         
     output += "\n :text " + quote(escape_lines(replace_credits(card["text"])))
     output += "\n :title " + quote(pre_title(card["title"]))
-    output += "\n :trash-cost " + str(card["trashcost"])
+    if "trashcost" in card:
+        output += "\n :trash-cost " + str(card["trashcost"])
     output += "\n :type :asset"
     if "subtypes" in card and re.match("Unique", card["subtypes"]):
         output += "\n :uniqueness true}"

@@ -14,3 +14,4 @@
 .fslckout
 .rebel_readline_history
 sqlite.db
+edn/*
