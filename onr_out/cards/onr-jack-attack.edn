@@ -1,14 +1,14 @@
 {:cost 3
  :deck-limit 99
  :faction :onr-corp
- :id "onr-jack-attac"
+ :id "onr-jack-attack"
  :influence-cost 1
  :side :corp
  :strength 3
  :stripped-text "S creditFor the remainder of the run, Runner cannot jack out. S creditTrace 5-If trace is successful, give Runner a tag."
- :stripped-title "ONR Jack Attac"
+ :stripped-title "ONR Jack Attack"
  :subtype [:onr-sentry :onr-ap]
  :text "S [credit]For the remainder of the run, Runner cannot jack out.\nS [credit]Trace 5-If trace is successful, give Runner a tag."
- :title "ONR Jack Attac"
+ :title "ONR Jack Attack"
  :type :ice
  :uniqueness false}

@@ -1150,7 +1150,7 @@
  :position 192
  :quantity 99
  :set-id "onr-base"}
-{:card-id "onr-fair-accompli"
+{:card-id "onr-fait-accompli"
  :code "70193"
  :illustrator "Kevin Taylor"
  :position 193
@@ -1594,7 +1594,7 @@
  :position 266
  :quantity 99
  :set-id "onr-base"}
-{:card-id "onr-jack-attac"
+{:card-id "onr-jack-attack"
  :code "70267"
  :illustrator "Anson Maddocks"
  :position 267

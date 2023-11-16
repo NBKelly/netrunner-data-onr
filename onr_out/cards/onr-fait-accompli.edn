@@ -1,14 +1,14 @@
 {:cost 1
  :deck-limit 99
  :faction :onr-runner
- :id "onr-fair-accompli"
+ :id "onr-fait-accompli"
  :influence-cost 1
  :memory-cost 1
  :side :runner
  :stripped-text "Whenever you make a successful run on a subsidiary data fort, put a Fait counter in that fort. Every two Fait counters in a fort give +1 difficulty to all agendas installed inside that fort. The Corp may remove all Virus counters by forgoing its next three actions."
- :stripped-title "ONR Fair Accompli"
+ :stripped-title "ONR Fait Accompli"
  :subtype [:onr-virus]
  :text "Whenever you make a successful run on a subsidiary data fort, put a Fait counter in that fort. Every two Fait counters in a fort give +1 difficulty to all agendas installed inside that fort.\nThe Corp may remove all Virus counters by forgoing its next three actions."
- :title "ONR Fair Accompli"
+ :title "ONR Fait Accompli"
  :type :program
  :uniqueness false}
