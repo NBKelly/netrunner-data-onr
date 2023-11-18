@@ -1,4 +1,4 @@
-{:cost X
+{:cost 0
  :deck-limit 99
  :faction :onr-corp
  :id "onr-power-grid-overload"
