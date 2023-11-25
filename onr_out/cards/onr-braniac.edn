@@ -5,7 +5,7 @@
  :influence-limit 25
  :minimum-deck-size 45
  :side :runner
- :stripped-title "ONR Braniac: Espionage Enjoyer"
- :title "ONR Braniac: Espionage Enjoyer"
+ :stripped-title "ONR Brainiac: Espionage Enjoyer"
+ :title "ONR Brainiac: Espionage Enjoyer"
  :type :identity
  :uniqueness false}

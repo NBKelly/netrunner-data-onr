@@ -945,4 +945,110 @@
 {:id :onr-double
  :name "Double"}
 {:id :onr-deflector
+ :name "Deflector"}
+{:id :onr-vehicle
+ :name "Vehicle"}
+{:id :onr-base-link
+ :name "Base Link"}
+{:id :onr-transactions
+ :name "Transactions"}
+{:id :onr-daemon
+ :name "Daemon"}
+{:id :onr-icebreaker
+ :name "Icebreaker"}
+{:id :onr-random
+ :name "Random"}
+{:id :onr-asset
+ :name "Asset"}
+{:id :onr-sabotage
+ :name "Sabotage"}
+{:id :onr-deck
+ :name "Deck"}
+{:id :onr-research
+ :name "Research"}
+{:id :onr-sentry
+ :name "Sentry"}
+{:id :onr-flatline
+ :name "Flatline"}
+{:id :onr-bbs
+ :name "BBS"}
+{:id :onr-code-gate
+ :name "Code Gate"}
+{:id :onr-killer
+ :name "Killer"}
+{:id :onr-advertisement
+ :name "Advertisement"}
+{:id :onr-black-ops
+ :name "Black Ops"}
+{:id :onr-ai
+ :name "AI"}
+{:id :onr-virus
+ :name "Virus"}
+{:id :onr-ap
+ :name "AP"}
+{:id :onr-hellbolt
+ :name "Hellbolt"}
+{:id :onr-gray-ops
+ :name "Gray Ops"}
+{:id :onr-connection
+ :name "Connection"}
+{:id :onr-watchdog
+ :name "Watchdog"}
+{:id :onr-black-ice
+ :name "Black Ice"}
+{:id :onr-hellhound
+ :name "Hellhound"}
+{:id :onr-sysop
+ :name "Sysop"}
+{:id :onr-ambush
+ :name "Ambush"}
+{:id :onr-firestarter
+ :name "Firestarter"}
+{:id :onr-stealth
+ :name "Stealth"}
+{:id :onr-zombie
+ :name "Zombie"}
+{:id :onr-chip
+ :name "Chip"}
+{:id :onr-unique
+ :name "Unique"}
+{:id :onr-brainwipe
+ :name "Brainwipe"}
+{:id :onr-region
+ :name "Region"}
+{:id :onr-wall
+ :name "Wall"}
+{:id :onr-cybernetics
+ :name "Cybernetics"}
+{:id :onr-worm
+ :name "Worm"}
+{:id :onr-pit-bull
+ :name "Pit Bull"}
+{:id :onr-bloodhound
+ :name "Bloodhound"}
+{:id :onr-position
+ :name "Position"}
+{:id :onr-noisy
+ :name "Noisy"}
+{:id :onr-detection
+ :name "Detection"}
+{:id :onr-sword
+ :name "Sword"}
+{:id :onr-stun
+ :name "Stun"}
+{:id :onr-knockout
+ :name "Knockout"}
+{:id :onr-deckrash
+ :name "DecKrash"}
+{:id :onr-hidden
+ :name "Hidden"}
+{:id :onr-bad-publicity
+ :name "Bad Publicity"}
+{:id :onr-ice
+ :name "Ice"}
+{:id :onr-sleepy
+ :name "Sleepy"}
+{:id :onr-double
+ :name "Double"}
+{:id :onr-deflector
  :name "Deflector"}]
